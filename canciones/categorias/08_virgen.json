@@ -1,9 +1,19 @@
-{
+﻿{
   "id": "virgen",
   "nombre": "Virgen",
   "orden": 8,
-  "descripcion": "Cantos marianos dedicados a la Virgen María",
-  "icono": "favorite",
-  "color": "#03A9F4",
-  "canciones": []
+  "descripcion": "Cantos a la Virgen María",
+  "icono": "star",
+  "color": "#3F51B5",
+  "canciones": [
+    {
+      "id": "virgen-001",
+      "titulo": "Ave María (Schubert)",
+      "artista": "Franz Schubert",
+      "categoria": "Virgen",
+      "letra": "Ave María,\ngratia plena,\nDominus tecum,\nbenedicta tu in mulieribus,\net benedictus fructus ventris tui, Jesus.\n\nSancta María, Mater Dei,\nora pro nobis peccatoribus,\nnunc et in hora mortis nostrae.\nAmen.",
+      "audio": null,
+      "duracion": 240
+    }
+  ]
 }

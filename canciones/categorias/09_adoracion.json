@@ -1,9 +1,19 @@
-{
+﻿{
   "id": "adoracion",
   "nombre": "Adoración",
   "orden": 9,
-  "descripcion": "Cantos de adoración y alabanza",
-  "icono": "brightness_5",
-  "color": "#FF5722",
-  "canciones": []
+  "descripcion": "Cantos de adoración",
+  "icono": "brightness_high",
+  "color": "#FFC107",
+  "canciones": [
+    {
+      "id": "adoracion-001",
+      "titulo": "Adoramos tu Cruz",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Adoramos tu Cruz, Señor,\ny alabamos tu gloriosa Resurrección,\nporque por el madero de la Cruz,\nvino la alegría al mundo entero.\n\nQue Dios tenga piedad\ny nos bendiga,\ny haga brillar su rostro sobre nosotros.",
+      "audio": null,
+      "duracion": 180
+    }
+  ]
 }

@@ -1,9 +1,19 @@
-{
-  "id": "kyrie_eleison",
-  "nombre": "Kyrie Eleison",
+﻿{
+  "id": "kyrie",
+  "nombre": "Kyrie",
   "orden": 2,
-  "descripcion": "Cantos penitenciales - Señor, ten piedad",
-  "icono": "healing",
+  "descripcion": "Cantos del Kyrie eleison",
+  "icono": "favorite",
   "color": "#9C27B0",
-  "canciones": []
+  "canciones": [
+    {
+      "id": "kyrie-001",
+      "titulo": "Señor, ten piedad",
+      "artista": "Tradicional",
+      "categoria": "Kyrie",
+      "letra": "Señor, ten piedad.\nSeñor, ten piedad.\n\nCristo, ten piedad.\nCristo, ten piedad.\n\nSeñor, ten piedad.\nSeñor, ten piedad.",
+      "audio": null,
+      "duracion": 120
+    }
+  ]
 }

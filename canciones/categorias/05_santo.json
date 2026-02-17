@@ -1,9 +1,19 @@
-{
+﻿{
   "id": "santo",
   "nombre": "Santo",
   "orden": 5,
-  "descripcion": "Cantos del Santo - Sanctus",
+  "descripcion": "Cantos del Santo",
   "icono": "auto_awesome",
-  "color": "#FFD700",
-  "canciones": []
+  "color": "#E91E63",
+  "canciones": [
+    {
+      "id": "santo-001",
+      "titulo": "Santo (Misa Criolla)",
+      "artista": "Ariel Ramírez",
+      "categoria": "Santo",
+      "letra": "Santo, santo, santo,\nSanto es el Señor,\nDios del universo.\n\nLlenos están el cielo y la tierra\nde tu gloria.\n\nHosanna en el cielo.\nBendito el que viene\nen nombre del Señor.\nHosanna en el cielo.",
+      "audio": null,
+      "duracion": 180
+    }
+  ]
 }

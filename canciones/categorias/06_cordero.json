@@ -1,9 +1,19 @@
-{
-  "id": "cordero_de_dios",
-  "nombre": "Cordero de Dios",
+﻿{
+  "id": "cordero",
+  "nombre": "Cordero",
   "orden": 6,
-  "descripcion": "Cantos del Cordero de Dios - Agnus Dei",
+  "descripcion": "Cantos del Cordero de Dios",
   "icono": "pets",
-  "color": "#E91E63",
-  "canciones": []
+  "color": "#795548",
+  "canciones": [
+    {
+      "id": "cordero-001",
+      "titulo": "Cordero de Dios",
+      "artista": "Tradicional",
+      "categoria": "Cordero",
+      "letra": "Cordero de Dios,\nque quitas el pecado del mundo,\nten piedad de nosotros.\n\nCordero de Dios,\nque quitas el pecado del mundo,\nten piedad de nosotros.\n\nCordero de Dios,\nque quitas el pecado del mundo,\ndanos la paz.",
+      "audio": null,
+      "duracion": 120
+    }
+  ]
 }

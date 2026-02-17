@@ -1,9 +1,19 @@
-{
+﻿{
   "id": "comunion",
   "nombre": "Comunión",
   "orden": 7,
-  "descripcion": "Cantos para el momento de la Comunión",
-  "icono": "restaurant",
-  "color": "#2196F3",
-  "canciones": []
+  "descripcion": "Cantos de comunión",
+  "icono": "local_dining",
+  "color": "#00BCD4",
+  "canciones": [
+    {
+      "id": "comunion-001",
+      "titulo": "Pan de Vida",
+      "artista": "Bob Hurd",
+      "categoria": "Comunión",
+      "letra": "Pan de Vida, cuerpo del Señor,\nsanta copa, sangre de tu Salvador.\n\nVengan todos a la mesa del altar,\nel Señor nos llama, vengan a cenar.",
+      "audio": null,
+      "duracion": 200
+    }
+  ]
 }

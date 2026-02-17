@@ -1,9 +1,19 @@
-{
+﻿{
   "id": "ofertorio",
   "nombre": "Ofertorio",
   "orden": 4,
-  "descripcion": "Cantos para la presentación de las ofrendas",
+  "descripcion": "Cantos de ofertorio",
   "icono": "volunteer_activism",
-  "color": "#795548",
-  "canciones": []
+  "color": "#2196F3",
+  "canciones": [
+    {
+      "id": "ofertorio-001",
+      "titulo": "Te ofrecemos, Señor",
+      "artista": "Tradicional",
+      "categoria": "Ofertorio",
+      "letra": "Te ofrecemos, Señor,\nnuestro pan y nuestro vino,\nque tú transformarás\nen tu Cuerpo y en tu Sangre.\n\nTe ofrecemos también\nnuestra pobre vida,\nque renazca por Ti\nen tu Muerte y Resurrección.",
+      "audio": null,
+      "duracion": 150
+    }
+  ]
 }

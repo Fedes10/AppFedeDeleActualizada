@@ -1,9 +1,19 @@
-{
+﻿{
   "id": "entrada",
   "nombre": "Entrada",
   "orden": 1,
   "descripcion": "Cantos de entrada para la celebración litúrgica",
   "icono": "church",
   "color": "#4CAF50",
-  "canciones": []
+  "canciones": [
+    {
+      "id": "entrada-001",
+      "titulo": "Juntos como hermanos",
+      "artista": "Tradicional",
+      "categoria": "Entrada",
+      "letra": "Juntos como hermanos,\nmiembros de una Iglesia,\nvamos caminando\nal encuentro del Señor.\n\nUn largo caminar\npor el desierto bajo el sol,\nno nos podemos olvidar\nde cómo somos tú y yo.\n\nUnidos al andar,\nhermanos te conocerán,\nserá tu amor nuestra señal,\ntu amor que nos une más.",
+      "audio": null,
+      "duracion": 180
+    }
+  ]
 }
