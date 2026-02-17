@@ -5,5 +5,15 @@
   "descripcion": "Cantos de adoración y alabanza",
   "icono": "brightness_5",
   "color": "#FF5722",
-  "canciones": []
+  "canciones": [
+    {
+      "id": "cancion-001",
+      "titulo": "Nombre de la Canción",
+      "autor": "Autor o Compositor",
+      "letra": "Letra completa de la canción...",
+      "audio": "canciones/audio/nombre-cancion.mp3",
+      "duracion": "3:45",
+      "acordes": true
+    }
+  ]
 }
