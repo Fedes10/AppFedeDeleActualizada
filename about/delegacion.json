@@ -15,7 +15,7 @@
     "cargo": "Obispo de Córdoba",
     "nombre": "Don Jesús",
     "icono": "ic_church",
-    "foto": "about/obispo.png",
+    "foto": "about/sobre-mi/images/obispo.png",
     "sobre_mi": "about/sobre-mi/obispo.json"
   },
   "delegados": {
@@ -25,14 +25,14 @@
         "id": "delegado-1",
         "cargo": "Delegado",
         "nombre": "D. Álvaro Fernández-Martos Yáñez",
-        "foto": "about/delegado-alvaro.png",
+        "foto": "about/sobre-mi/images/delegado-alvaro.png",
         "sobre_mi": "about/sobre-mi/cura-delegado1.json"
       },
       {
         "id": "delegado-2",
         "cargo": "Delegado",
         "nombre": "D. Pablo Fernández de la Puebla Lechuga",
-        "foto": "about/delegado-pablo.png",
+        "foto": "about/sobre-mi/images/delegado-pablo.png",
         "sobre_mi": "about/sobre-mi/cura-delegado2.json"
       }
     ]
@@ -41,7 +41,7 @@
     "seccion_titulo": "Diácono",
     "cargo": "Diácono",
     "nombre": "D. Francisco Fernández Calero",
-    "foto": "about/diacono-francisco.png",
+    "foto": "about/sobre-mi/images/diacono-francisco.png",
     "sobre_mi": "about/sobre-mi/diacono.json"
   },
   "mision": {
