@@ -5,5 +5,15 @@
   "descripcion": "Cantos para el momento de la Comunión",
   "icono": "restaurant",
   "color": "#2196F3",
-  "canciones": []
+  "canciones": [
+    {
+      "id": "cancion-001",
+      "titulo": "Nombre de la Canción",
+      "autor": "Autor o Compositor",
+      "letra": "Letra completa de la canción...",
+      "audio": "canciones/audio/nombre-cancion.mp3",
+      "duracion": "3:45",
+      "acordes": true
+    }
+  ]
 }
