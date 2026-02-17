@@ -1,0 +1,9 @@
+{
+  "id": "ofertorio",
+  "nombre": "Ofertorio",
+  "orden": 4,
+  "descripcion": "Cantos para la presentación de las ofrendas",
+  "icono": "volunteer_activism",
+  "color": "#795548",
+  "canciones": []
+}

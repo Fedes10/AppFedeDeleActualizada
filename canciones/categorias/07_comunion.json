@@ -1,0 +1,9 @@
+{
+  "id": "comunion",
+  "nombre": "Comunión",
+  "orden": 7,
+  "descripcion": "Cantos para el momento de la Comunión",
+  "icono": "restaurant",
+  "color": "#2196F3",
+  "canciones": []
+}

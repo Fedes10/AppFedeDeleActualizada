@@ -1,0 +1,9 @@
+{
+  "id": "santo",
+  "nombre": "Santo",
+  "orden": 5,
+  "descripcion": "Cantos del Santo - Sanctus",
+  "icono": "auto_awesome",
+  "color": "#FFD700",
+  "canciones": []
+}

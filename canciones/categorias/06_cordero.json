@@ -1,0 +1,9 @@
+{
+  "id": "cordero_de_dios",
+  "nombre": "Cordero de Dios",
+  "orden": 6,
+  "descripcion": "Cantos del Cordero de Dios - Agnus Dei",
+  "icono": "pets",
+  "color": "#E91E63",
+  "canciones": []
+}

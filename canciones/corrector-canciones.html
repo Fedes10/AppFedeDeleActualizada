@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JSON Music Fixer Pro 2026</title>
+    <style>
+        :root {
+            --bg: #0f0f11;
+            --panel: #18181b;
+            --border: #27272a;
+            --accent: #10b981;
+            /* Esmeralda */
+            --accent-hover: #059669;
+            --text-main: #f4f4f5;
+            --text-dim: #a1a1aa;
+            --json-key: #7dd3fc;
+            --json-string: #fbbf24;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, system-ui, sans-serif;
+            background-color: var(--bg);
+            color: var(--text-main);
+            margin: 0;
+            padding: 24px;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin: 0;
+            background: linear-gradient(to right, #10b981, #3b82f6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .status-badge {
+            background: #27272a;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: var(--text-dim);
+            border: 1px solid var(--border);
+        }
+
+        .main-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            flex: 1;
+            min-height: 0;
+        }
+
+        .editor-container {
+            display: flex;
+            flex-direction: column;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+        }
+
+        .editor-header {
+            background: #202023;
+            padding: 10px 16px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-dim);
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+        }
+
+        textarea {
+            flex: 1;
+            background: transparent;
+            border: none;
+            color: #e2e8f0;
+            padding: 16px;
+            font-family: 'Fira Code', 'Cascadia Code', monospace;
+            font-size: 13px;
+            line-height: 1.6;
+            resize: none;
+            outline: none;
+        }
+
+        textarea::placeholder {
+            color: #52525b;
+        }
+
+        .toolbar {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            padding: 20px 0;
+        }
+
+        button {
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: white;
+            box-shadow: 0 0 20px rgba(16, 185, 129, 0.2);
+        }
+
+        .btn-primary:hover {
+            background: var(--accent-hover);
+            transform: translateY(-1px);
+        }
+
+        .btn-secondary {
+            background: #3f3f46;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #52525b;
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #3f3f46;
+            border-radius: 10px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #52525b;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header">
+        <h1>🎵 JSON Music Fixer <span style="font-weight: 200;">Pro</span></h1>
+        <div class="status-badge" id="statusMsg">Listo para procesar</div>
+    </div>
+
+    <div class="main-grid">
+        <div class="editor-container">
+            <div class="editor-header">Entrada JSON <span>(Pegar aquí)</span></div>
+            <textarea id="input" placeholder='{ "canciones": [...] } o [ { "id": "..." }, ... ]'></textarea>
+        </div>
+
+        <div class="editor-container">
+            <div class="editor-header">Salida Corregida <span>(Solo lectura)</span></div>
+            <textarea id="output" readonly placeholder="El resultado aparecerá aquí automáticamente..."></textarea>
+        </div>
+    </div>
+
+    <div class="toolbar">
+        <button class="btn-primary" onclick="fixJson()">
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z">
+                </path>
+            </svg>
+            PROCESAR AHORA
+        </button>
+        <button class="btn-secondary" onclick="copyOutput()">
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3">
+                </path>
+            </svg>
+            COPIAR RESULTADO
+        </button>
+    </div>
+
+    <script>
+        function fixJson() {
+            const inputVal = document.getElementById('input').value;
+            const status = document.getElementById('statusMsg');
+
+            try {
+                if (!inputVal.trim()) return alert("Pega algo primero");
+                const rawData = JSON.parse(inputVal);
+                let listaCanciones = [];
+
+                if (Array.isArray(rawData)) {
+                    listaCanciones = rawData;
+                    status.innerHTML = `✅ Lista directa: <b>${listaCanciones.length}</b> temas`;
+                } else if (typeof rawData === 'object') {
+                    const keys = Object.keys(rawData);
+                    let arrayFound = false;
+                    for (let key of keys) {
+                        if (Array.isArray(rawData[key])) {
+                            listaCanciones = rawData[key];
+                            status.innerHTML = `✅ Objeto "${key}": <b>${listaCanciones.length}</b> temas`;
+                            arrayFound = true;
+                            break;
+                        }
+                    }
+                    if (!arrayFound) {
+                        listaCanciones = [rawData];
+                        status.innerText = "✅ Objeto único detectado";
+                    }
+                }
+
+                const cleanData = listaCanciones.map(item => {
+                    let artista = item.artista === "Tradicional" ? "La Dele" : (item.artista || "Desconocido");
+                    let categoria = item.categoria === "Tradicional" ? "La Dele" : (item.categoria || "General");
+                    let id = item.id || "id-desconocido";
+
+                    return {
+                        id: id,
+                        titulo: item.titulo || "Sin Título",
+                        artista: artista,
+                        categoria: categoria,
+                        letra: item.letra || "",
+                        audio: `canciones/audio/${id}.mp3`,
+                        duracion: typeof item.duracion === 'number' ? item.duracion : 0
+                    };
+                });
+
+                document.getElementById('output').value = JSON.stringify(cleanData, null, 4);
+
+            } catch (e) {
+                status.innerHTML = "❌ <span style='color:#f87171'>JSON Inválido</span>";
+                alert("Error de sintaxis: " + e.message);
+            }
+        }
+
+        function copyOutput() {
+            const outputField = document.getElementById('output');
+            if (!outputField.value) return;
+            outputField.select();
+            document.execCommand('copy');
+            const btn = event.currentTarget;
+            const originalText = btn.innerHTML;
+            btn.innerHTML = "✅ ¡COPIADO!";
+            setTimeout(() => btn.innerHTML = originalText, 2000);
+        }
+    </script>
+</body>
+
+</html>

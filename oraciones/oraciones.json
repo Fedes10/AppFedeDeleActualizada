@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-02-12T10:00:00Z",
+  "categorias": [
+    {
+      "id": "mananeras",
+      "nombre": "Oraciones de la mañana",
+      "icono": "ic_sunrise",
+      "color": "#FFB27F",
+      "descripcion": "Comienza el día con Dios"
+    },
+    {
+      "id": "nocturnas",
+      "nombre": "Oraciones de la noche",
+      "icono": "ic_moon",
+      "color": "#7B1FA2",
+      "descripcion": "Termina el día en paz"
+    },
+    {
+      "id": "marianas",
+      "nombre": "Oraciones a María",
+      "icono": "ic_marian",
+      "color": "#2196F3",
+      "descripcion": "A nuestra Madre"
+    },
+    {
+      "id": "eucaristicas",
+      "nombre": "Oraciones eucarísticas",
+      "icono": "ic_church",
+      "color": "#4CAF50",
+      "descripcion": "Ante el Santísimo"
+    },
+    {
+      "id": "penitenciales",
+      "nombre": "Oraciones penitenciales",
+      "icono": "ic_cross",
+      "color": "#795548",
+      "descripcion": "Pedir perdón"
+    },
+    {
+      "id": "vocacionales",
+      "nombre": "Oraciones vocacionales",
+      "icono": "ic_community",
+      "color": "#FF9800",
+      "descripcion": "Por las vocaciones"
+    }
+  ],
+  "oraciones": [
+    {
+      "id": "oracion-manana-1",
+      "titulo": "Oración de la mañana",
+      "categoria": "mananeras",
+      "contenido": "Señor, en el silencio de este día que nace,\nvengo a pedirte paz, sabiduría y fuerza.\n\nQuiero mirar hoy el mundo con ojos llenos de amor,\nser paciente, comprensivo, humilde, suave y bueno.\n\nVer detrás de las apariencias a tus hijos,\ncomo Tú mismo los ves,\ny así no fijarme sino en el bien de cada uno.\n\nCierra mis oídos a toda murmuración,\nguarda mi lengua de toda maledicencia,\nque sólo los pensamientos que bendigan permanezcan en mí.\n\nQuiero ser tan bueno y alegre,\nque todos los que se acerquen\nsientan tu presencia.\n\nRevísteme de tu bondad, Señor,\ny haz que durante este día,\nyo te refleje. Amén.",
+      "autor": "San Juan XXIII",
+      "duracion": "2 min",
+      "favorito": false
+    },
+    {
+      "id": "oracion-noche-1",
+      "titulo": "Oración antes de dormir",
+      "categoria": "nocturnas",
+      "contenido": "Señor, ya es de noche.\nDurante este día que termina,\nme has dado muchas cosas;\nte doy gracias por todo.\n\nPerdona lo malo que hice\ny dame tu paz para esta noche.\n\nTe pido por los que sufren,\npor los que tienen miedo,\npor los que no pueden dormir.\n\nBendice a mi familia y amigos,\ny a todas las personas que he encontrado hoy.\n\nQuédate conmigo, Señor,\nporque sin Ti nada puedo hacer.\n\nEn tus manos encomiendo mi espíritu.\nAmén.",
+      "autor": "Tradicional",
+      "duracion": "1 min",
+      "favorito": false
+    },
+    {
+      "id": "salve-regina",
+      "titulo": "Salve Regina",
+      "categoria": "marianas",
+      "contenido": "Dios te salve, Reina y Madre de misericordia,\nvida, dulzura y esperanza nuestra, Dios te salve.\n\nA Ti llamamos los desterrados hijos de Eva,\na Ti suspiramos, gimiendo y llorando\nen este valle de lágrimas.\n\nEa, pues, Señora, Abogada nuestra,\nvuelve a nosotros esos tus ojos misericordiosos,\ny después de este destierro muéstranos a Jesús,\nfruto bendito de tu vientre.\n\n¡Oh clemente, oh piadosa, oh dulce Virgen María!\n\nRuega por nosotros, Santa Madre de Dios,\npara que seamos dignos de alcanzar\nlas promesas de nuestro Señor Jesucristo.\n\nAmén.",
+      "autor": "Tradicional",
+      "duracion": "2 min",
+      "favorito": true
+    },
+    {
+      "id": "magnificat",
+      "titulo": "El Magnificat",
+      "categoria": "marianas",
+      "contenido": "Proclama mi alma la grandeza del Señor,\nse alegra mi espíritu en Dios, mi salvador;\n\nporque ha mirado la humillación de su esclava.\nDesde ahora me felicitarán todas las generaciones,\n\nporque el Poderoso ha hecho obras grandes por mí:\nsu nombre es santo,\ny su misericordia llega a sus fieles\nde generación en generación.\n\nÉl hace proezas con su brazo:\ndispersa a los soberbios de corazón,\nderriba del trono a los poderosos\ny enaltece a los humildes,\n\na los hambrientos los colma de bienes\ny a los ricos los despide vacíos.\n\nAuxilia a Israel, su siervo,\nacordándose de la misericordia\n—como lo había prometido a nuestros padres—\nen favor de Abrahán y su descendencia por siempre.\n\nGloria al Padre, y al Hijo, y al Espíritu Santo.\nComo era en el principio, ahora y siempre,\npor los siglos de los siglos. Amén.",
+      "autor": "Lucas 1, 46-55",
+      "duracion": "3 min",
+      "favorito": false
+    },
+    {
+      "id": "adoro-te-devote",
+      "titulo": "Adoro Te Devote",
+      "categoria": "eucaristicas",
+      "contenido": "Te adoro con devoción, Dios escondido,\noculto verdaderamente bajo estas apariencias.\nA Ti se somete mi corazón por completo,\ny se rinde totalmente al contemplarte.\n\nAl juzgar de Ti, se engañan la vista, el tacto, el gusto;\npero basta con el oído para creer con firmeza.\nCreo todo lo que ha dicho el Hijo de Dios:\nnada es más verdadero que esta Palabra de verdad.\n\nEn la Cruz se escondía sólo la Divinidad,\npero aquí se esconde también la Humanidad.\nSin embargo, creyendo y confesando ambas cosas,\npido lo que pidió aquel ladrón arrepentido.\n\nLas llagas, como satisfizo Tomás, yo no veo,\npero confieso, sin embargo, que eres mi Dios.\nHaz que yo crea más y más en Ti,\nque en Ti espere, que te ame.\n\nAmén.",
+      "autor": "Santo Tomás de Aquino",
+      "duracion": "2 min",
+      "favorito": false
+    },
+    {
+      "id": "acto-contricion",
+      "titulo": "Acto de contrición",
+      "categoria": "penitenciales",
+      "contenido": "Señor mío Jesucristo,\nDios y hombre verdadero,\nCreador, Padre y Redentor mío;\n\npor ser Vos quien sois,\nbondad infinita,\ny porque os amo sobre todas las cosas,\n\nme pesa de todo corazón de haberos ofendido;\ntambién me pesa porque podéis castigarme\ncon las penas del infierno.\n\nAyudado de vuestra divina gracia,\npropongo firmemente nunca más pecar,\nconfesarme y cumplir la penitencia que me fuere impuesta.\n\nAmén.",
+      "autor": "Tradicional",
+      "duracion": "1 min",
+      "favorito": true
+    },
+    {
+      "id": "oracion-vocaciones",
+      "titulo": "Oración por las vocaciones",
+      "categoria": "vocacionales",
+      "contenido": "Señor Jesús,\nTú que llamaste a quienes Tú quisiste\npara hacer de ellos pescadores de hombres,\nconcédenos la gracia de suscitar entre los jóvenes\nel mismo entusiasmo que infundiste a tus Apóstoles.\n\nEnvía, Señor, obreros a tu mies;\ndespierta en las familias cristianas\nla generosidad necesaria\npara entregar a sus hijos al servicio de la Iglesia.\n\nHaz que los jóvenes escuchen tu voz\ny respondan con corazón abierto:\n\"Aquí estoy, Señor, envíame\".\n\nPor intercesión de María,\nMadre de la Iglesia,\nte lo pedimos. Amén.",
+      "autor": "Pastoral vocacional",
+      "duracion": "2 min",
+      "favorito": false
+    },
+    {
+      "id": "angel-de-la-guarda",
+      "titulo": "Ángel de la guarda",
+      "categoria": "mananeras",
+      "contenido": "Ángel de mi guarda,\ndulce compañía,\nno me desampares\nni de noche ni de día.\n\nNo me dejes solo,\nque me perdería.\n\nÁngel de mi guarda,\ndulce compañía.\n\nAmén.",
+      "autor": "Tradicional",
+      "duracion": "1 min",
+      "favorito": false
+    }
+  ]
+}

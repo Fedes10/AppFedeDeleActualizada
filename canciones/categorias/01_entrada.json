@@ -1,0 +1,9 @@
+{
+  "id": "entrada",
+  "nombre": "Entrada",
+  "orden": 1,
+  "descripcion": "Cantos de entrada para la celebración litúrgica",
+  "icono": "church",
+  "color": "#4CAF50",
+  "canciones": []
+}

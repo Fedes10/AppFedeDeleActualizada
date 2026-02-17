@@ -1,0 +1,19 @@
+{
+  "id": "cura-delegado-1",
+  "tipo": "cura-delegado",
+  "nombre": "Cura Delegado 1",
+  "cargo": "Cura Asistente Diocesano",
+  "foto": "about/sobre-mi/images/cura-1.jpg",
+  "correo": "cura1@diocesiscordoba.es",
+  "telefono": "+34 957 XXXXXX",
+  "biografia": "Bienvenida a la sección 'Sobre Mí' del primer Cura Delegado.\n\nSu vida y vocación...\n\nHistoria de su llamada al sacerdocio...\n\n[Editar esta biografía con los datos reales del cura delegado]",
+  "redes_sociales": {
+    "whatsapp": "+34 XXXXXXXXX",
+    "email": "cura1@diocesiscordoba.es",
+    "instagram": "@cura_delegado_1"
+  },
+  "mision": "Acompañar a los jóvenes en su fe y crecimiento espiritual.",
+  "fecha_ingreso": "2026-02-01",
+  "especialidad": "Animación de jóvenes",
+  "notas": "Cura Asistente de La Dele"
+}

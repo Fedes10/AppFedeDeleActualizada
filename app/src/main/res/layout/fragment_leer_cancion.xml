@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.dele.LeerCancionFragment">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/songTitleCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="32dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        app:strokeColor="@color/orange_soft"
+        app:strokeWidth="2dp"
+        android:backgroundTint="@color/white">
+        <TextView
+            android:id="@+id/songTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Título de la canción"
+            android:textColor="@color/orange_soft"
+            android:textSize="26sp"
+            android:fontFamily="sans-serif"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="16dp" />
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/songLyricsCard"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/songTitleCard"
+        app:layout_constraintBottom_toTopOf="@id/audioPlayerLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="4dp"
+        app:strokeColor="@color/orange_accent"
+        app:strokeWidth="1dp"
+        android:backgroundTint="@color/light_gray">
+        <ScrollView
+            android:id="@+id/songScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/songLyrics"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Letra de la canción"
+                android:textColor="@color/text_primary"
+                android:textSize="19sp"
+                android:fontFamily="sans-serif"
+                android:lineSpacingExtra="8dp"
+                android:padding="16dp"
+                android:background="@android:color/transparent"
+                android:layout_marginBottom="16dp"
+                android:letterSpacing="0.03" />
+        </ScrollView>
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- Reproductor de audio moderno -->
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/audioPlayerCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        app:strokeColor="@color/orange_soft"
+        app:strokeWidth="2dp"
+        android:backgroundTint="@color/white">
+        <LinearLayout
+            android:id="@+id/audioPlayerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:padding="12dp">
+            <ImageButton
+                android:id="@+id/playButton"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@android:drawable/ic_media_play"
+                android:background="@color/orange_soft"
+                android:tint="@color/white"
+                android:contentDescription="Reproducir"
+                android:layout_marginEnd="12dp"
+                android:elevation="4dp" />
+            <ImageButton
+                android:id="@+id/pauseButton"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@android:drawable/ic_media_pause"
+                android:background="@color/orange_accent"
+                android:tint="@color/white"
+                android:contentDescription="Pausar"
+                android:elevation="4dp" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

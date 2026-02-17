@@ -1,0 +1,9 @@
+{
+  "id": "virgen",
+  "nombre": "Virgen",
+  "orden": 8,
+  "descripcion": "Cantos marianos dedicados a la Virgen María",
+  "icono": "favorite",
+  "color": "#03A9F4",
+  "canciones": []
+}

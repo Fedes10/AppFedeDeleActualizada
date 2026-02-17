@@ -1,0 +1,17 @@
+{
+  "id": "obispo",
+  "tipo": "obispo",
+  "nombre": "Obispo de la Diócesis de Córdoba",
+  "cargo": "Obispo",
+  "foto": "about/sobre-mi/images/obispo.jpg",
+  "correo": "obispo@diocesiscordoba.es",
+  "telefono": "+34 957 XXXXXX",
+  "biografia": "Información sobre el Obispo de la Diócesis de Córdoba.\n\nSu vida y vocación...\n\n[Editar esta biografía con los datos reales del obispo]",
+  "redes_sociales": {
+    "whatsapp": "+34 XXXXXXXXX",
+    "email": "obispo@diocesiscordoba.es"
+  },
+  "mision": "Guiar a la comunidad diocesana en la fe y la caridad.",
+  "fecha_ingreso": "2026-02-01",
+  "notas": "Pastor de la Diócesis"
+}

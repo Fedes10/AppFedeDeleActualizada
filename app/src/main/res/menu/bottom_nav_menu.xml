@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/deleFragment"
+        android:icon="@drawable/ic_music"
+        android:title="La Dele" />
+    <item
+        android:id="@+id/guadalupeFragment"
+        android:icon="@drawable/ic_event"
+        android:title="Guadalupe" />
+    <item
+        android:id="@+id/fatimaFragment"
+        android:icon="@drawable/ic_event"
+        android:title="Fátima" />
+    <item
+        android:id="@+id/contactFragment"
+        android:icon="@drawable/ic_contact"
+        android:title="Contacto" />
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/ic_info"
+        android:title="Acerca de" />
+</menu>

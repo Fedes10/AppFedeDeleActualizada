@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-02-11",
+  "direccion": {
+    "titulo": "Dirección",
+    "calle": "Calle Juan de Mena 3",
+    "ciudad": "Córdoba",
+    "codigo_postal": "14002",
+    "pais": "España",
+    "maps_query": "Calle Juan de Mena 3, 14002 Córdoba, España"
+  },
+  "telefono": {
+    "titulo": "Teléfono",
+    "numero": "636886593",
+    "tipo": "WhatsApp"
+  },
+  "email": {
+    "titulo": "Email",
+    "direccion": "delejuventudcordoba@gmail.com",
+    "asunto_default": "Contacto desde la app Dele Juventud"
+  },
+  "redes_sociales": {
+    "titulo": "Síguenos",
+    "redes": [
+      {
+        "id": "instagram",
+        "nombre": "Instagram",
+        "url": "https://instagram.com/delejuventudcordoba",
+        "icono": "ic_instagram"
+      },
+      {
+        "id": "facebook",
+        "nombre": "Facebook",
+        "url": "https://facebook.com/delejuventudcordoba",
+        "icono": "ic_facebook"
+      },
+      {
+        "id": "youtube",
+        "nombre": "YouTube",
+        "url": "https://youtube.com/@delejuventudcordoba",
+        "icono": "ic_youtube"
+      }
+    ]
+  },
+  "web": {
+    "titulo": "Web",
+    "url": "https://www.delejuventudcordoba.com/"
+  }
+}

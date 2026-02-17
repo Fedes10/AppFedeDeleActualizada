@@ -1,0 +1,9 @@
+{
+  "id": "adoracion",
+  "nombre": "Adoración",
+  "orden": 9,
+  "descripcion": "Cantos de adoración y alabanza",
+  "icono": "brightness_5",
+  "color": "#FF5722",
+  "canciones": []
+}

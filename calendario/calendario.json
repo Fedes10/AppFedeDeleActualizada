@@ -1,0 +1,103 @@
+{
+  "version": "1.4",
+  "ultima_actualizacion": "2026-02-16T14:00:00Z",
+  "eventos": [
+    {
+      "id": "fatima-2026",
+      "titulo": "Peregrinación Fátima",
+      "fecha_inicio": "2026-02-20",
+      "fecha_fin": "2026-02-22",
+      "hora_inicio": "05:30",
+      "hora_fin": "22:00",
+      "ubicacion": "Fátima, Portugal",
+      "punto_salida": "El Arenal, Córdoba",
+      "categoria": "peregrinacion",
+      "color": "#2196F3",
+      "precio": "150€",
+      "descripcion": "Peregrinación de 3 días al Santuario de Fátima. Solo mayores de edad.",
+      "peregrinacion_id": "fatima"
+    },
+    {
+      "id": "convivencia-voluntarios-feb",
+      "titulo": "Convivencia de voluntarios",
+      "fecha": "2026-02-22",
+      "hora": "18:00",
+      "ubicacion": "Casa de la Iglesia",
+      "categoria": "formacion",
+      "color": "#FF9800",
+      "descripcion": "Encuentro mensual para voluntarios de la Delegación.",
+      "enlace_noticia": "noticia-convivencia-voluntarios"
+    },
+    {
+      "id": "retiro-cuaresma-2026",
+      "titulo": "Retiro de Cuaresma",
+      "fecha": "2026-03-07",
+      "hora": "10:00",
+      "ubicacion": "Seminario de Córdoba",
+      "categoria": "retiro",
+      "color": "#795548",
+      "descripcion": "Jornada de oración y reflexión para preparar la Semana Santa.",
+      "enlace_noticia": "noticia-retiro-cuaresma-2026"
+    },
+    {
+      "id": "guadalupe-2026",
+      "titulo": "Peregrinación Guadalupe",
+      "fecha_inicio": "2026-09-05",
+      "fecha_fin": "2026-09-07",
+      "hora_inicio": "06:00",
+      "hora_fin": "18:00",
+      "ubicacion": "Guadalupe, Cáceres",
+      "punto_salida": "Córdoba",
+      "categoria": "peregrinacion",
+      "color": "#4CAF50",
+      "precio": "120€",
+      "descripcion": "Proceso Guadalupe XXXII. 3 días de peregrinación a pie hacia el Monasterio de Guadalupe.",
+      "peregrinacion_id": "guadalupe"
+    },
+    {
+      "id": "inmaculada-2026",
+      "titulo": "Vigilia y Fiesta de la Inmaculada",
+      "fecha_inicio": "2026-12-07",
+      "fecha_fin": "2026-12-08",
+      "hora_inicio": "21:00",
+      "hora_fin": "23:59",
+      "ubicacion": "Catedral de Córdoba",
+      "categoria": "vigilia",
+      "color": "#9C27B0",
+      "descripcion": "Vigilia nocturna del 7 y Solemnidad de la Inmaculada Concepción el día 8.",
+      "peregrinacion_id": "inmaculada"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "peregrinacion",
+      "nombre": "Peregrinaciones",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "vigilia",
+      "nombre": "Vigilias",
+      "color": "#9C27B0"
+    },
+    {
+      "id": "fiesta",
+      "nombre": "Fiestas",
+      "color": "#E91E63"
+    },
+    {
+      "id": "formacion",
+      "nombre": "Formación",
+      "color": "#FF9800"
+    },
+    {
+      "id": "retiro",
+      "nombre": "Retiros",
+      "color": "#795548"
+    },
+    {
+      "id": "encuentro",
+      "nombre": "Encuentros",
+      "color": "#2196F3"
+    }
+  ]
+}

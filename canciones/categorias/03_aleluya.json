@@ -1,0 +1,9 @@
+{
+  "id": "aleluya",
+  "nombre": "Aleluya",
+  "orden": 3,
+  "descripcion": "Cantos del Aleluya - Aclamación al Evangelio",
+  "icono": "celebration",
+  "color": "#FF9800",
+  "canciones": []
+}

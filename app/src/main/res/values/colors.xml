@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Naranja suave inspirado en el logotipo -->
+    <color name="orange_soft">#FF7A2D</color>
+    <!-- Naranja elegante para acentos -->
+    <color name="orange_accent">#FF9A4D</color>
+    <!-- Gris claro para fondos secundarios -->
+    <color name="light_gray">#F5F5F5</color>
+    <!-- Color para texto principal -->
+    <color name="text_primary">#212121</color>
+    <!-- Color para texto secundario -->
+    <color name="text_secondary">#757575</color>
+</resources>

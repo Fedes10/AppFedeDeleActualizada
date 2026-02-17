@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.login.LoginFragment">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/loginCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="64dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        app:cardCornerRadius="24dp"
+        app:cardElevation="8dp"
+        app:strokeColor="@color/orange_soft"
+        app:strokeWidth="2dp"
+        android:backgroundTint="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="32dp">
+
+            <TextView
+                android:id="@+id/loginTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Iniciar sesión"
+                android:textColor="@color/orange_soft"
+                android:textSize="28sp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginBottom="24dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/emailEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Correo electrónico"
+                    android:inputType="textEmailAddress"
+                    android:textColor="@color/text_primary"
+                    android:textColorHint="@color/text_secondary" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/passwordEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Contraseña"
+                    android:inputType="textPassword"
+                    android:textColor="@color/text_primary"
+                    android:textColorHint="@color/text_secondary" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/loginButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Entrar"
+                android:backgroundTint="@color/orange_soft"
+                android:textColor="@color/white"
+                app:cornerRadius="16dp"
+                android:elevation="4dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:id="@+id/registerLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="¿No tienes cuenta? Regístrate"
+                android:textColor="@color/orange_accent"
+                android:textSize="16sp"
+                android:fontFamily="sans-serif"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="8dp" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
