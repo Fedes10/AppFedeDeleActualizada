@@ -8,12 +8,12 @@
   "canciones": [
     {
       "id": "entrada-001",
-      "titulo": "Juntos como hermanos",
-      "artista": "Tradicional",
+      "titulo": "Hakuna Huracán",
+      "artista": "Hakuna",
       "categoria": "Entrada",
-      "letra": "Juntos como hermanos,\nmiembros de una Iglesia,\nvamos caminando\nal encuentro del Señor.\n\nUn largo caminar\npor el desierto bajo el sol,\nno nos podemos olvidar\nde cómo somos tú y yo.\n\nUnidos al andar,\nhermanos te conocerán,\nserá tu amor nuestra señal,\ntu amor que nos une más.",
-      "audio": null,
-      "duracion": 180
+      "letra": "Ven, Espíritu de Dios,\nllena mi corazón.\nVen, Espíritu de Dios,\nllena mi ser.\n\nComo un huracán,\ncomo un vendaval,\nven y transfórmalo todo.\n\nVen, Espíritu de Dios,\nllena mi corazón.",
+      "audio": "canciones/audio/hakuna-huracan.mp3",
+      "duracion": 245
     }
   ]
 }
