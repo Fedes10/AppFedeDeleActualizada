@@ -8,12 +8,183 @@
   "canciones": [
     {
       "id": "comunion-001",
-      "titulo": "Pan de Vida",
-      "artista": "Bob Hurd",
+      "titulo": "Alma misionera",
+      "artista": "Desconocido",
       "categoria": "Comunión",
-      "letra": "Pan de Vida, cuerpo del Señor,\nsanta copa, sangre de tu Salvador.\n\nVengan todos a la mesa del altar,\nel Señor nos llama, vengan a cenar.",
-      "audio": null,
-      "duracion": 200
+      "letra": "Señor, toma mi vida nueva antes de la espera, desgaste años en mí.\nEstoy dispuesto a lo que quieras no importa lo que sea tu llámame a servir\n\nLLEVAME DONDE LOS HOMBRES\nNECESITEN TUS PALABRAS\nNECESITEN MIS GANAS DE VIVIR\nDONDE FALTE LA ESPERANZA\nDONDE TODO SEA TRISTE\nSIMPLEMENTE POR NO SABER DE TI\n\nTe doy mi corazón sincero para gritar sin miedo tu grandeza Señor.\nTendré, tus manos sin cansancio tu historia entre mis labios y fuerza en la oración.\nY así en marcha iré cantando, por calles predicando, lo grande que es tu amor.\nSeñor, tengo alma misionera, condúceme a la tierra que tenga sed de Ti.",
+      "audio": "canciones/audio/alma-misionera.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-002",
+      "titulo": "Bendigamos al Señor",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Bendigamos al Señor, Dios de toda la Creación, por habernos regalado su amor.\nSu bondad y su perdón, y su gran fidelidad por los siglos de los siglos durarán.\n\nEL ESPÍRITU DE DIOS HOY ESTÁ SOBRE MÍ,\nÉL ES QUIEN ME HA URGIDO A PROCLAMAR,\nLA BUENA NUEVA A LOS MÁS POBRES,\nLA GRACIA DE SU SALVACIÓN. (BIS)\n\nEnviado con poder y en el nombre de Jesús, a sanar a los enfermos del dolor.\nA los ciegos dar visión, a los pobres la verdad y a los presos y oprimidos, libertad.\n\nCon la fuerza de su amor y de la Resurrección anunciamos: llegó ya la Salvación.\nQue ni el miedo ni el temor, ni la duda o la opresión borrarán la paz de nuestro corazón.",
+      "audio": "canciones/audio/bendigamos-al-senor.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-003",
+      "titulo": "Bienaventuranzas",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Felices somos en la pobreza, si en nuestras manos hay amor de Dios,\nsi nos abrimos a la esperanza, si trabajamos en hacer el bien.\nFelices somos en la humildad, si como niños sabemos vivir.\nSerá nuestra heredad la tierra, la tierra.\n\nSI EL GRANO DE TRIGO NO MUERE EN LA TIERRA\nES IMPOSIBLE QUE NAZCA FRUTO.\nAQUÉL QUE DA SU VIDA PARA LOS DEMÁS\nTENDRÁ SIEMPRE AL SEÑOR.\n\nFelices somos si compartimos, si nuestro tiempo es para los demás,\npara quien vive en la tristeza y para quien camina en soledad.\nFelices somos si damos amor, si en nuestras manos hay sinceridad.\nPodremos siempre mirar y ver a Dios, y ver a Dios.\n\nFelices somos si ofrecemos paz, y nuestra voz denuncia la opresión,\nsi desterramos odio y rencores, será más limpio nuestro corazón.\nFelices somos en la adversidad, si nos persiguen cuando no hay razón,\nla vida entonces tendrá sentido en Dios, sentido en Dios.",
+      "audio": "canciones/audio/bienaventuranzas.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-004",
+      "titulo": "Canción al Corazón de Jesús",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Quiero hablar de un amor infinito\nque se vuelve niño, frágil\namor de hombre humillado\nquiero hablar de un amor apasionado.\n\nCon dolor carga nuestros pecado\nsiendo rey se vuelve esclava\nfuego de amor poderoso\nsalvador, humilde, fiel, silencioso.\n\nAMOR QUE ABRE SUS BRAZOS DE ACOGIDA\nQUIERO HABLAR DEL CAMINO HACIA LA VIDA\nCORAZÓN PACIENTE, AMOR ARDIENTE,\nQUIERO HABLAR DE AQUEL QUE\nVENCE LA MUERTE\n\nQuiero hablar de un amor generoso\nque hace y calla amor a todos\nbuscándonos todo el tiempo\nesperando la respuesta al encuentro.\n\nQuiero hablar de un amor diferente\nmisterioso inclaudicable\namor que vence en la cruz\nquiero hablar del corazón de Jesús.",
+      "audio": "canciones/audio/cancion-al-corazon-de-jesus.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-005",
+      "titulo": "Como el Padre me amó",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "COMO EL PADRE ME AMÓ YO OS HE AMADO\nPERMANECED EN MI AMOR, PERMANECED EN MI AMOR.\n\nSi guardáis mis palabras y como hermanos os amáis\ncompartiréis con alegría el don de la fraternidad.\n\nSi os ponéis en camino, sirviendo siempre a la verdad\nfruto daréis en abundancia, mi amor se manifestará.\n\nNo veréis amor tan grande como aquel que os mostré.\nYo doy la vida por vosotros, amad como yo os amé.\n\nSi hacéis lo que os mando y os queréis de corazón,\ncompartiréis mi pleno gozo, de amar, como Él me amó.",
+      "audio": "canciones/audio/como-el-padre-me-amo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-006",
+      "titulo": "Consolad",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Consolad a mi pueblo, dice el Señor; hablad al corazón del hombre.\nGritad que mi amor ha vencido preparad el camino que viene tu Redentor.\n\nYO TE HE ELEGIDO PARA AMAR TE DOY MI FUERZA Y LUZ PARA GUIAR.\nYO SOY CONSUELO EN TU MIRAR GLORIA A DIOS. (BIS)\n\nConsolad a mi pueblo, dice el Señor; sacad de la ceguera a mi pueblo.\nYo he sellado contigo alianza perpetua, Yo soy el único Dios.\n\nConsolad a mi pueblo, dice el Señor; mostradles el camino de libertad.\nYo os daré fuertes alas, transformaré tus pisadas en sendas de eternidad.",
+      "audio": "canciones/audio/consolad.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-007",
+      "titulo": "Cristo mi centro",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Quise vagar por tus veredas sin entregar mi voluntad\natado a mil cosas pequeñas que se hicieron las dueñas de toda mi verdad.\n\nEn tu mirada vi las fuerzas para romper con lo que soy\npara gozarme en tu presencia, ofrendar mi vida entera y ser tuyo desde hoy.\n\nCRISTO MI CENTRO, MI ESPERANZA, MI SENTIDO, MI CALOR.\nES MI CONTEXTO, ÉL ES MI CASA, MI SOSIEGO, MI VALOR.\nY DEJARÉ CUANTO ME APARTE DE LA VIDA QUE ME DAS,\nMI LIBERTAD ESTÁ EN TUS MANOS, ERES MI FELICIDAD.\n\nDesde el encuentro en tu Palabra mi nueva vida vi nacer\ny mi oración se hizo alabanza, aquí nadie se cansa de compartir la fe.\n\nY me llamaste hacia los hombres a descubrirte en su dolor\na consagrarme a los más pobres, a abrir mis horizontes testigos de tu amor.",
+      "audio": "canciones/audio/cristo-mi-centro.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-008",
+      "titulo": "El alfarero",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Gracias quiero darte por amarme,\ngracias quiero darte yo a Ti, Señor.\nHoy soy feliz porque te conocí.\nGracias por amarme a mí también.\n\nYO QUIERO SER, SEÑOR AMADO,\nCOMO EL BARRO EN MANOS DEL ALFARERO:\nTOMA MI VIDA, HAZLA DE NUEVO,\nYO QUIERO SER UN VASO NUEVO.\n\nTe conocí y te amé,\nte pedí perdón y me escuchaste.\nSi te ofendí, perdóname, Señor,\npues te amo y nunca te olvidaré.",
+      "audio": "canciones/audio/el-alfarero.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-009",
+      "titulo": "El Señor es mi pastor nada me falta",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "EL SEÑOR ES MI PASTOR NADA ME FALTA EL SEÑOR ES MI PASTOR.\n(BIS)\n\nEn praderas reposa mi alma, en su agua descansa mi sed.\nEl me guía por senderos justos por amor, por amor de su nombre.\n\nAunque pase por valles oscuros ningún mal, ningún mal temeré\nporque sé que el Señor va conmigo su cayado sostiene mi fe.\n\nTú preparas por mí una mesa frente a aquellos que buscan mi mal.\ncon aceite me ungiste Señor y mi copa rebosa de ti.\n\nGloria a Dios, padre omnipotente y a su hijo Jesús el Señor,\ny al Espíritu que habita en el mundo por los siglos eternos. Amén.",
+      "audio": "canciones/audio/el-senor-es-mi-pastor-nada-me-falta.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-010",
+      "titulo": "El tesoro",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Tengo un gran tesoro en mi lagar, donado en gratuidad, si pongo el corazón en los demás.\nYo soy luz vosotros sois la sal, tus labios hablarán de mí que soy tu Dios comido en pan.\n\nID Y PREDICAD A TODO HOMBRE,\nMI NOTICIA NO SE ESCONDE,\nY EN EL MUNDO SOLO REINA OSCURIDAD.\nID Y PREGONAD QUE SOY LA VIDA, SOY CAMINO\nLUZ Y GUÍA, MI PRESENCIA ES ESPERANZA, AMOR Y PAZ.\n\nNo llevéis alforjas al andar, jamás miréis atrás, vuestra misión será la de sembrar.\nMirad que entendiendo no veréis y oyendo no sabréis que el reino avanza al paso de tus pies.\n\nAhí Señor envíame, Señor envíame, y donde\ndigas yo estaré, Señor envíame.",
+      "audio": "canciones/audio/el-tesoro.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-011",
+      "titulo": "Jesús amigo",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Hoy te quiero contar Jesús amigo, que contigo estoy feliz,\nSi tengo tu amistad lo tengo todo, pues Tú estás dentro de mí.\nDespués de comulgar me haces como Tú, me llenas con Tu paz,\nEn cada pedacito de este pan, completo estás, y así te das.\nEstas ahí por mí, porque conoces, que sin Ti pequeño soy,\nDe ahora en adelante, nada nos separará, ya lo verás.\n\nTE ESCONDES EN EL PAN, Y AUNQUE NO TE PUEDO VER,\nTE PUEDO ACOMPAÑAR, ES MI LUGAR PREFERIDO.\nHOY QUIERO COMULGAR, ABRIRTE MI CORAZÓN,\nASÍ DE PAR EN PAR, ERES MI MEJOR AMIGO.\n\nDos mil años atrás a tus amigos invitaste a cenar\ny ahí les prometiste que con ellos por siempre ibas a estar\nY ahora cada vez que el sacerdote eleva el pan en el altar\nMe pongo de rodillas porque sé que en esa hostia Tú estas\n\nME VUELVES A SALVAR COMO LO HICISTE EN LA CRUZ\nEN CADA MISA TÚ REPITES TU SACRIFICIO\nHOY QUIERO COMULGAR, ABRIRTE MI CORAZON\nASI, DE PAR EN PAR, ERES MI MEJOR AMIGO, JESÚS",
+      "audio": "canciones/audio/jesus-amigo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-012",
+      "titulo": "Jesús, ven Tú",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Pan y vino, son tu rostro que hoy volvemos a tocar.\nTu mirada que curaba, de nuevo nos sanará.\nNo merezco que Tú vengas a mi pobreza tocar,\nmas yo quiero que en mi vida, Jesús, Tú puedas estar.\n\nJESÚS, VEN TÚ, ENTRA EN MI CASA DE NUEVO\nJESÚS VEN TÚ, PARA ENCENDER NUESTRO FUEGO\nJESÚS, JESÚS… JESÚS, JESÚS…\n\nEs tu vino nuestra sangre, que no nos deja morir\nPan y vida, para todos prontos para compartir\nTe compartes con nosotros en la pobreza de un pan\nCambiaremos nuestro mundo para que puedas estar.\n\nComo un ciego yo me atrevo a acercarme un poco a ti\nTú conoces mis presiones, las veces que me perdí\nMas Tú sabes que te quiero y que si vienes Jesús\nTodo es fiesta, todo es vida porque me has salvado Tú.",
+      "audio": "canciones/audio/jesus-ven-tu.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-013",
+      "titulo": "La Fila",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "La Fila más importante de mi vida, unos minutos me separan del momento\nencontrarme con mi amante cara a cara, con Dios carne\nno soy digna de que entres en mi casa pero una palabra tuya bastará,\npara sanarme.\n\nCada segundo se hace una eternidad si es para tenerte no importa esperar\ny es este hormigueo que no se cesa hasta que te veo\ncada paso hacia adelante, es un paso hacia el cielo.\n\nY ligeramente elevado, y con un amén, contestado\npor fin frente a un pan que se ha hecho humano.\n\nY CUANDO EL CUERPO DE CRISTO, SE UNE A MÍ\nME TRANSFORMO, ME HAGO UNO CON QUIEN, MÁS ME AMA\nES EL QUE SACIA EL HAMBRE DE TODO EXISTIR\nEL SAGRARIO HACIA AL QUE SIEMPRE ESTOY ARRODILLADA.\nSI LOS ÁNGELES HABLARAN, CONCIENCIARÍAN NUESTRA ALMA\nES EL REY DE LOS AMORES QUE NOS ALIMENTA Y HABLA\nA QUIEN TODO EL CIELO ALABA, A QUIEN TODO EL CIELO ALABA.\n\nAprieto mis costados, para que sientas mis abrazos que Dios no está en el Pan,\nque Dios es este Pan que yo misma lo he tocado, con mis labios.\nBusca un hueco en mi corazón limpia todo lo que hay en mi interior que esta boca que tu tocas solo sepa hablar el lenguaje, el lenguaje del amor.\n\nY ahora que estás conmigo Señor ahora hazme saber que estás vivo en mí\nque no eres un alimento mas que es tu Cuerpo inmolado por mi\nY ahora que estás conmigo Señor hazme saber que estás vivo en mí,\nahora ya soy parte de tu cuerpo, unido a mis hermanos en ti.",
+      "audio": "canciones/audio/la-fila.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-014",
+      "titulo": "Pasión de Dios",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Porque tengo miedo de mi mismo,\nPorque no disfruto hoy de cada minuto,\nPorque quería ser de un modo distinto,\nPorque vivo siempre lo que haré.\n\nTanta cosa para motivarme, Basta ya de maltratarme. Dime Padre porque no me quiero, Solo tu aprecio mata mi desprecio.\n\nHAZME OÍR LO QUE TE GUSTO,\nQUE VEA QUE ME MIRAS CON PASIÓN,\nQUE A NADIE QUIERES TANTO COMO A MÍ,\nSOY PASIÓN DE DIOS.\n\nMe dicen que huya de mi debilidad Tú me dices que permanezca en ella Me valoran por éxitos y perfección, Tú disfrutas conmigo tal y como soy.\nDébil, enfermo y en pecado, Impuro, impotente y quebradizo. Solo así descubro cómo me amas, Solo así descubro cómo me quieres.\n\nHAZME OÍR LO QUE TE GUSTO, QUE VEA QUE ME MIRAS CON PASIÓN,\nQUE TE RECREAS EN MI BELLEZA, QUE SOY LA NIÑA DE TUS OJOS, QUE A NADIE QUIERES TANTO COMO A MÍ, ERES MI PADRE, Y ¡ENLOQUECES!\nQUE A NADIE QUIERES TANTO COMO A MÍ, SOY PASIÓN DE DIOS.\n\nCon la furia del mar, y la solidez de la roca Con el ímpetu de la tormenta, la fuerza del vendaval Con esa misma contundencia tú me dices: Tú eres mío, tú eres mío",
+      "audio": "canciones/audio/pasion-de-dios.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-015",
+      "titulo": "Pescador de hombres",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Tú has venido a la orilla,\nno has buscado ni a sabios ni a ricos,\ntan sólo quieres que yo te siga.\n\nSEÑOR, ME HAS MIRADO A LOS OJOS, SONRIENDO HAS DICHO MI NOMBRE.\nEN LA ARENA HE DEJADO MI BARCA, JUNTO A TI BUSCARÉ OTRO MAR.\n\nTú sabes bien lo que tengo,\nEn mi barca no hay oro ni espadas,\nTan sólo redes y mi trabajo.\n\nTú necesitas mis manos,\nMi cansancio que a otros descanse,\nAmor que quiera seguir amando.\n\nTú, pescador de otros lagos,\nAnsia eterna de almas que esperan.\nAmigo bueno que así me llamas.",
+      "audio": "canciones/audio/pescador-de-hombres.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-016",
+      "titulo": "¿Qué seré?",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "¿Qué seré tan poca cosa como soy?\nMira mis manos vacías; es tan poco mi poder,\ntan frágil como una niña. ¿Qué seré?, ¿Qué seré?\n\n¿Qué seré si no se dar más que mi voz,\nofrecer una sonrisa, entregarme en oración\ny querría dar la vida? ¿Qué seré?, ¿Qué seré?\n\nY SERÉ EL CORAZÓN, YO SERÉ EL CORAZÓN,\nEL AMOR QUE SE OLVIDÓ.\nTE SERVIRÉ EN LO SENCILLO, TE AMARÉ CON CADA LATIDO.\n\n¿Qué seré: una esperanza y una flor?\ncomo el niño que se fía y no le importa si cayó,\ntiende sus manos arriba. ¿Qué seré? ¿Qué seré?\n\n¿Qué seré? Debilidad en la labor,\nla misión encadenada pero viva en la ilusión\nde quién te ha entregado el alma. ¿Qué seré?, ¿Qué seré?",
+      "audio": "canciones/audio/que-sere.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-017",
+      "titulo": "Sencillamente",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Creo sencillamente, quiero disfrutar de la serenidad del creer.\nDesligar el creer del sentir, creo, mi Dios ¡y basta!\nTe creo en tus misterios, sin entenderlos. Te creo en mí y en el Pan Blanco,\nen el prójimo y en la creación sin verte en ningún lado.\n\nCREO, SEÑOR, SENCILLAMENTE, PORQUE CREER ES CONFIAR.\n¡Y CÓMO ME GUSTA CREERTE SINTIENDO DUDAS,\nSINTIENDO DUDAS, SINTIENDO DUDAS!\n\nDigo que eres amor, escucho que soy tu amado,\nno siento y ¡qué más da! ¡Te quiero y eso basta!\n\nAMO, SEÑOR, SENCILLAMENTE, PORQUE AMAR, ES ENTREGARSE.\n¡CÓMO ME GUSTA AMARTE ESTANDO FRÍO,\nESTANDO FRÍO, ESTANDO FRÍO!\n\nEspero en tu Palabra. Vivo en tu Promesa.\nGozo en ti lo que aún me falta!\n\nESPERO, SEÑOR, SENCILLAMENTE, PORQUE ESPERAR ES DESCANSAR\nY COMO ME GUSTA, ESPERARTE SINTIENDO MIEDO,\nSINTIENDO MIEDO, SINTIENDO MIEDO!\n\nCreo, amo, espero. ¡Cómo me gusta seguirte sintiendo dudas,\nestando frío, sintiendo miedo!\n¡Cómo me gusta! ¡Cómo me gusta!\nCreerte, amarte y esperarte.\n\nTe sigo sencillamente.",
+      "audio": "canciones/audio/sencillamente.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-018",
+      "titulo": "Tomado de la mano",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "TOMADO DE LA MANO CON JESÚS YO VOY\nLO SIGO COMO OVEJA QUE ENCONTRÓ AL PASTOR\nTOMADO DE LA MANO CON JESÚS YO VOY\nA DONDE ÉL VA. (BIS)\n\nSi Jesús me dice: Amigo, deja todo y ven conmigo,\nDonde todo es más hermoso y más feliz.\nSi Jesús me dice: Amigo, deja todo y ven conmigo,\nYo mi mano pondré en la suya e iré con Él.\n\nYo te llevaré amigo, a un lugar conmigo,\nDonde todo es más hermoso y más feliz.\nYo te llevaré amigo, a un lugar conmigo,\nDonde el sol y las estrellas aún brillan más.",
+      "audio": "canciones/audio/tomado-de-la-mano.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-019",
+      "titulo": "Vida en abundancia",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Los lirios del campo y las aves del cielo\nNo se preocupan porque están en mis manos\nTené confianza en mí Acá estoy junto a vos.\n\nAmá lo que sos y tus circunstancias\nEstoy con vos, con tu cruz en mi espalda\nTodo terminará bien Yo hago nuevas todas las cosas.\n\nYO VENGO A TRAERTE VIDA, VIDA EN ABUNDANCIA, EN ABUNDANCIA\nYO SOY EL CAMINO, LA VERDAD Y LA VIDA, VIDA EN ABUNDANCIA, EN ABUNDANCIA\n\nNo hice al hombre para que esté solo Caminen juntos como hermanos Sopórtense mutuamente Ámense unos a otros.\nLa felicidad de la vida eterna Empieza conmigo en la tierra Sentite vivo La fiesta del reino comienza acá.",
+      "audio": "canciones/audio/vida-en-abundancia.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "comunion-020",
+      "titulo": "Volarás",
+      "artista": "Desconocido",
+      "categoria": "Comunión",
+      "letra": "Como una madre te consolaré, En mi regazo te haré reposar.\nLuz que penetra en la oscuridad, paz que alimenta, calor y verdad.\nDeja que te envuelva, yo soy amor de Dios. Bastará tu ofrenda para ser mi voz.\n\nComo una brisa te haré sonreír, mano que besa, que calma el dolor.\nTodo poder, no soy nada sin ti, soy la promesa que ya se cumplió.\nDéjame forjarte a mi voluntad, abriré tus ojos a la eternidad.\n\nVOLARÁS CON MI ALIENTO Y MI VIGOR, SENTIRÁS EL TORRENTE DE MI AMOR.\nSOY UN FUEGO DE ESPERANZA QUE JAMÁS SE CONSUMIÓ.\nHABITARÉ TU CORAZÓN.\nY AMARÁS CON LA FUERZA Y EL CALOR DE QUIEN DA EL ESPÍRITU DE DIOS.\nSOY UN FUEGO DE ESPERANZA QUE JAMÁS SE CONSUMIÓ.\nHABITARÉ TU CORAZÓN.\n\nComo una llama te haré contemplar, tierra fecunda que voy a sembrar.\nYo soy don para el que tiene sed, dame tus labios, que Yo hablaré.\nDéjame tu senda, que no hay que temer. Te daré respuestas, te daré la fe.",
+      "audio": "canciones/audio/volaras.mp3",
+      "duracion": 0
     }
   ]
 }
