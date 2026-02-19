@@ -8,12 +8,57 @@
   "canciones": [
     {
       "id": "aleluya-001",
-      "titulo": "Aleluya (Celtic)",
-      "artista": "Tradicional",
+      "titulo": "Aleluya de la tierra",
+      "artista": "Desconocido",
       "categoria": "Aleluya",
-      "letra": "Aleluya, aleluya,\naleluya, aleluya.\n\nTu palabra, Señor,\nes la verdad,\ny tu ley es la libertad.\n\nAleluya, aleluya,\naleluya, aleluya.",
-      "audio": null,
-      "duracion": 90
+      "letra": "Aleluya cantará,\nquién perdió la esperanza,\ny la tierra sonreirá.\nAleluya.",
+      "audio": "canciones/audio/aleluya-de-la-tierra.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "aleluya-002",
+      "titulo": "Aleluya (Taizé)",
+      "artista": "Taizé",
+      "categoria": "Aleluya",
+      "letra": "Aleluya, alelu aleluya, aleluya, aleluya. (BIS)",
+      "audio": "canciones/audio/aleluya-taize.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "aleluya-003",
+      "titulo": "Aleluya (San Francisco)",
+      "artista": "Desconocido",
+      "categoria": "Aleluya",
+      "letra": "ALELUYA, ALELUYA, ALELUYA, ALELUYA. (BIS)\n\nAlégrate, llena de gracia, el Señor es contigo.\nBendita tú, entre las mujeres, Santa Madre de Dios.\n\nALELUYA, ALELUYA, ALELUYA, ALELUYA. (BIS)",
+      "audio": "canciones/audio/aleluya-san-francisco.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "aleluya-004",
+      "titulo": "Canta aleluya",
+      "artista": "Desconocido",
+      "categoria": "Aleluya",
+      "letra": "Canta aleluya al Señor canta aleluya al Señor\nCanta aleluya, Canta aleluya, canta aleluya al Señor",
+      "audio": "canciones/audio/canta-aleluya.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "aleluya-005",
+      "titulo": "Aleluya Leonard Cohen",
+      "artista": "Desconocido",
+      "categoria": "Aleluya",
+      "letra": "Ya no hay más miedo ni temor, no quedan penas sólo amor,\nPorque por nosotros Él murió.\n\nHoy la esperanza abierta está, mi corazón quiere cantar\npor eso mi alma grita ¡Aleluya!\n\nALELUYA, ALELUYA, ALELUYA, ALELUYA…",
+      "audio": "canciones/audio/aleluya-leonard-cohen.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "aleluya-006",
+      "titulo": "Aleluya Vaticano",
+      "artista": "Desconocido",
+      "categoria": "Aleluya",
+      "letra": "Aleluya, Aleluya (Bis)",
+      "audio": "canciones/audio/aleluya-vaticano.mp3",
+      "duracion": 0
     }
   ]
 }
