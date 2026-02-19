@@ -8,12 +8,201 @@
   "canciones": [
     {
       "id": "virgen-001",
-      "titulo": "Ave María (Schubert)",
-      "artista": "Franz Schubert",
+      "titulo": "Ave María (Palazón)",
+      "artista": "Palazón",
       "categoria": "Virgen",
-      "letra": "Ave María,\ngratia plena,\nDominus tecum,\nbenedicta tu in mulieribus,\net benedictus fructus ventris tui, Jesus.\n\nSancta María, Mater Dei,\nora pro nobis peccatoribus,\nnunc et in hora mortis nostrae.\nAmen.",
-      "audio": null,
-      "duracion": 240
+      "letra": "Dios te salve, María, llena eres de gracia, el Señor es contigo.\nBendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.\nSanta María, Madre de Dios, ruega por nosotros pecadores, (BIS)\nAhora y en la hora de nuestra muerte. (BIS)",
+      "audio": "canciones/audio/ave-maria-palazon.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-002",
+      "titulo": "Bendita sea tu pureza",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Bendita sea tu pureza\ny eternamente lo sea,\npues todo un Dios se recrea en\ntan graciosa belleza.\nA Ti celestial Princesa,\nVirgen Sagrada María,\nte ofrezco en este día: alma,\nvida y corazón.\n\nMírame con compasión,\nno me dejes Madre mía. (Bis)\n\nBendita, sea tu pureza (bis)\nNo me dejes, (oh, no, no).(Bis)\nMadre mía.",
+      "audio": "canciones/audio/bendita-sea-tu-pureza.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-003",
+      "titulo": "Diario de María",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Te miro a los ojos, y entre tanto llanto parece mentira que te hayan clavado.\nQue seas el pequeño al que he acunado, y que se dormía tan pronto en mis brazos,\nel que se reía a mirar el cielo y cuando rezaba se ponía serio.\n\nSobre este madero veo aquel pequeño que entre los doctores hablaba en el templo,\nque cuando pregunté, respondió con calma que de los asuntos de Dios se encargaba.\n\nEse mismo niño, el que está en la cruz, el Rey de los hombres, se llama Jesús.\nEse mismo hombre ya no era un niño cuando en esa boda le pedí más vino.\n\nQue dio de comer a un millar de gente y a pobres y enfermos los miró de frente.\nRio con aquellos a quienes más quiso, y lloró en silencio, al morir su amigo.\n\nYa cae la tarde, se nublan los cielos, pronto volverás a tu Padre Eterno.\nDuérmete pequeño, duérmete mi niño, que yo te he entregado todo mi cariño.\nComo en Nazaret, aquella mañana, ¡he aquí tu sierva, he aquí tu esclava!",
+      "audio": "canciones/audio/diario-de-maria.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-004",
+      "titulo": "Dijiste Sí",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Dijiste sí y la tierra estalló de alegría; Dijiste sí y en tu vientre latía divina\nla salvación.\n\nHágase en mí, de corazón, la voluntad de mi Señor; Que se cumplan en mí cada día los sueños de Dios\n\nMARÍA, LAS TINIEBLAS SE HARÁN MEDIODÍA; A UNA SOLA PALABRA QUE DIGAS, EN TUS LABIOS ALUMBRA YA EL SOL;\nMARÍA, LA DONCELLA QUE DIOS PROMETÍA; UN VOLCÁN DE TERNURA DIVINA, PRIMAVERA DE DIOS REDENTOR.\n\nGabriel tembló, conmovido con tanta belleza, Madre de Dios, cuélame en tu mirada de amor de la Anunciación.\n\nHágase en mí de corazón, La voluntad de mi Señor.\nQue se cumplan en mi cada día los sueños de Dios.\n\nMARÍA LAS TINIEBLAS SE HARÁN MEDIODÍA A UNA SOLA PALABRA QUE DIGAS, EN TUS LABIOS ALUMBRA YA EL SOL.\nMARÍA LA DONCELLA QUE DIOS PROMETÍA UN VOLCÁN DE TERNURA DIVINA, PRIMAVERA DE DIOS REDENTOR. (BIS)",
+      "audio": "canciones/audio/dijiste-si.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-005",
+      "titulo": "Ejército de María",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Dicen que la muerte es el final, y tú has vencido a la muerte.\nQuieren que reniegue de la verdad, y mi verdad es tenerte.\nFirme en la batalla del amor, aunque me hieran de muerte. Tú me das la gracia,\ntú me das el don. Tu rosario, Madre, es el escudo de mi corazón.\n\nSI MI VIDA TE COMPLACE, TE LA ENTREGO LUCHO EN PRIMERA LÍNEA\nDE FUEGO. HUMILLADO, PERSEGUIDO, PRISIONERO, NADA NOS\nAPARTARÁ DE LA META QUE ES EL CIELO.\n\nDanos el escudo de la fe, el casco de la salvación, la espada. Tu pequeño ejército listo para luchar, María, nuestra Reina y Capitana.\n\nPOR TODA LA TIERRA LLEVARÉ TU REINO. TÚ ME HAS SALVADO, NO TENGO MIEDO. RESCATADOS, ELEGIDOS, ¡SOMOS FUEGO! NADA NOS APARTARÁ DE LA META QUE ES EL CIELO.\n\nFirme en la batalla del amor, aunque me hieran de muerte. ¿Quién contra nosotros si aquí está el Señor? ¡Soy soldado del Inmaculado Corazón!\n\nRevístenos de la esperanza, misericordia y caridad: la armadura que nos das.\nNuestra misión, nuestra misión: llevar almas a tu lado.\nNuestra oración, nuestra oración es la intimidad con Dios. Nuestra visión, nuestra visión sobrenatural es cuidar de las rosas de Mamá.",
+      "audio": "canciones/audio/ejercito-de-maria.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-006",
+      "titulo": "La fe de María",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Qué hubiese pasado si ella hubiese dicho que no, o ignorado\no dilatado, el anuncio de tu ángel de amor.\nEn cambio, creyó en tu palabra, y se hizo tu esclava, en un acto perfecto de fe\nY hoy quiero ser como ella, y amarte aunque duelan las espinas y el camino de la cruz.\n\nDAME LA FE SEÑOR, LA FE DE MARÍA PARA DECIRTE SÍ, UN SÍ SIN MEDIDAS\nDAME LA FE SEÑOR, LA FE DE MARÍA PARA RENUNCIAR A MÍ Y ENTREGARTE\nMI VIDA.\n\nAunque traspasaron con una espada su corazón, y su alma lloró\nel dolor de tus heridas, a los pies del madero se quedó.\nY por creer, ella es reina y señora y tú nos incorporas a tu eterna familia de amor\nY yo en tu amor quiero permanecer postrado a tus pies, es lo único que un día llevaré.",
+      "audio": "canciones/audio/la-fe-de-maria.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-007",
+      "titulo": "Hoy he vuelto",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Cuántas veces siendo niño te recé\nCon mis besos te decía que te amaba\nPoco a poco, con el tiempo, alejándome de Ti\nPor caminos que se alejan me perdí. (BIS)\n\nHOY HE VUELTO, MADRE A RECORDAR\nCUÁNTAS COSAS DIJE ANTE TU ALTAR,\nY AL REZARTE PUEDO COMPRENDER\nQUE UNA MADRE NO SE CANSA DE ESPERAR (BIS)\n\nAl regreso me encendías una luz\nSonriendo desde lejos me esperabas\nEn la mesa la comida aún caliente y el mantel\nY tu abrazo en mi alegría de volver\n\nAunque el hijo se alejara del hogar\nuna madre siempre espera su regreso\nque el regalo más hermoso que a los hijos da el Señor\nes su Madre y el milagro de su amor",
+      "audio": "canciones/audio/hoy-he-vuelto.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-008",
+      "titulo": "Invoco a María",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Cuando en el mar de la vida, mi navío, se zarandee y las olas me llamen\nqueriéndome engullir.\nCuando atraído por su evocadora melodía las sirenas con sus cantos me\nseduzcan hasta hacerme sucumbir, ante su falaz promesa.\n\nENTONCES MIRO A LA ESTRELLA, INVOCO A MARÍA, Y LE RUEGO ME ATE\nAL MÁSTIL DE LA CRUZ. PUES SÓLO ATADO A ELLA, ALCANZO LA LIBERTAD.\n\nCuando desolado en alta mar, anhelando su presencia, desfallezca en el combate por serle fiel. Cuando me induzca el enemigo a traicionar al amor que persigo, a quebrantar mi sí del voto sagrado.\n\nTú eres mi refugio, muestra que eres Madre.\nTú eres mi consuelo, muestra que eres Madre.",
+      "audio": "canciones/audio/invoco-a-maria.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-009",
+      "titulo": "Junto a ti, María",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Junto a ti María, como un niño quiero estar,\ntómame en tus brazos guíame en mi caminar.\nQuiero que me eduques, que me enseñes a rezar,\nhazme transparente, lléname de paz.\n\nMADRE, MADRE, MADRE, MADRE.\nMADRE, MADRE, MADRE, MADRE.\n\nGracias Madre mía por llevarnos a Jesús,\nhaznos más humildes, tan sencillos como Tú.\nGracias Madre mía por abrir tu corazón,\nporque nos congregas y nos das tu amor.",
+      "audio": "canciones/audio/junto-a-ti-maria.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-010",
+      "titulo": "Macarena",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Oigo tu voz que me acompaña y siento el calor\nde tus palabras que me hablan de Dios\ncon un amor que no acaba y la fe\ncomo una llama que abraza mi ser\nme atraes, te vas, plena de humildad\nDios debe brillar (BIS)\n\nMADRE MI ORACIÓN, CON TU LATIDO, DA ALAS\nMADRE EN MI CANCIÓN ERES SENTIDO, SU ALMA\nMADRE EN EL DOLOR, MI LLANTO ERA TU PENA\nLA ESPERANZA AL FIN BROTÓ\nVIVE EN TUS MANOS, CRECE EN TU PECHO, RÍE EN TUS LABIOS… MADRE BUENA",
+      "audio": "canciones/audio/macarena.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-011",
+      "titulo": "Madre",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Madre, ¿qué vale todo el universo y el poder\nFrente a una sola llaga de tu Hijo?\nMadre, ¿qué ven tus ojos cuando lloras junto a Él,\nCuando le besas todas las heridas?\nMadre, quiero ver lo que tú ves.\n\nMadre, ¿a dónde fueron las palabras que escuché?,\n¿a dónde fue el calor de sus latidos?\nMadre, ¿a dónde fue tu Amado?, yo lo buscaré,\nY lo pondré al abrigo de tus brazos,\nMadre, donde Dios quiso nacer.\n\nMÉCELE EN TUS BRAZOS ESTA NOCHE COMO AYER,\nBAJO EL FRÍO Y EL MISTERIO DE BELÉN.\nSÓLO CON SU SANGRE VOLVEREMOS A NACER,\nCON LA SANGRE DE JESÚS DE NAZARET.\n\nMadre, yo bajaré temblando a Cristo de la Cruz,\nLo cubriremos juntos de caricias.\nMadre, me asomaré al costado abierto de su amor,\nY miraré lo cielos nuevos\nDonde adoran a tu Hijo vencedor.\n\nNO HAY DOLOR TAN GRANDE COMPARABLE A TU DOLOR,\nNO HAY MÁS VIDA QUE LA MUERTE POR AMOR.\nCUANDO TODOS HUYAN, CUANDO PIERDAN LA RAZÓN,\nVELARÉ CONTIGO EL ROSTRO DE MI DIOS.\n\nMadre, átame fuerte con tus brazos a la Cruz.\nNo quiero más tesoro que sus clavos.\nMadre, quiero mirarte cuando no encuentre la luz,\nY recorrer contigo cada paso,\nMadre, del camino de la Cruz.\n\nGUÁRDAME EN TUS BRAZOS ESTA NOCHE JUNTO A ÉL,\nVENCEREMOS A LA MUERTE CON LA FE.\nCALMAREMOS JUNTOS EL DESEO QUE ESCUCHÉ\nDE SUS LABIOS QUE AÚN REPITEN TENGO SED,\nDE SUS LABIOS QUE AÚN ME DICEN TENGO SED.",
+      "audio": "canciones/audio/madre.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-012",
+      "titulo": "María mírame",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "MARÍA MÍRAME, MARÍA MÍRAME. SI TÚ ME MIRAS, ÉL TAMBIÉN ME MIRARÁ.\nMADRE MÍA MÍRAME, DE LA MANO LLÉVAME MUY CERCA DE ÉL, ME QUIERO QUEDAR\n\nMaría, cúbreme con tu manto que tengo miedo, no sé rezar.\nQue por tus ojos misericordiosos tendré la fuerza, tendré la paz.\n\nMaría, consuélame de mis penas, es que no puedo, ofenderle más.\nQue por tus ojos misericordiosos quiero ir al cielo y verlos ya.",
+      "audio": "canciones/audio/maria-mirame.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-013",
+      "titulo": "Oh primer sagrario",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Oh primer sagrario, María, Madre de Jesús,\nOh primera custodia, María, vaso espiritual;\nTu seno se llenó de gloria,\nTu cuerpo se llenó se Dios,\nsu sangre corrió por tus venas,\nSu ser de ti se alimentó.\n\nOh primer creyente, primera en darle adoración,\nY llegado el tiempo, primera en exponerlo en hora santa\nAquella noche en que Jesús nació.",
+      "audio": "canciones/audio/oh-primer-sagrario.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-014",
+      "titulo": "Ora pro nobis",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "AVE MARÍA ¡AVE! (BIS)\n\nMadre de la espera y mujer de la esperanza, ora pro nobis.\nMadre de sonrisa y mujer de los silencios, ora pro nobis.\nMadre de frontera y mujer apasionada, ora pro nobis.\nMadre del descanso y mujer de los caminos, ora pro nobis.\n\nAVE MARÍA ¡AVE! (BIS)\n\nMadre del respiro y mujer de los desiertos, ora pro nobis.\nMadre del ocaso y mujer de los recuerdos, ora pro nobis.\nMadre del presente y mujer de los retornos, ora pro nobis.\nMadre del amor y mujer de la ternura, ora pro nobis.\n\nAVE MARÍA ¡AVE! (BIS)\n\nMadre del Verbo y mujer del Fiat, ora pro nobis.\nMadre del Mesías y mujer de las promesas, ora pro nobis.\nMadre de Dios Hijo y mujer de Nazaret, ora pro nobis.\nMadre de Cristo y mujer de la entrega, ora pro nobis.\n\nAVE MARÍA ¡AVE! (BIS)",
+      "audio": "canciones/audio/ora-pro-nobis.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-015",
+      "titulo": "Pequeña María",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "María, pequeña María,\ntú eres la brisa suave de Elías,\nel susurro del Espíritu de Dios.\n\nTú eres la zarza ardiente de Moisés\nque llevas al Señor y no te consumes.\n\nTú eres el lugar junto a mí\nque mostró el Señor a Moisés,\ntú eres la hendidura de la roca\nque Dios cubre con su mano\nmientras que pasa su gloria.\n\nVENGA EL SEÑOR CON NOSOTROS,\nSI HEMOS HALLADO GRACIA A SUS OJOS;\nES CIERTO QUE SOMOS PECADORES,\nMAS RUEGA TÚ POR NOSOTROS,\nY SEREMOS SU PUEBLO Y SU HEREDAD.\n\nMaría, pequeña María, hija de Jerusalén, Madre de todos los pueblos, Virgen de Nazaret.\nTú eres la nube del desierto que protege la marcha de Israel, tú eres la tienda de\nla reunión, el arca que lleva la alianza, el Santuario de la gloria del Señor.",
+      "audio": "canciones/audio/pequena-maria.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-016",
+      "titulo": "Quiero decir que sí",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Quiero decir que sí, como Tú, María,\ncomo Tú un día, como Tú, María.\nQuiero decir que sí, quiero decir que sí.\nQuiero decir que sí, quiero decir que sí.\n\nQuiero negarme a mí, como Tú, María,\ncomo Tú un día, como Tú, María.\nQuiero negarme a mí, quiero negarme a mí.\nQuiero negarme a mí, quiero negarme a mí.\n\nQuiero seguirle a Él, como Tú, María\ncomo Tú un día, como Tú María.\nQuiero seguirle a Él, quiero seguirle a Él.\nQuiero seguirle a Él, quiero seguirle a Él.\n\nQuiero entregarme a Él, como Tú, María\ncomo Tú un día, como Tú María.\nQuiero entregarme a Él, quiero entregarme a Él.\nQuiero entregarme a Él, quiero…",
+      "audio": "canciones/audio/quiero-decir-que-si.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-017",
+      "titulo": "Reina y Señora",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Mi Reina y mi Señora,\nhoy vengo a tu trono,\nhoy y todos los días en Él,\nme pongo a tu servicio.\n\nTu conquista mi ser,\nyo conquistaré tu Reino,\npues sólo quiero vivir,\ny morir por Ti. (BIS)",
+      "audio": "canciones/audio/reina-y-senora.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-018",
+      "titulo": "Santa María del Camino",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Mientras recorres la vida, tú nunca solo estás.\nContigo por el camino, Santa María va.\n\nVEN CON NOSOTROS A CAMINAR, SANTA MARÍA VEN. (BIS)\n\nAunque te digan algunos que nada puede cambiar,\nlucha por un mundo nuevo, lucha por la verdad.",
+      "audio": "canciones/audio/santa-maria-del-camino.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-019",
+      "titulo": "Shekinah",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Tú la fuente de la acogida, Tú la impotencia consentida.\nToda la vida de Dios, escondida en ti, Tú el lugar de su presencia.\n\nSHEKINAH, INMACULADA\nINMACULADA, INMACULADA, SHEKINAH.\n\nTú, que esperaste al Esposo, Tú que enciendes mi lámpara, prendes el fuego en el hogar, luz de maternidad, del Shabbat tú eres lucero.\n\nTú, hecha de nuestra tierra, tú mujer vestida de estrellas, en tu seno está Dios, esperando mi regreso. Abrázame a ti con fuerza.",
+      "audio": "canciones/audio/shekinah.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-020",
+      "titulo": "Sigue tras su estela",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Joven de la Iglesia, en marcha a caminar, no sueltes\nsu mano que Ella te llevará. Coge el estandarte tu\ndestino es su mirar, y esta gran familia te acompañará.\n\nDesde la ribera la cita empezará: seminaristas,\nhermanos y sacerdotes irán. Ella está esperando a sus\npies desde el altar, sed los peregrinos que a Guadalupe van.\n\nNO PIERDAS SU ESTELA, SIGUE TRAS SUS HUELLAS.\nQUE TU DESTINO ESTÁ EN SU MANTO, CONTÁGIATE DE TUS HERMANOS.\nNO DESFALLEZCAS AL INTENTARLO, RECUERDA\nSIEMPRE QUE TE HA LLAMADO. (BIS)\n\nAvanza por la senda sin miedo al caminar, María de su mano a Dios te llevará.\nSigue su camino y no te perderás, como niño que a su Madre va a encontrar. Él es el camino, la vida y la verdad, nosotros peregrinos que su amor buscarán.\nCoge el estandarte, tu destino es su mirar, sed los peregrinos que a Guadalupe van.\n\n¡¡¡QUE TE HA LLAMADO!!!",
+      "audio": "canciones/audio/sigue-tras-su-estela.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-021",
+      "titulo": "Tienes a tu Madre",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Si se acaba el vino en tu vida hoy,\nahí tienes a tu Madre.\nSi solo hay tinajas, pero no hay amor,\nahí tienes a tu Madre.\nSi estás buscando acercarte a Dios,\nahí tienes a tu Madre, ahí tienes a tu Madre.\n\nAHÍ TIENES A TU MADRE, AHÍ TIENES A TU MADRE.\nAHÍ TIENES A TU MADRE, AHÍ TIENES A TU MADRE.\nAHÍ TIENES A TU MADRE.\n\nSi no sabes cómo hacer una oración, ahí tienes a tu Madre. Si la cruz te pesa para caminar, ahí tienes a tu Madre. Si no hay Pentecostés en tu corazón, ahí tienes a tu Madre, ahí tienes a tu Madre.\n\nSi estás viviendo fuerte la hora del dolor, ahí tienes a tu Madre. Si estás padeciendo alguna enfermedad, ahí tienes a tu Madre. Si te encuentras sumido en desesperación, ahí tienes a tu Madre, ahí tienes a tu Madre.",
+      "audio": "canciones/audio/tienes-a-tu-madre.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "virgen-022",
+      "titulo": "Tantas cosas en la vida",
+      "artista": "Desconocido",
+      "categoria": "Virgen",
+      "letra": "Tantas cosas en la vida nos ofrecen plenitud\nY no son más que mentiras que desgastan la inquietud\nTú has llenado mi existencia al quererme de verdad\nYo quisiera, Madre buena, amarte más\n\nEn silencio escuchabas la palabra de Jesús\nY la hacías pan de vida meditando en tu interior\nLa semilla que ha caído ya germina y está en flor\nCon el corazón en fiesta cantaré.\n\nAVE MARÍA, AVE MARÍA AVE MARÍA, AVE MARÍA",
+      "audio": "canciones/audio/tantas-cosas-en-la-vida.mp3",
+      "duracion": 0
     }
   ]
 }
