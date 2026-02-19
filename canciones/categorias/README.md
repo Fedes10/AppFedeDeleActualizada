@@ -14,13 +14,13 @@ Esta carpeta contiene las categorías del cancionero, organizadas por momentos l
   "color": "#HEX_COLOR",
   "canciones": [
     {
-      "id": "cancion-001",
-      "titulo": "Nombre de la Canción",
-      "autor": "Autor o Compositor",
-      "letra": "Letra completa de la canción...",
-      "audio": "canciones/audio/nombre-cancion.mp3",
-      "duracion": "3:45",
-      "acordes": true
+      "id": "entrada-001",
+      "titulo": "Hakuna Huracán",
+      "artista": "Hakuna",
+      "categoria": "Entrada",
+      "letra": "Ven, Espíritu de Dios,\nllena mi corazón.\nVen, Espíritu de Dios,\nllena mi ser.\n\nComo un huracán,\ncomo un vendaval,\nven y transfórmalo todo.\n\nVen, Espíritu de Dios,\nllena mi corazón.",
+      "audio": "canciones/audio/hakuna-huracan.mp3",
+      "duracion": 245
     }
   ]
 }
