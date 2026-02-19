@@ -8,12 +8,75 @@
   "canciones": [
     {
       "id": "santo-001",
-      "titulo": "Santo (Misa Criolla)",
-      "artista": "Ariel Ramírez",
+      "titulo": "Santo (Luna)",
+      "artista": "Luna",
       "categoria": "Santo",
-      "letra": "Santo, santo, santo,\nSanto es el Señor,\nDios del universo.\n\nLlenos están el cielo y la tierra\nde tu gloria.\n\nHosanna en el cielo.\nBendito el que viene\nen nombre del Señor.\nHosanna en el cielo.",
-      "audio": null,
-      "duracion": 180
+      "letra": "Santo, santo, santo es el Señor, Dios del universo.\nLlenos están el cielo y la tierra de tu gloria hosanna.\n\nHOSANNA, HOSANNA, HOSANNA EN EL CIELO (BIS)\n\nBendito el que viene en nombre del Señor,\nHosanna en el cielo, hosanna.\n\nHOSANNA, HOSANNA, HOSANNA EN EL CIELO (BIS)",
+      "audio": "canciones/audio/santo-luna.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "santo-002",
+      "titulo": "Santo (Palazón)",
+      "artista": "Palazón",
+      "categoria": "Santo",
+      "letra": "Santo, Santo, Santo, Santo es el Señor\nSanto es el Señor, Dios del universo\nSanto es el Señor, Dios del universo\nLlenos están el cielo y la tierra de tu gloria\nHosanna, hosanna, hosanna en el cielo\nHosanna, hosanna, hosanna en el cielo\n\nBendito el que viene en nombre del Señor\nHosanna, hosanna…",
+      "audio": "canciones/audio/santo-palazon.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "santo-003",
+      "titulo": "Santo Jesuita",
+      "artista": "Desconocido",
+      "categoria": "Santo",
+      "letra": "SANTO, SANTO, SANTO, SANTO ES EL SEÑOR,\nDIOS DEL UNIVERSO, DIOS DEL UNIVERSO. (BIS)\n\nLlenos están el cielo y la tierra de tu gloria.\nHosanna en el cielo, hosanna en cielo.\n\nBendito El que viene en nombre del Señor.\nHosanna en el cielo, hosanna en el cielo.",
+      "audio": "canciones/audio/santo-jesuita.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "santo-004",
+      "titulo": "Santo LaDele",
+      "artista": "LaDele",
+      "categoria": "Santo",
+      "letra": "SANTO, SANTO, SANTO (bis)\n\nSanto es el Señor, Dios del universo, lleno están el cielo y la tierra de tu gloria.\nHosanna en el cielo, bendito el que viene en nombre del Señor\nHosanna en el cielo.\n\nSANTO, SANTO, SANTO (bis)",
+      "audio": "canciones/audio/santo-ladele.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "santo-005",
+      "titulo": "Santo Canon",
+      "artista": "Desconocido",
+      "categoria": "Santo",
+      "letra": "SANTO (bis)\nSANTO (Bis)\n\nEl cielo y la tierra están llenos de tu gloria.\n\nBendito el que viene en el nombre del Señor\n\nHosanna, hosanna, hosanna, hosanna en las alturas (x3)",
+      "audio": "canciones/audio/santo-canon.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "santo-006",
+      "titulo": "Señor Santo",
+      "artista": "Desconocido",
+      "categoria": "Santo",
+      "letra": "Señor santo Dios del universo… tú… u,\nllenos están cielo y tierra de tu Gloria.\n\nBendito aquel que viene en nombre del Señor,\nHosanna en el cielo.",
+      "audio": "canciones/audio/senor-santo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "santo-007",
+      "titulo": "Santo Laraland",
+      "artista": "Desconocido",
+      "categoria": "Santo",
+      "letra": "Santo, santo es el Señor, Dios, Dios del universo, llenos están\nel cielo y la tierra de su gloria, hosanna en el cielo.\n\nBendito, bendito es el que viene en nombre del Señor, hosanna en el cielo\nLlenos están el cielo y la tierra de su gloria, hosanna en el cielo.",
+      "audio": "canciones/audio/santo-laraland.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "santo-008",
+      "titulo": "Santo Ávila",
+      "artista": "Desconocido",
+      "categoria": "Santo",
+      "letra": "Santo, santo, santo el Señor, Dios del universo.\nSanto, santo, el cielo y la tierra están llenos de tu inmensa gloria.\n\nHOSANNA EN LO ALTO DEL CIELO (x3)\n\nBendito aquel que viene en nombre del Señor.",
+      "audio": "canciones/audio/santo-avila.mp3",
+      "duracion": 0
     }
   ]
 }
