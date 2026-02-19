@@ -8,12 +8,129 @@
   "canciones": [
     {
       "id": "entrada-001",
-      "titulo": "Hakuna Huracán",
-      "artista": "Hakuna",
+      "titulo": "Dios está aquí",
+      "artista": "Desconocido",
       "categoria": "Entrada",
-      "letra": "Ven, Espíritu de Dios,\nllena mi corazón.\nVen, Espíritu de Dios,\nllena mi ser.\n\nComo un huracán,\ncomo un vendaval,\nven y transfórmalo todo.\n\nVen, Espíritu de Dios,\nllena mi corazón.",
-      "audio": "canciones/audio/hakuna-huracan.mp3",
-      "duracion": 245
+      "letra": "DIOS ESTÁ AQUÍ,\nTAN CIERTO COMO EL AIRE QUE RESPIRO,\nTAN CIERTO COMO LA MAÑANA SE LEVANTA,\nTAN CIERTO COMO QUE ESTE CANTO LO PUEDES OÍR.\n\nLo puedes sentir moviéndose entre los que aman\nLo puedes oír, cantando con nosotros aquí\nLo puedes llevar cuando por esa puerta salgas\nLo puedes guardar muy dentro de tu corazón",
+      "audio": "canciones/audio/dios-esta-aqui.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-002",
+      "titulo": "El Señor nos ha reunido junto a Él",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "EL SEÑOR NOS HA REUNIDO JUNTO A ÉL,\nEL SEÑOR NOS HA INVITADO A ESTAR CON ÉL.\nEN SU MESA HAY AMOR,\nLA PROMESA DEL PERDÓN,\nY EN EL VINO Y PAN, SU CORAZÓN. (BIS)\n\nCuando, Señor, tu voz, llega en silencio a mí, y mis hermanos me hablan de Ti,\nsé que a mi lado estás, te sientas junto a mí, acoges mi vida y mi oración.",
+      "audio": "canciones/audio/el-senor-nos-ha-reunido-junto-a-el.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-003",
+      "titulo": "Enciéndeme",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "Hoy quiero, Señor, ponerlo todo en tu presencia\nDarme hasta gastarme contigo y por Ti.\nHoy quiero, Señor, ponerlo todo ante tu puerta\nPara en todo amarte y servir.\n\nENCIÉNDEME Y DÉJAME ARDER DONDE HAGA FALTA,\nENCIÉNDEME Y DÉJAME SER TU LUZ,\nY ASÍ PODER LLEVARTE HASTA TODAS LAS ALMAS,\nSACIAR LA SED QUE TIENES TÚ DESDE LA CRUZ.\n\nHoy quisiera madre, poner todo en tu presencia,\nDarme hasta gastarme, decirle que sí,\nHoy te pido madre, que dejes mi puerta abierta,\nPara en todo amarle y servir",
+      "audio": "canciones/audio/enciendeme.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-004",
+      "titulo": "Hay una unción",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "Hay una unción aquí, cayendo sobre mí,\nmudándome, cambiando mi ser. (BIS)\n\nMi espíritu y mi alma se están llenando,\ncon el poder del Espíritu Santo,\nmi vida nunca más será igual. (BIS)",
+      "audio": "canciones/audio/hay-una-uncion.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-005",
+      "titulo": "Jesús está entre nosotros",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "JESÚS ESTÁ ENTRE NOSOTROS, ÉL VIVE HOY Y SU ESPÍRITU A TODOS DA.\nJESÚS, RAZÓN DE NUESTRA VIDA, ES EL SEÑOR, NOS REÚNE EN PUEBLO DE AMOR.\n\nCambia nuestras vidas con tu fuerza.\nGuárdanos por siempre en tu presencia.\nTú eres verdad, Tú eres la paz.\n\nRompe las cadenas que nos atan.\nllénanos de gracia en tu palabra.\nGracias, Señor, gracias, Salvador.\n\nNuestras existencias hoy te alaban.\nNuestros corazones te dan gracias.\nTú eres amor, eres canción.",
+      "audio": "canciones/audio/jesus-esta-entre-nosotros.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-006",
+      "titulo": "Lléname con tu espíritu",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "Te espero Señor, acude en mi auxilio. Hazte presente, llena mi vida de Ti.\nEscucha mi voz, que grita tu nombre, sin Ti no soy nada, te necesito para vivir.\n\nLLÉNAME CON TU ESPÍRITU, DAME TU PAZ.\nANIMA MI VIDA A SER ALGO MÁS, ENSÉÑAME A AMAR.\nLLÉNAME CON TU ESPÍRITU, DAME TU LUZ.\nQUIERO SER LIBRE, SER TU TESTIGO, AMIGO JESÚS.\n\nEs vano mi afán, de nada me sirve decir que en Ti creo, que Tú eres mi Dios si no tengo amor.\nEscribe tu carta en mi corazón. Construye mi casa, que no sea inútil mi esfuerzo, Señor.",
+      "audio": "canciones/audio/lleename-con-tu-espiritu.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-007",
+      "titulo": "No temas",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "Si aún no lo ves, pronto lo verás\ntodo un Dios enamorado de ti.\nHabla bien de Él, que no mentiras,\ntodo lo hizo para hacerte feliz.\n\nLo que pasa es que el mundo no quiere escuchar,\nno vaya a ser que vea, que entienda y se empape\nde esta alegría que nos quiere regalar,\nno vaya a ser que entienda, se convierta y se sane.\n\nNO TEMAS A LA LUZ, NO TEMAS A LA PAZ,\nNO TEMAS A LA ALEGRÍA, NO TENGAS MIEDO A SER FELIZ.\nPORQUE ÉL ES EL CAMINO QUE SE HA ABIERTO PARA TI,\nPORQUE ÉL ES EL QUE ES, AHORA PUEDES SER FELIZ.",
+      "audio": "canciones/audio/no-temas.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-008",
+      "titulo": "Resucitar",
+      "artista": "Jesús Cabello",
+      "categoria": "Entrada",
+      "letra": "Al final, cuando todo esto acabe, volverás revestido de grandeza.\nTu poder derramará el amor por cada rincón de la Tierra\nTu presencia alegrará la Creación que esperaba tu promesa\n\nDE RESUCITAR A TU IMAGEN, SER TAN LIBRES COMO EL AIRE.\nRESUCITAR POR TU SANGRE, RENACIDOS PARA AMARTE.\nVIVIREMOS POR FIN DE VERDAD CONGREGADOS POR UN MISMO PADRE.\nREINAREMOS CONTIGO EN TU PAZ PARA ADORARTE EN LA ETERNIDAD\n\nAl final, cuando todo esto acabe, resonará la Verdad en tus palabras.\nHasta el cielo temblará de emoción con la luz de tu mirada.\nLas semillas que murieron al sol tendrán vida renovada.",
+      "audio": "canciones/audio/resucitar.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-009",
+      "titulo": "Siempre imaginé",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "Siempre imaginé la felicidad ligada al poder y a la comodidad\nSiempre imaginé la felicidad ligada a mis sueños cumplidos\nNo sabía que la felicidad era así\n\nMiembro de un pueblo, tengo familia\nCiudadano del cielo y de estirpe elegida\nDe nación, piedra de iglesia, que habita en Jerusalén\nOveja del divino redil\nA quien el pastor señala y susurra\n\nESTOS SON MI MADRE Y MIS HERMANOS, SOY DE TU FAMILIA\nQUÉ BONITA ES TÚ IGLESIA\n\nSiempre imaginé la felicidad ligada al poder y a la comodidad\nSiempre imaginé la felicidad ligada a mis sueños cumplidos\nNo sabía que la felicidad está aquí\n\nAquí y no allí, ahora y no mañana\nEn lo que hago y no en lo que queda por hacer\nDentro de mí el sabe que me amas\nSerte fiel y no, entender o poseer\nAquí la noche está como el día\nLugar desde el que me miras y me susurras\n\nCUANTO TE HE ESPERADO, SOY DE TU FAMILIA\nQUÉ BONITA ES TU IGLESIA\n\nRiéndome de mi autosuficiencia\nContigo pan blanco que me susurras\n\nSED UNO COMO EL PADRE Y YO\nPORQUE SOY DE TU FAMILIA\nQUÉ BONITA ES\nESTOS SON MI MADRE Y MIS HERMANOS, SOY DE TU FAMILIA\nQUÉ BONITA ES, TU IGLESIA",
+      "audio": "canciones/audio/siempre-imagine.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-010",
+      "titulo": "Trinidad santa",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "TRINIDAD SANTA, UN SOLO DIOS, TÚ, SEÑOR. (BIS)\n\nEn el nombre del Padre, del Espíritu y del Hijo,\naquí estamos reunidos para alabar tu Nombre siempre,\ny recibir tu amor.\n\nTRINIDAD SANTA, UN SOLO DIOS, TÚ, SEÑOR. (BIS)",
+      "audio": "canciones/audio/trinidad-santa.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-011",
+      "titulo": "Vine a alabar a Dios",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "VINE A ALABAR A DIOS, VINE A ALABAR A DIOS,\nVINE A ALABAR SU NOMBRE, VINE A ALABAR A DIOS\n\nÉl vino a mi vida en un día muy especial\nCambió mi corazón en un nuevo corazón\nY ésta es la razón por la que digo que\nVine a alabar a Dios",
+      "audio": "canciones/audio/vine-a-alabar-a-dios.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-012",
+      "titulo": "Viva Cristo Rey",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "Un grito de guerra se escucha en la faz de la Tierra y en todo lugar.\nLos prestos guerreros empuñan su espada y se enlistan para pelear.\nPara eso han sido entrenados, defenderán la verdad,\ny no les será arrebatado el fuego que en su sangre está\n\nVIVA CRISTO REY, VIVA CRISTO REY\nEL GRITO DE GUERRA QUE ENCIENDE LA TIERRA\nVIVA CRISTO REY, NUESTRO SOBERANO SEÑOR,\nNUESTRO CAPITÁN Y CAMPEÓN,\nPELEAR POR ÉL, ES TODO UN HONOR\n\nSabemos que esta batalla no es fácil y muchos se acobardarán,\ny bajo los dardos de nuestro enemigo, sin duda perecerán.\nYo tendré mi espada en alto como la usa mi Señor.\nA Él nada lo ha derrotado, su fuerza es la de Dios.\n\nNo conocemos mayor alegría, no existe más honroso afán,\nque con mis hermanos estar en la línea y juntos la vida entregar\na Él que merece la gloria, y nos reclutó por amor.\nAnte Él las rodillas se doblan y se postra el corazón.",
+      "audio": "canciones/audio/viva-cristo-rey.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-013",
+      "titulo": "Y alabándote",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "¡Cómo podré agradecer tanta bendición? ¿Cómo podré responder a tu amor?\nLevantando mis manos, Señor, declarando que Tú eres Dios\ny dejándome llevar por el soplo de tu amor\n\nY ALABÁNDOTE, Y ALABÁNDOTE, Y ALABÁNDOTE SEÑOR, MI DIOS.\n\nQuiero adorarte Señor, desde el corazón, y descalzarme ante ti, Santo Dios.\nTu perfume me inunda, Señor, tu presencia está dentro de mí\ny tu gracia se derrama por todo este lugar.",
+      "audio": "canciones/audio/y-alabandote.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "entrada-014",
+      "titulo": "Yendo contigo",
+      "artista": "Desconocido",
+      "categoria": "Entrada",
+      "letra": "Yendo contigo, nada me inquieta, marcho con paz y fuerza.\nYendo contigo todo se espera cada mañana es nueva.",
+      "audio": "canciones/audio/yendo-contigo.mp3",
+      "duracion": 0
     }
   ]
 }
