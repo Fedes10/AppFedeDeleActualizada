@@ -8,12 +8,39 @@
   "canciones": [
     {
       "id": "kyrie-001",
-      "titulo": "Señor, ten piedad",
-      "artista": "Tradicional",
-      "categoria": "Kyrie",
-      "letra": "Señor, ten piedad.\nSeñor, ten piedad.\n\nCristo, ten piedad.\nCristo, ten piedad.\n\nSeñor, ten piedad.\nSeñor, ten piedad.",
-      "audio": null,
-      "duracion": 120
+      "titulo": "Kyrie",
+      "artista": "Desconocido",
+      "categoria": "Kyrie Eleison",
+      "letra": "Kyrie, Kyrie eleison\nChristie, Christie eleison\nKyrie, Kyrie eleison",
+      "audio": "canciones/audio/kyrie.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "kyrie-002",
+      "titulo": "Kyrie JPJ",
+      "artista": "Desconocido",
+      "categoria": "Kyrie Eleison",
+      "letra": "Kyrie eleison, Kyrie eleison, Kyrie eleison.\nChristie eleison, Christie eleison, Christie eleison.\nKyrie eleison, Kyrie eleison, Kyrie eleison.",
+      "audio": "canciones/audio/kyrie-jpj.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "kyrie-003",
+      "titulo": "Kyrie LaDele",
+      "artista": "Desconocido",
+      "categoria": "Kyrie Eleison",
+      "letra": "Kyrie eleison, Kyrie eleison (bis)\nChriste eleison, Christe eleison (bis)\nKyrie eleison, kyrie eleison (bis)",
+      "audio": "canciones/audio/kyrie-ladele.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "kyrie-004",
+      "titulo": "Señor ten piedad",
+      "artista": "Desconocido",
+      "categoria": "Kyrie Eleison",
+      "letra": "Señor, ten piedad de nosotros\nCristo, ten piedad de nosotros\nSeñor, ten piedad de nosotros",
+      "audio": "canciones/audio/senor-ten-piedad.mp3",
+      "duracion": 0
     }
   ]
 }
