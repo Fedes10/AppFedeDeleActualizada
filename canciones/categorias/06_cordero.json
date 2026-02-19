@@ -8,12 +8,39 @@
   "canciones": [
     {
       "id": "cordero-001",
-      "titulo": "Cordero de Dios",
-      "artista": "Tradicional",
-      "categoria": "Cordero",
-      "letra": "Cordero de Dios,\nque quitas el pecado del mundo,\nten piedad de nosotros.\n\nCordero de Dios,\nque quitas el pecado del mundo,\nten piedad de nosotros.\n\nCordero de Dios,\nque quitas el pecado del mundo,\ndanos la paz.",
-      "audio": null,
-      "duracion": 120
+      "titulo": "Cordero de Dios I",
+      "artista": "Desconocido",
+      "categoria": "Cordero de Dios",
+      "letra": "Cordero de Dios, que quitas el pecado del mundo,\nten piedad de nosotros, ten piedad de nosotros.\nCordero de Dios que quitas el pecado del mundo,\nten piedad de nosotros y danos la paz.",
+      "audio": "canciones/audio/cordero-de-dios-i.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "cordero-002",
+      "titulo": "Cordero de Dios II",
+      "artista": "Desconocido",
+      "categoria": "Cordero de Dios",
+      "letra": "Cordero de Dios, que quitas el pecado del mundo, ten piedad de nosotros.\nCordero de Dios, que quitas el pecado del mundo, ten piedad de nosotros.\nCordero de Dios, que quitas el pecado del mundo, danos la paz, danos la paz.",
+      "audio": "canciones/audio/cordero-de-dios-ii.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "cordero-003",
+      "titulo": "Cordero de Dios III",
+      "artista": "Desconocido",
+      "categoria": "Cordero de Dios",
+      "letra": "Cordero de Dios, que quitas el pecado del mundo,\nten piedad de nosotros,\nten piedad de nosotros.\nCordero de Dios, que quitas el pecado del mundo,\ndanos la paz,\ndanos la paz.",
+      "audio": "canciones/audio/cordero-de-dios-iii.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "cordero-004",
+      "titulo": "Cordero Jubileo",
+      "artista": "Desconocido",
+      "categoria": "Cordero de Dios",
+      "letra": "Cordero de dios\nTú que quitas el pecado del mundo\nMiserere nobis\nMiserere nobis (Bis)\n\nCordero de dios\nTú que quitas el pecado del mundo\nDona nobis pacem\nDona nobis pacem",
+      "audio": "canciones/audio/cordero-jubileo.mp3",
+      "duracion": 0
     }
   ]
 }
