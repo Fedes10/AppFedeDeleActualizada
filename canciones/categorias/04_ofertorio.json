@@ -8,12 +8,111 @@
   "canciones": [
     {
       "id": "ofertorio-001",
-      "titulo": "Te ofrecemos, Señor",
-      "artista": "Tradicional",
+      "titulo": "El Señor Dios nos amó",
+      "artista": "Desconocido",
       "categoria": "Ofertorio",
-      "letra": "Te ofrecemos, Señor,\nnuestro pan y nuestro vino,\nque tú transformarás\nen tu Cuerpo y en tu Sangre.\n\nTe ofrecemos también\nnuestra pobre vida,\nque renazca por Ti\nen tu Muerte y Resurrección.",
-      "audio": null,
-      "duracion": 150
+      "letra": "El Señor Dios nos amó como nadie amó jamás.\nÉl nos guía como estrella cuando no existe la luz;\nÉl nos da todo su amor, mientras la fracción del pan,\nes el pan de la unidad, el pan de Dios.\n\nES MI CUERPO, TOMAD Y COMED.\nESTA ES MI SANGRE, TOMAD Y BEBED,\nPUES YO SOY LA VIDA, YO SOY EL AMOR.\nOH SEÑOR, CONDÚCENOS HACIA TU AMOR.\n\nEl Señor Dios nos amó como nadie amó jamás.\nSus paisanos le creían hijo de un trabajador.\nComo todos, Él también ganó el pan con su sudor,\ny conoce la fatiga y el dolor.\n\nEl Señor Dios nos amó como nadie amó jamás.\nÉl reúne a los hombres y les da a vivir su amor.\nLos cristianos, todos ya, miembros de su Cuerpo son,\nnadie puede separarlos de su amor.",
+      "audio": "canciones/audio/el-senor-dios-nos-amo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-002",
+      "titulo": "Entre tus manos",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "ENTRE TUS MANOS ESTÁ MI VIDA, SEÑOR.\nENTRE TUS MANOS PONGO MI EXISTIR.\nHAY QUE MORIR, PARA VIVIR.\nENTRE TUS MANOS CONFÍO MI SER\n\nSi el grano de trigo no muere,\nsi no muere solo quedará,\npero si muere en abundancia dará\nun fruto nuevo que no morirá.",
+      "audio": "canciones/audio/entre-tus-manos.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-003",
+      "titulo": "Mi Getsemaní",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "Para que mi amor no sea un sentimiento\ntan solo un deslumbramiento pasajero.\nPara no gastar mis palabras mas mias\nni vaciar de contenido mi Te Quiero.\n\nQuiero hundir más hondo mis raíces en ti\ny cimentar en solidez este mi afecto.\nPues mi corazón que es inquieto y es frágil\nsolo acierta si se abraza a tu proyecto.\n\nMAS ALLÁ DE MIS MIEDOS\nMAS ALLÁ DE MI INSEGURIDAD\nQUIERO DARTE MI RESPUESTA.\nAQUÍ ESTOY PARA HACER TU VOLUNTAD\nPARA QUE MI AMOR SEA DECIR QUE SI\nHASTA EL FINAL.\n\nDuerme su sopor y temen en el huerto\nni sus amigos acompañan al maestro.\nSi es hora de cruz es de fidelidades\npero el mundo nunca quiere aceptar esto.\n\nDame a comprender señor tu amor tan puro\namor que persevera en la cruz amor perfecto.\nDame serte fiel cuando todo es oscuro\npara que mi amor no sea un sentimiento.",
+      "audio": "canciones/audio/mi-getsemani.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-004",
+      "titulo": "Mi ofrenda",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "Quisiera ofrecerte unas humildes cosas\nque, aunque sean pocas, lo son todo para mí.\nTe ofrezco cariño, te ofrezco mis manos,\nte ofrezco el orgullo de sentirme hoy a tu lado\nTe ofrezco este vino, te ofrezco este grano\nque siembre en tu campo un amor entre hermanos.\nYa no tengo nada, no poseo nada más,\npero todo es tuyo, es tuyo hasta el final.\nTe ofrezco mi vida, mi bien más preciado,\nque no vale nada si Tú no estás a mi lado. (BIS)",
+      "audio": "canciones/audio/mi-ofrenda.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-005",
+      "titulo": "Ofrece tu vida",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "Una noche de sudor, en una barca en alta mar\ncon el primer rayo de sol, ves tus redes nada hay\ny la voz que dentro te habla, otro mar te mostrará\nal corazón de cada hombre, tus redes arrojarás\n\nOFRECE TU VIDA, COMO MARÍA, AL PIE DE LA CRUZ\nY SERÁS, SIERVO DE CADA HOMBRE, SIERVO POR AMOR\nSACERDOTE DE LA HUMANIDAD.\n\nAvanzabas en silencio, entre lágrimas y surcos,\nesperando que, en la tierra, su semilla se haga fruto.\nHoy tu casa es una fiesta, porque el trigo ondea ya,\nha madurado bajo el sol, ya lo puedes cosechar.",
+      "audio": "canciones/audio/ofrece-tu-vida.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-006",
+      "titulo": "Qué te puedo dar",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "Que te puedo dar, que no me hayas dado Tú.\nQue te puedo decir que no me hayas dicho Tú.\nQue puedo hacer por Ti, si yo no puedo hacer nada,\nsi yo no puedo hacer nada, si no es por Ti, Señor.\n\nTODO LO QUE SÉ, TODO LO QUE SOY,\nTODO LO QUE TENGO ES TUYO. (BIS)",
+      "audio": "canciones/audio/que-te-puedo-dar.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-007",
+      "titulo": "Recíbeme",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "Hoy es tiempo de dar\na manos llenas lo que se nos dio\nbrillar, hasta consumirse\niluminar a un mundo en penumbras\nhasta que no quede yo.\n\nRECIBEME\nCON TODA LA MISERIA QUE HAY EN MI\nCON TODOS LOS DESEOS DE SEGUIR\nPOR TU CAMINO.\n\nILUMINAR\nES HOY EL RETO EN LA OSCURIDAD\nSERVICIO ENTREGA EN FIDELIDAD\nHASTA LA MUERTE.",
+      "audio": "canciones/audio/recibeme.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-008",
+      "titulo": "Sabed que vendrá",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "En este mundo que Cristo nos da hacemos la ofrenda del pan.\nEl pan de nuestro trabajo sin fin y el vino de nuestro cantar.\nTraigo ante Ti nuestra justa inquietud, amar la justicia y la paz.\n\nSABED QUE VENDRÁ, SABED QUE ESTARÁ,\nPARTIENDO A LOS POBRES SU PAN. (BIS)\n\nLa sed de todos los hombres sin luz, la pena y el triste llorar,\nel odio de los que mueren sin fe, cansados de tanto luchar.\nEn la patena de nuestra oblación: acepta la vida Señor.",
+      "audio": "canciones/audio/sabed-que-vendra.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-009",
+      "titulo": "Si amo mi vida",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "Quiero caer en tierra y morir\nSi no quedaré solo\nSoy un grano de trigo\nQuiero dar mucho fruto\nSer Tu testigo por el mundo\n\nSI AMO MI VIDA, LA PERDERÉ\nSI DOY MI VIDA, LA GANARÉ. (LA GANARÉ, LA GANARÉ)\nDONDE TÚ ESTÁS, JESÚS, ALLÍ ESTOY YO\nTE SIGO, SOY TU SERVIDOR. (TU SERVIDO, TU SERVIDOR)\n\nPadre ha llegado la hora\nglorifica tu nombre.\nEs mi ser que muere\npara que seas Tú el Rey.",
+      "audio": "canciones/audio/si-amo-mi-vida.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-010",
+      "titulo": "Te conocimos al partir el pan",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "Andando por el camino te tropezamos, Señor,\nte hiciste el encontradizo nos diste conversación,\ntenían tus palabras fuerza de vida y amor,\nponían esperanza y fuego en el corazón.\n\nTE CONOCIMOS, SEÑOR, AL PARTIR EL PAN,\nTU NOS CONOCES, SEÑOR, AL PARTIR EL PAN. (BIS)\n\nLlegando a la encrucijada Tú proseguías, Señor,\nte dimos nuestra posada, techo, comida y calor,\nsentados como amigos a compartir el cenar,\nallí te conocimos al repartirnos el pan.\n\nAndando por los caminos te tropezamos, Señor,\nen todos los peregrinos que necesitan amor;\nesclavos y oprimidos que buscan la libertad,\nhambrientos, desvalidos, a quienes damos el pan.",
+      "audio": "canciones/audio/te-conocimos-al-partir-el-pan.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-011",
+      "titulo": "Tuyas son",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "La bendición y la gloria\nLa sabiduría, la acción de gracias\ny el poder.\n\nLa honra y toda fortaleza\n\nTUYAS SON BENDITO DIOS\nTUYAS SON BENDITO DIOS\nPARA SIEMPRE. AMÉN. AMÉN.",
+      "audio": "canciones/audio/tuyas-son.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "ofertorio-012",
+      "titulo": "Ven, Espíritu, ven",
+      "artista": "Desconocido",
+      "categoria": "Ofertorio",
+      "letra": "VEN, ESPÍRITU, VEN\nY LLÉNAME, SEÑOR\nCON TU PRECIOSA UNCIÓN\n\nPurifícame y lávame, renuévame\nRestáurame, Señor\nCon tu poder\n\nPurifícame y lávame, renuévame\nRestáurame, Señor\n\nTe quiero conocer",
+      "audio": "canciones/audio/ven-espiritu-ven.mp3",
+      "duracion": 0
     }
   ]
 }
