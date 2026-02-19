@@ -8,12 +8,444 @@
   "canciones": [
     {
       "id": "adoracion-001",
-      "titulo": "Adoramos tu Cruz",
-      "artista": "Tradicional",
+      "titulo": "Adoramus te, Dominé",
+      "artista": "",
       "categoria": "Adoración",
-      "letra": "Adoramos tu Cruz, Señor,\ny alabamos tu gloriosa Resurrección,\nporque por el madero de la Cruz,\nvino la alegría al mundo entero.\n\nQue Dios tenga piedad\ny nos bendiga,\ny haga brillar su rostro sobre nosotros.",
-      "audio": null,
-      "duracion": 180
+      "letra": "¡Oh oh oh, adoramus te, Dominé!",
+      "audio": "canciones/audio/adoramus-te-domine.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-002",
+      "titulo": "Ahora y siempre",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Fui del remanso hasta tu monte,\ndejé mi sombra por tu barca cambié mi hacienda por tu red.\nHice de tu reino mi heredad\npuse mis manos en tu arado sin querer mirar atrás.\n\nTÚ ME AMASTE PRIMERO Y ME ENSEÑASTE A AMAR\nTÚ ELEGISTE PRIMERO Y ME ENSEÑASTE A ORAR.\nY TU VOZ BUSCÓ EN LA SOLEDAD LUGAR DONDE VACIARSE EN MÍ\nY TU AMOR SEMBRÓ EN MI SEQUEDAD EL GOZO QUE BROTA DE TI.\nY TU GRACIA ME HIZO CAMINAR ENCARAR LA VIDA SIN TEMOR\nDESCUBRIR EN MÍ TU VOLUNTAD TU ERES SEÑOR AHORA Y SIEMPRE.\nY ME DISTE VOZ PARA CANTAR PROCLAMAR TU REINO EN EL DOLOR\nY GRITAR AL MUNDO LO QUE VÍ. TÚ ERES SEÑOR AHORA Y SIEMPRE.\n\nY pude beber del agua viva\nme acompañaste en el desierto me diste a compartir tu pan.\nMe hiciste dichoso en la pobreza\ny fue tu madre mi madre: una esperanza por andar.",
+      "audio": "canciones/audio/ahora-y-siempre.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-003",
+      "titulo": "Amando hasta el extremo",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Déjame, Señor, mirarte bien por dentro,\nentrar en tu Corazón y dejarme seducir\ny que aumenten mis deseos de querer ser como Tú,\nconocerte internamente, amarte y seguirte más,\napostar mi vida junto a ti, déjame verte, Señor,\n\nAMANDO HASTA EL EXTREMO, DEJÁNDOTE LA PIEL,\nENTREGANDO LAS ENTRAÑAS, TUS ENTRAÑAS DE MUJER,\nEN UNA TOALLA Y UN LEBRILLO, EN UN ACARICIAR LOS PIES,\nEN UN MIRARNOS HASTA EL FONDO SIN NADA QUE REPROCHAR\nY SIN NADA QUE PEDIR, Y CON TANTO PARA DAR\n\nYo, el Maestro y el Señor, ya no puedo amaros más,\npues como el Padre me ha amado, así os he amado yo.\nOs dejo mi vida entera en este Vino y este Pan,\neste Pan que soy yo mismo que me parto y que me doy,\nmi deseo es que os améis de corazón,\nYo también os quiero ver",
+      "audio": "canciones/audio/amando-hasta-el-extremo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-004",
+      "titulo": "Arde",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Arde, con fuerza en este frío, Con todo el alma en vilo Buscando una razón.\nTiemblan, los Muros de esta celda, Que no pueden ni intentan Contener su corazón.\nBrazos, cerrándose en abrazos, De un padre que dio tanto De un hijo que murió.\nLloran, reyes y tronos lloran, Ante un hombre en la sombra, Rezándole a sus Dios.\nLa mira, y al verla el mundo gira. Y en un solo segundo, Al cielo estremeció.\nBesa, donde ella pisa él besa. Secándose las lágrimas al pedirle perdón.\nAlza, un paso al firme al alba. Ejércitos se apartan ante su convicción.\nSiente, el peso que le viene. Pero nada detiene Su sencilla decisión.\nDuerme, tranquilo el niño duerme Sufre porque no puede darle algo mejor.\nCalla, y en el silencio grita. Se le traspasa el alma. Sufre su condición.\n\nUN TE QUIERO MUDO EN UN SILENCIO ACOGEDOR.\nUN HUMILDE CARPINTERO DUERME EN BRAZOS A SU DIOS.\nUN TE QUIERO MUDO EN UN SILENCIO ACOGEDOR.\nUN HUMILDE CARPINTERO MIRA A LOS OJOS A DIOS.\n\nSonríe, tranquilo al fin sonríe. Y en un último aliento Hizo llorar a Dios.",
+      "audio": "canciones/audio/arde.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-005",
+      "titulo": "El alma que anda en amor",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "El alma que anda en amor, ni cansa, ni se cansa. ¡Oh!",
+      "audio": "canciones/audio/el-alma-que-anda-en-amor.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-006",
+      "titulo": "El amor no dice basta",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "EL AMOR NO DICE BASTA.\nAmor y más amor, que nunca dice basta.\n\nSólo el amor de Dios es lo que se encuentra siempre, todo lo demás sobra.\nHacedlo todo por amor, nada hagáis por fuerza; sólo el amor queda.\nBusquemos a Jesús, que, si lo tenemos a Él, entonces lo tendremos todo.\nAma a tus hermanos como Dios te ama a ti; esto quiere el Señor: ama",
+      "audio": "canciones/audio/el-amor-no-dice-basta.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-007",
+      "titulo": "Cara a cara",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Solamente una palabra, solamente una oración Cuando llegue a tu presencia oh Señor\nNo me importa en qué lugar, de la mesa me hagas sentar O el color de mi corona, si la llego a ganar.\nSolamente una palabra, si es que aún me queda voz Y si logro articularla, Tu presencia.\nNo te quiero hacer preguntas, solo una petición. Y si puede ser a solas, mucho mejor.\n\nSOLO DÉJAME MIRARTE CARA A CARA Y PERDERME COMO UN NIÑO EN TU MIRADA\nY QUE PASE MUCHO TIEMPO, Y QUE NADIE DIGA NADA\nPORQUE ESTOY VIENDO, AL MAESTRO CARA A CARA.\nQUE SE AHOGUE EN MI RECUERDO, EN TU MIRADA QUIERO AMARTE EN EL SILENCIO, Y SIN PALABRAS\nY QUE PASE MUCHO TIEMPO, Y QUE NADIE DIGA NADA\nSOLO DÉJAME MIRARTE CARA A CARA.\n\nSolamente una palabra…\n\nSOLO DÉJAME MIRARTE CARA A CARA, AUNQUE CAIGA DERRETIDO EN TU MIRADA\nDERROTADO Y DESDE EL SUELO, TEMBLOROSO Y SIN ALIENTO\nAUN TE SEGUIRÉ MIRANDO, MI MAESTRO.\nCUANDO CAIGA ENTRE TUS PLANTAS, DE RODILLAS DÉJAME LLORAR\nPEGADO A TUS HERIDAS\nY QUE PASE MUCHO TIEMPO, Y QUE NADIE ME LO IMPIDA\nQUE HE ESPERADO ESTE MOMENTO, TODA MI VIDA.",
+      "audio": "canciones/audio/cara-a-cara.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-008",
+      "titulo": "Canto de Oseas",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Conozco tu conducta y tu constante esfuerzo\nhas sufrido por mi causa sin sucumbir al cansancio.\nPero tengo contra ti que has dejado enfriar tu primer amor.\n\nPOR ESO YO, LA VOY A SEDUCIR LA LLEVARÉ\nAL DESIERTO Y ALLÍ, LE HABLARÉ A SU CORAZÓN\nY ELLA ME RESPONDERÁ COMO EN LOS DÍAS\nDE SU JUVENTUD.\n\nYa no te llamarán jamás abandonada ni a tu tierra le dirán ya más la desolada\npues tu Dios se complacerá en ti y tu tierra será desposada.\nY como un joven se casa con doncella, se casará contigo tu Hacedor\ncomo un joven contento con su novia, se gozará por ti tu Dios.\nYo te desposaré conmigo para siempre, te desposaré en fidelidad,\nen amor, en compasión y tú conocerás a tu Dios.\nEnsancha el espacio de tu tienda, tus clavijas asegura, no te detengas,\npues tus hijos heredarán naciones y un pueblo de Dios formarán.",
+      "audio": "canciones/audio/canto-de-oseas.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-009",
+      "titulo": "Corazón de Cristo",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Hay un corazón que late que palpita en el Sagrario,\nun Corazón solitario que se alimenta de amor.\nEs un Corazón paciente, es el Corazón amigo,\nel que habita en el olvido, el Corazón de tu Dios.\n\nEs un Corazón que espera, un corazón que perdona,\nque te conoce y que toma de tu vida lo peor,\nque comenzó esta tarea una tarde en el Calvario\ny que ahora desde el Sagrario tan sólo te pide amor.\n\nDECID A TODOS QUE VENGAN A LA FUENTE DE LA VIDA,\nQUE HAY UNA HISTORIA ESCONDIDA DENTRO DE ESE CORAZÓN.\nDECIDLES QUE HAY ESPERANZA, QUE TODO TIENE SENTIDO,\nQUE JESUCRISTO ESTÁ VIVO, DECIDLES QUE EXISTE DIOS.\n\nEs el Corazón que llora en la casa de Betania\nel Corazón que acompaña a los dos de Emaús.\nEs el corazón que al joven rico amó con la mirada,\nel que a Pedro perdonaba después de la negación.\nEs el corazón que lucha en el monte de los Olivos,\nque amando a sus enemigos hizo creer al ladrón.\nEs el Corazón que salva por su fe a quien se le acerca,\nque mostró su herida abierta al apóstol que dudó.",
+      "audio": "canciones/audio/corazon-de-cristo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-010",
+      "titulo": "Cuán grande es mi Dios",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "El esplendor de un Rey, vestido en Majestad,\nLa Tierra alegre está, la Tierra alegre está\nEl brilla con su luz, venció a la oscuridad\nY tiembla a Su voz, tiembla a Su voz\n\nCUÁN GRANDE ES MI DIOS, CÁNTALO, CUÁN GRANDE ES MI DIOS\nY TODOS LO VERÁN CUÁN GRANDE ES MI DIOS\n\nÉl a mi lado está, me ayuda a vencer\nÉl siempre ha sido fiel, Él siempre ha sido fiel\nLa Trinidad en Dios, Padre, Hijo, Espíritu.\nCordero y León, Cordero y León.",
+      "audio": "canciones/audio/cuan-grande-es-mi-dios.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-011",
+      "titulo": "Dejarme hacer",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Dejarme hacer, dejarme hacer\nDejarme hacer, es cuanto pides de mí\nDejarme hacer de nuevo por ti\nDejarme hacer en tus manos Señor",
+      "audio": "canciones/audio/dejarme-hacer.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-012",
+      "titulo": "Dulce locura",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Creo que no encuentro las palabras, Se hace difícil expresar\nEl alma gira y da mil vueltas Estás presente en el altar.\nTe veo escondido en la Custodia Y siempre intento recordar\nQue Tú me miras y yo Te miro Y no hace falta mucho más.\n\nDULCE LOCURA, TE ESCONDES EN EL PAN ¿QUÉ MÁS PODÍAS DAR?\nSENCILLO Y FRÁGIL DIOS ETERNO, NOS TRAES LA VIDA, TRAES LA PAZ.\n\nMe fascina este misterio ¿Cómo es que Tú has querido entrar,\nDentro de este pobre corazón, Que en Ti se funde al comulgar?\nEn el mundo no hay amor así, Amor que llevó a morir\nResucitaste y ahora estás aquí En el Sagrario junto a mí.\n\nAnte Ti rindo mi vida, Quiero estar cerca de Ti\nCompartir mis sueños y alegrías Quiero amarte cada día más",
+      "audio": "canciones/audio/dulce-locura.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-013",
+      "titulo": "El Abrazo",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Quiero poder cerrarte en un paréntesis de brazos,\nEntrelazando los míos con los tuyos\nQuiero crear contigo un círculo sin afueras\nIncluir en el movimiento al mundo entero\nY prestarte mi cuerpo para ese abrazo eterno\nInvítame a entrar en ese abrazo y aprendiz en esta escuela\n\nDEJANDO LA INDIFERENCIA VIVIRÉ DE RODILLAS Y ABRAZADO\nDEJANDO LAS DIFERENCIAS VIVIRÉ DE RODILLAS Y ABRAZANDO\n\nQuiero apretarte en el vientre de tu madre aún no nacido,\nSiendo hombre ensangrentando y crucificado\nQuiero abrazarte en la blanca Hostia y en la vida que me has dado\nEn el sufriente y en quien tengo al lado\nSiendo siempre Tú, prójimo y necesitado.\nInvítame a entrar en ese abrazo y aprendiz en esta escuela",
+      "audio": "canciones/audio/el-abrazo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-014",
+      "titulo": "En mi debilidad",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "En mi debilidad me haces fuerte.\nEn mi debilidad me haces fuerte.\nSólo en tu amor me haces fuerte.\nSólo en tu vida me haces fuerte.\nEn mi debilidad te haces fuerte en mí.",
+      "audio": "canciones/audio/en-mi-debilidad.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-015",
+      "titulo": "Eterna confianza",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "No se trata de entender, sino de amar No es cuestión de recibir, sino de dar\nSiempre estuve a tu lado ¿En serio crees que te voy a dejar?\nLlamo a tu puerta, intento entrar Tu vida, mi oportunidad\nAnda, ¡ábreme la puerta! Vivamos juntos la eternidad\nLuz, paz y claridad No más mentiras ni oscuridad\nQuiero tu bien, aborrezco el mal Confía y déjate abrazar\n\n¿CUÁNDO PERDÍ TU CONFIANZA? ¿ACASO DEJASTE DE SENTIR Y FUE\nPOR ESO QUE DESAPARECIÓ TU ESPERANZA? DÉJAME PREGUNTARTE:\n¿NO ES QUE VAN Y VIENEN LOS SENTIMIENTOS? ESTÉN O NO ESTÉN,\nSIEMPRE ESTUVE CERCA Y NUNCA LEJOS\n\nPadre, ahora entiendo Te pido perdón, pues Perdí mi tiempo\nEscucho tu Palabra Me rompe por dentro, me traspasa\nMi seguridad estaba puesta en lo que es fugaz\nPero\nme niego a mí mismo No elijo mi plan, quiero el tuyo Cristo\n\n¿Cuándo perdí mi confianza? ¿Acaso dejé de sentir y fue por eso que desapareció mi esperanza? Déjame adorarte, ¿acaso no eres a quien obedece el viento? Quiero serle fiel, dime Madre del buen consejo\n\nOra, persevera Nadie dijo que fuera fácil la prueba\nOra, persevera Nadie dijo que fuera fácil la prueba\n\n¿Cuándo perdí tu confianza? No me he olvidado de ti\nVuelve a casa",
+      "audio": "canciones/audio/eterna-confianza.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-016",
+      "titulo": "Hasta la locura",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Me puede faltar todo en la vida. Me puede faltar hasta la vida;\nPero nunca quiero que me falte el deseo de amarte hasta el final...\n\nHASTA LA LOCURA TE AMO SEÑOR,\nYA NO QUEDAN DUDAS EN MI CORAZÓN.\nDE QUE TE AMO, DE QUE TE AMO, SEÑOR.\n\nQuiero amarte hasta el extremo, sin reservas darme por entero,\nComo los que se han enamorado, yo te canto a Ti mi amado hasta el final...",
+      "audio": "canciones/audio/hasta-la-locura.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-017",
+      "titulo": "Huracán",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Me he hecho tantas preguntas, Intentando entender\nMe he lanzado a buscarte Sin saberte ver\nMe he asomado al abismo Me he atrevido a saltar y caer\n\nY UN HURACÁN ROMPERÁ EL CIELO DESDE MI GARGANTA GRITÁNDOTE:\n¿DÓNDE ESTÁS CUANDO ME HACES FALTA?\n\nY me han dado respuestas Pero no sé qué hace He prometido seguirte\nSin entender\nY hay un eco en lo hondo Que me empuja hacia ti Y aunque sea sin sentirte\nTe buscaré\n\nEstoy aquí, en el silencio\nEstoy aquí, en este viento\nEstoy aquí, soy este trozo de pan\nEstoy aquí, en tu lamento\nEstoy aquí, en este eco\nEstoy aquí, soy este trozo de pan\n\nY tu huracán Romperá el cielo desde mi garganta\nGritándome cuánto me haces falta",
+      "audio": "canciones/audio/huracan.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-018",
+      "titulo": "Me basta",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Me basta con saber que estás aquí,\nencerrado en una urna de cristal\nvolando a lomos de una nube gris,\ncaminando de nuevo sobre el mar.\n\nMe basta con saber que estás aquí, aunque tardes un poco en regresar,\nTú dijiste que habrías de venir, haz que no nos cansemos de esperar.\n\nMe basta con saber que estás aquí aunque no se te oiga respirar\ny ni siquiera el corazón latir, me basta con tu nombre pronunciar.\n\nMe basta con saber que estás aquí preparándonos una eternidad,\naunque tengamos antes que morir, para poder después resucitar.\n\nMe basta con saber que estás en mí y que nada nos puede separar,\nni la angustia, ni el hambre, ni el sufrir, ni el peligro, la espada o la precariedad.\n\nMe basta con saber que estás aquí y que eres el principio y el final,\nque te obedece el tiempo y el sol sale para Ti, que das orden al viento y deja de soplar.\n\nMe basta con saber que estás aquí y que pronto nos hemos de encontrar\nque nuestra travesía tiene un fin y Tú estás esperando en la orilla del mar.\n\nMe basta con poder decir que sí, y darte mi permiso para entrar,\nque tu palabra se haga carne en mí y que se cumpla así en toda Tu voluntad.\n\nMe basta si al morir puedo decir que todo se ha cumplido y exhalar\nel último suspiro inclinándome hacia Ti para rendir mi espíritu y luego volar.\n\nMe basta porque sé que así te basta a Ti me bastará aquel día poder escuchar\nque pronuncias mi nombre para bendecir y olvidas todo lo que pude hacer de mal. Me bastará.",
+      "audio": "canciones/audio/me-basta.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-019",
+      "titulo": "Me has seducido Señor",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Señor, no soy nada, ¿por qué me has llamado?\nHas pasado por mi puerta y bien sabes que soy\npobre, y soy débil ¿por qué te has fijado en mí?\n\nME HAS SEDUCIDO SEÑOR, CON TU MIRADA\nME HAS HABLADO AL CORAZÓN Y ME HAS QUERIDO.\nES IMPOSIBLE CONOCERTE Y NO AMARTE.\nES IMPOSIBLE AMARTE Y NO SEGUIRTE.\nME HAS SEDUCIDO, SEÑOR.\n\nSeñor, yo te sigo y quiero darte lo que pides.\nAunque hay veces que me cuesta darlo todo,\nTú lo sabes, yo soy tuyo. Camina Señor junto a mí.\n\nSeñor, hoy tu nombre, es más que una palabra;\nes tu voz que resuena en mi interior,\ny me habla en el silencio. ¿Qué quieres que haga por ti?",
+      "audio": "canciones/audio/me-has-seducido-senor.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-020",
+      "titulo": "Muéveme",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Muéveme, mi Dios, hacia Ti. Que no me muevan los hilos de este mundo.\nNo, muéveme, atráeme hacia Ti, desde lo profundo.",
+      "audio": "canciones/audio/mueveme.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-021",
+      "titulo": "Me sobrepasa",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Tú me sondeas y me conoces\nCuando me siento, me levanto\nDe lejos penetras mis pensamientos\nDistingues mi camino y mi descanso\nTodas mis sendas te son familiares Conoces mis palabras\nMe estrechas, me cubres con tu palma Tanto saber me sobrepasa\n\nA DÓNDE IRÉ LEJOS DE TU ALIENTO\nA DÓNDE ESCAPARÉ DE TU MIRADA\nAHÍ ESTÁS TÚ ALLÍ TE ENCUENTRO\n\nSi vuelo hasta el margen de la aurora Si miro hasta el confín del mar\nAllí me alcanzará tu mano izquierda o tu derecha me agarrará\nMas si digo que al menos la tiniebla me encubra, que la luz se haga noche en torno a mí\nLa noche es clara como el día La tiniebla no es oscura para ti\n\nTÚ HAS CREADO MIS ENTRAÑAS\nEN EL SENO MATERNO ME TEJISTE TE DOY GRACIAS\n\nA DÓNDE IRÉ LEJOS DE TU ALIENTO\nA DÓNDE ESCAPARÉ DE TU MIRADA\nAHÍ ESTÁS TÚ ALLÍ TE ENCUENTRO",
+      "audio": "canciones/audio/me-sobrepasa.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-022",
+      "titulo": "Mirada",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Mirada creadora creando, la del salvador salvando.\nMirada de la Comunión, amando\nMirada de misericordia del amor crucificado,\nmirada que penetra en mi alma, un fuego abrasador.\n\nY ENSÉÑAME, ¡OH TRINIDAD!,\nCÓMO ES TU LIBRE MIRADA.\nY ENSÉÑAME, ¡OH TRINIDAD!,\nPUES ES LA MÁS BELLA Y PRECIADA,\nLA MÁS PURA DE AMOR.\n\nMirada de verdad sincera, mirada de Rey que reina,\nMirada que envuelve mi vida Purifica\nMirada de principio y fin, mirada del Resucitado,\nmirada que deslumbra con su luz Y al cegar sana\n\nPerdóname si cuando miro miro sin mirar,\nsi estos ojos que me diste no saben amar.\nPues sólo veo cuerpos, solo veo humanidad,\npero me pierdo, mi Señor, toda divinidad.\n\nY ENSÉÑAME… LA MÁS PURA DE AMOR, LA MÁS PURA DE AMOR",
+      "audio": "canciones/audio/mirada.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-023",
+      "titulo": "Nada nos separará",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Nada nos separará, nada nos separará,\nnada nos separará, del Amor de Dios.",
+      "audio": "canciones/audio/nada-nos-separara.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-024",
+      "titulo": "Nada te turbe",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "NADA TE TURBE, NADA TE ESPANTE; QUIEN A DIOS TIENE NADA LE FALTA.\nNADA TE TURBE, NADA TE ESPANTE, SÓLO DIOS BASTA.\n\nNada te turbe, nada te espante, quien a Dios tiene, nada le falta.\nTodo se pasa, Dios no se muda. La paciencia todo lo alcanza.\nEn Cristo, mi confianza, y de Él sólo mi asimiento;\nen sus cansancios, mi aliento, y en su imitación, mi holganza.\nAquí estriba mi firmeza, aquí mi seguridad,\nla prueba de mi verdad, la muestra de mi firmeza.\nYa no durmáis, no durmáis, pues que no hay paz en la Tierra.\nNo haya ningún cobarde, aventuremos la vida.\nNo hay que temer, no durmáis, aventuremos la vida.",
+      "audio": "canciones/audio/nada-te-turbe.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-025",
+      "titulo": "Nadie te ama como yo",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Cuánto he esperado este momento, cuánto he esperado que estuvieras así,\ncuánto he esperado que me hablaras, cuánto he esperado que vinieras a Mí.\nYo sé bien lo que has vivido, sé también por qué has llorado,\nyo sé bien lo que has sufrido, pues de tu lado no me he ido.\n\nPUES NADIE TE AMA COMO YO, PUES NADIE TE AMA COMO YO,\nMIRA LA CRUZ, ESA ES MI MÁS GRANDE PRUEBA,\nNADIE TE AMA COMO YO.\nPUES NADIE TE AMA COMO YO, PUES NADIE TE AMA COMO YO,\nMIRA LA CRUZ, FUE POR TI FUE PORQUE TE AMO,\nNADIE TE AMA COMO YO.\n\nYo sé bien lo que me dices, aunque a veces no me hablas.\nYo sé bien lo que en ti sientes, aunque nunca lo compartas.\nYo a tu lado he caminado, junto a ti Yo siempre he ido\nAunque a veces te he cargado, Yo he sido tu mejor amigo.",
+      "audio": "canciones/audio/nadie-te-ama-como-yo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-026",
+      "titulo": "No adoréis a nadie",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "No adoréis a nadie, a nadie más que a Él.\nNo adoréis a nadie, a nadie más que a Él.\nNo adoréis a nadie, a nadie más.\nNo adoréis a nadie, a nadie más.\nNo adoréis a nadie, a nadie más que a Él.\n\nPorque solo Él nos puede sostener…\nNo busquéis a nadie a nadie más que a Él…\nNo pongáis los ojos en nadie más que en Él…",
+      "audio": "canciones/audio/no-adoreis-a-nadie.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-027",
+      "titulo": "No tengas miedo",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Escucha bien lo que hoy te digo, sal de tu miedo y óyeme,\npues cuando aún no habías nacido, yo en ti ya me fijé.\n\nOh mi Dios, Sabes que el miedo me frena, mira que no sé expresarme,\nAún soy pequeña, déjame.\n\nNO TENGAS MIEDO, A TU LADO YO ESTARÉ, DONDE TE ENVÍE\nJUNTO A TI ME SENTIRÁS. Y EN TU BOCA MIS PALABRAS YO PONDRÉ\nNUNCA TE ABANDONARÉ.\n\nTendrás autoridad sobre los pueblos, para plantar y derribar,\ntú te alzarás pues con mi fuerza, y en voz del pobre te transformarás.\nOh mi Dios, no desmayaré de nuevo, aunque el peligro me aceche,\nsé que tú me salvarás.\n\nNO TENDRÉ MIEDO, A MI LADO TÚ ESTARÁS, A DÓNDE VAYA\nJUNTO A TI ME SENTIRÉ, Y EN TUS MANOS SIEMPRE ME ABANDONARÉ\nSOLO EN TI CONFIARÉ",
+      "audio": "canciones/audio/no-tengas-miedo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-028",
+      "titulo": "No tengo miedo (Effetá)",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Cristo, tu cruz es respuesta real\nPara este mundo, para este tiempo\nQue huye en temores\nTú eres camino, eres verdad, eres la vida\n\nNO TENGO MIEDO DE LA LIBERTAD\nNO TENGO MIEDO, SEÑOR DE LA VIDA\nME QUIERO ENTREGAR\nTOMA MIS MANOS, MI VOZ Y MI ANDAR\nY YO ALZARÉ ALTO LA CRUZ DERRAMADA DE AMOR\nPARA QUE SEA BANDERA DE LA JUVENTUD\nTU TRIUNFO SANTO QUE JUNTO A MI CANTO\nSE HARÁN FUERTE LUZ\nPARA QUE VEAN TU ROSTRO, JESÚS\nHOMBRES CON SED\nHOMBRES VALIENTES QUE QUIERAN SEGUIR TU CAMINAR\n\nAl verte herido reinando en la cruz Dices mi nombre Suenan tambores al escucharte Oigo las voces de aquellos hombres que tienen hambre\nSanta María, me acojo a tu amor Pido tu fuego que arde de ruegos hoy por tus hijos Virgen María, rosa del cielo, oye mi canto",
+      "audio": "canciones/audio/no-tengo-miedo-effeta.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-029",
+      "titulo": "Noche",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Por tu iglesia, que te espera a oscuras Por tu pueblo, que te reza guardando la aurora Te rogamos, Te rogamos\n\nPor las naciones paganas Que tienen sed de ti sin saberlo Ten piedad, ten piedad\n\nPor los pueblos oprimidos Por el totalitarismo Y la opresión de la mentira\nPor aquellos perseguidos por tu nombre Que se ocultan para orar Y por aquellos extraídos de su hogar\n\nPor sus perseguidores, cegados por el odio Perdónales, Padre, no saben lo que hacen\n\nPor los que no nos aman Por los que no sabemos amar Por los que sufren y agonizan y hoy duermen en el hospital\n\nPor los que hoy es su última noche Y cuyos ojos no verán el nuevo día\nTen piedad, ten piedad\n\nPor todos los que sufren la tentación del suicidio Por los dispuestos a dejar ganar al mal\nPor aquellos cuyas noches son interminables Y a los que la angustia les ha quitado la paz\n\nKYRIE ELEISON, KYRIE ELEISON KYRIE ELEISON\n\nPor aquellos que trabajan en la prostitución Y se ven obligados a vender su amor. Por los que caen en la trampa, del vicio y las drogas\nPor los que hoy duermen en prisión Por los que hoy esperan su ejecución\nPor aquellos a los que torturan\nPor criminales, por los ladrones Por los que erran en soledad Por los que sufren la indiferencia de los demás\n\nKYRIE ELEISON, KYRIE ELEISON\n\nPor la ciudad, por todos sus habitantes Que en sus sueños, solo existas Tú Por nuestros difuntos, que aún no han visto tu rostro Por los alejados entre la multitud\nPor los niños que descansan en el seno de su madre Por las mujeres que van a dar a luz Para que reine tu paz en cada hogar Por los que quieren saciar tu sed de amar\n\nKYRIE ELEISON, KYRIE ELEISON KYRIE ELEISON\n\nTen piedad, Ten piedad, Ten piedad\nTen piedad, Señor, Ten piedad",
+      "audio": "canciones/audio/noche.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-030",
+      "titulo": "Pluma de escribano",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Me brota el corazón Un poema bello\nRecito mis versos a un rey\nMi lengua es ágil pluma de escribano\nEres el más bello de los hombres En tus labios se derrama la gracia\nEl señor te bendice eternamente\n\nCÍÑETE AL FLANCO LA ESPADA VALIENTE ES TU GALA Y TU ORGULLO\nCABALGA VICTORIOSO POR LA VERDAD Y LA JUSTICIA TU DIESTRA TE ENSEÑE A REALIZAR PROEZAS\nTU FLECHAS SON AGUDAS LOS PUEBLOS SE TE RINDEN\nSE ACOBARDAN LOS ENEMIGOS DEL REY\nTU TRONO, OH DIOS OS PERMANECE PARA SIEMPRE CENTRO DE RECTITUD ES TU CETRO REAL\nHAS AMADO LA JUSTICIA Y ODIADO LA IMPIEDAD POR ESO EL SEÑOR TU DIOS TE HA UNGIDO CON ACEITE DE JÚBILO ENTRE TODOS TUS COMPAÑEROS.\n\nA mirra, áloe y acacia, Huelen tus vestidos Desde los palacios de marfiles\nTe deleitan las arpas\nHijas de reyes salen, Salen a tu encuentro De pie a tu derecha está la reina\nEnjoyada con oro de ofir\n\nESCUCHA, HIJA MÍA INCLINA EL OÍDO OLVIDA TU PUEBLO Y LA CASA PATERNA PRENDADO ESTA EL REY DE TU BELLEZA PÓSTRATE ANTE ÉL\nQUE ÉL ES TU SEÑOR LA CIUDAD DE TIRO VIENE CON REGALOS LOS PUEBLOS MÁS RICOS BUSCAN TU FAVOR\nYA ENTRA LA PRINCESA BELLÍSIMA VESTIDA DE PERLAS Y BROCADO LA LLEVAN ANTE EL REY CON SÉQUITO DE VÍRGENES LA SIGUEN SUS COMPAÑERAS LAS TRAEN ENTRE ALEGRÍA Y ALGAZARA VA ENTRANDO EN EL PALACIO REAL.\n\nA cambio de tus padres tendrás hijos\nQue nombrarás príncipes por toda la tierra\nQuiero hacer memorable tu nombre\nPor generaciones y generaciones\nY los pueblos te alabarán\nPor los siglos de los siglos",
+      "audio": "canciones/audio/pluma-de-escribano.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-031",
+      "titulo": "¿Qué me queda?",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Abarcas mi vida entera, del día a la noche,\nlo ancho y lo profundo que pude conocer.\nHasta en los más pequeños se esconde tu grandeza,\ntan solo te pido, Padre, que siempre te pueda ver\ncon ojos puros que alumbren mi mirar,\ny descubrirte tal como eres Tú.\n\nQUE ME QUEDA SI DESAPARECES A QUIEN ESPERARÉ SI TE VAS\nA DONDE IRÉ SI ME PIERDO POR LAS SOMBRAS DE MI VIDA\n\nRebosas mi pensamiento, cuando intento atraparte\ncon mi mente que no entiende los trazos del corazón.\nNo importa donde vaya si sé que estás conmigo,\nTú nunca me abandonas, tu amor es mi ciudad.\nEl que me lanza desde lo que soy,\na hacer locuras que no comprendo sin Él.",
+      "audio": "canciones/audio/que-me-queda.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-032",
+      "titulo": "Que se quiebre",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Que se quiebre mi corazón, en mil pedazos de amor;\nque se quiebre por los demás, mi vida quiero entregar.\nQue se quiebre, no temo al dolor.\nJesús, yo ya tengo tu amor.",
+      "audio": "canciones/audio/que-se-quiebre.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-033",
+      "titulo": "Recibirte",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Yo quisiera recibirte y acogerte en mi hogar\nAprendiendo de tu madre con pureza y humildad\nYo quisiera recibirte y abrirte mi corazón\nImitando a los Santos con su espíritu y fervor\n\nTU CORAZÓN Y MI CORAZÓN EN UN MISMO PALPITAR\nTU ALMA Y MI ALMA ESTÁN LATIENDO AL COMPÁS\nQuiero estar contigo en intimidad\nYo en ti, tú en mí\nMe quedaría aquí contigo hasta morir\n\nTU CORAZÓN Y MI CORAZÓN EN UN MISMO PALPITAR TU ALMA Y MI ALMA ESTÁN LATIENDO AL COMPÁS.\nQuiero estar contigo\nEs todo lo que quiero\nUna vida contigo Jesús.",
+      "audio": "canciones/audio/recibirte.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-034",
+      "titulo": "Sacerdote (Pastor con el Buen Pastor)",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Sacerdote, tan grande y tan pequeño, por anunciar el Reino dejó su casa atrás.\nSacerdote, la vida pone en juego. Pastor es para el pueblo, un guía a la verdad.\nSacerdote, tan rico en los esfuerzos, tan pobre en los no quiero, pues quiere siempre, ahora, ya…\n\nPASTOR CON EL BUEN PASTOR\nAL PIE DE LA CRUZ CON EL QUE ESTÁ EN CRUZ,\nLÁMPARA DE LUZ EN LA OSCURIDAD,\nEN SUS MANOS DA EL PAN DE VIDA.\n\nSacerdote, humilde pordiosero que pide y se da entero, partiendo el corazón.\nSacerdote, discípulo y maestro, prudente consejero, ministro y servidor.\nSacerdote, tan fuerte en oraciones, tan débil en ambiciones, pues sólo ansía mostrar a Dios.",
+      "audio": "canciones/audio/sacerdote-pastor-con-el-buen-pastor.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-035",
+      "titulo": "Salmo 23",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Tengo todo, eres todo lo que necesito\nTú me llevas al lugar donde encontré descanso\nRenuevas mis fuerzas, tú guías mis pasos\n\nTU AMOR INAGOTABLE ES\nTU BONDAD ME PERSIGUE, TE PERSIGO\nEN TU MESA ME DISTE UN LUGAR\nME RECIBES EN CASA PARA SIEMPRE\n\nEn tus brazos cada miedo y temor se apagan\nTú me enseñas a confiar cuando mi fe desmaya\nRenuevas mis fuerzas, tú guías mis pasos\n\nAunque pase por el valle de las sombra y muerte\nYa no temo, yo confío, Tú estás conmigo\nY si caigo o me pierdo, vienes a buscarme\nNo me olvidas y me encuentras y nunca te rindes",
+      "audio": "canciones/audio/salmo-23.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-036",
+      "titulo": "Si conocieras el don de Dios",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Si conocieras como te amo, si conocieras como te amo;\ndejarías de vivir sin amor.\nSi conocieras como te amo, si conocieras como te amo;\ndejarías de mendigar cualquier amor,\nSi conocieras, como te amo, como te amo\nserías más feliz.\n\nSi conocieras como te busco, si conocieras como te busco;\ndejarías que te alcanzara mi voz.\nSi conocieras como te busco, si conocieras como te busco;\ndejarías que te hablara al corazón,\nSi conocieras, como te busco, como te busco;\nescucharías más mi voz.\n\nSi conocieras cómo te sueño, si conocieras cómo te sueño,\npreguntarías, lo que espero hoy de ti.\nSi conocieras cómo te sueño, si conocieras cómo te sueño,\nbuscarías, lo que he pensado para ti.\nSi conocieras, cómo te sueño, cómo te sueño,\nPensarías más en mí.",
+      "audio": "canciones/audio/si-conocieras-el-don-de-dios.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-037",
+      "titulo": "Si tienes fe",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Cada noche oré,\nno sé si alguien me escucho,\nen el alma una canción\nque nunca entendí,\nno hay miedo en mi interior\naunque haya tanto que temer\nmoverás montañas\nporque en ti está el poder.\n\nHABRÁ MILAGROS HOY SI TIENES FE\nLA ILUSIÓN NO HA DE MORIR\nUN GRAN MILAGRO HOY AL FIN VERÉ\nSI TIENES FE LO LOGRARÁS\nPODRÁS SI TIENES FE.\n\nMalos tiempos son\nni la oración ayuda ya\nla esperanza puede huir\ncual pájaro y volar\nmás hoy yo sigo aquí\ncreciendo en gozo y en amor\ncon la fe y la devoción\nque nunca imaginé.",
+      "audio": "canciones/audio/si-tienes-fe.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-038",
+      "titulo": "Sigue habiendo",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Sigue habiendo tantos pies que lavar.\nSigue habiendo tanta oscuridad que iluminar,\ntantas cadenas que romper.\nPan y vino para el pobre quiero ser,\n(Fortalece, Señor, mi poca fe.)",
+      "audio": "canciones/audio/sigue-habiendo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-039",
+      "titulo": "Te buscaré",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "TE BUSCARÉ EN LAS CALLES AL PASAR,\nME ENCONTRARÉ CONTIGO EN QUIEN NO ESPERE.\nY AL VIVIR, LA VIDA QUE ME DES\nNUNCA SERÁ AJENA A ESE QUE HALLÉ.\n\nTE PEDIRÉ QUE SEPA UNIRME A TI\nEN CADA SER QUE EL MUNDO HA DESPRECIADO.\nY JAMÁS SE ME PODRÁ OLVIDAR\nQUE EN TODOS DIOS PRESENTE Y VIVO ESTÁ.",
+      "audio": "canciones/audio/te-buscare.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-040",
+      "titulo": "Surge valentía",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Hoy acepto seguirte\nDejar viejas certezas atrás\nArriesgar mis verdades, abrazar la inquietud\nIr más allá\n\nTus brazos extendidos Marcan el horizonte al final\nEncuentro tu mirada Escapo del temor\nQue me ancla en mi barca\n\nPero dudo y espero\nQue el viento sople menos, que el sol alumbre más\n\nSURGE VALENTÍA\nDISIPA LAS DUDAS DE ESTE CORAZÓN\nQUE TEME AL CRUZAR\nLAS FRONTERAS QUE LIMITAN LO CONOCIDO\nALLÁ MAR ADENTRO, SOBRE EL AGUA CAMINAR\n\nEn tus huellas mis pasos En tus manos la fuerza del mar\nComo tú quiero amar las miserias del mundo\nComo tú a mi debilidad\n\nPero dudo y espero\nQue el viento sople menos, que el sol alumbre más\n\nSURGE VALENTÍA…\n\nSURGE VALENTÍA\nY DESPUNTA EN MÍ TU MODO\nTUS HUELLAS, TUS LLAGAS, TU FORMA DE AMAR\nY CUANDO CANSADO PELIGRE TROPEZAR\n\nSurge valentía\nSurge valentía\nSurge valentía",
+      "audio": "canciones/audio/surge-valentia.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-041",
+      "titulo": "Tengo sed",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Mira que estoy a la puerta y llamo,\nestoy a la puerta de tu corazón de día y de noche.\nTe conozco como la palma de mi mano,\nconozco tus heridas, Yo las llevé antes que tú,\ny conozco sobre todo tu necesidad de amor.\n\nÁBRETE A MÍ, VEN A MÍ,\nTEN SED DE MÍ, DAME TU VIDA.\nCONFÍA EN MÍ, PÍDEME QUE ENTRE,\nQUE TOME TU SER Y LO HARÉ.\nTE PROMETO ANTE MI PADRE QUE HARÉ MILAGROS CONTIGO.\n\nTengo sed, tengo sed de amarte y de que me ames.\n¿Tienes sed?, te amo como nunca imaginaste.\nTengo sed, tengo sed de amarte y de que me ames,\nno hay nadie para Mí más importante.\n\nToda tu vida he deseado tu amor\ny tú te olvidas de Mí, te olvidas de Mí.\nBusco a cada momento tu corazón,\n¿te es difícil creer esto?, entonces mira la cruz,\nmira mi corazón traspasado por ti.\n\nVen a Mí, ven con tu deseo de ser amada,\nven a Mí, ábreme tu corazón ahora mismo más que antes.\nMírame que estoy a la puerta y llamo,\nábreme porque tengo sed de ti.",
+      "audio": "canciones/audio/tengo-sed.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-042",
+      "titulo": "Tuyo es el reino",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Tuyo es el Reino, tuyo el Poder\nTuya la Gloria, por siempre mi Rey.",
+      "audio": "canciones/audio/tuyo-es-el-reino.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-043",
+      "titulo": "Tu servidor",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Con lo que soy vengo ante ti\nMi vida esta en tus manos, tómala\nTu sabes bien señor que soy obstáculo\nEn tu obra sin méritos ni fuerzas\n\nPero tu me has querido asociar\nPor amor a tu labor\nY tenerme siempre junto a ti\nSiempre juntos tu y yo señor\n\nYO QUIERO SER TU SERVIDOR\nYO QUIERO SER TU SERVIDOR\nESCLAVO QUE NO SABE LO QUE HACER\nSIN SU SEÑOR\n\nYO QUIERO SER TU SERVIDOR VIVIR TAN SOLO DE TU AMOR SENTIR LA SED DE ALMAS QUE ME INFUNDE TU CALOR\n\nQuieres contar con mi labor Pudiéndolo tu todo y nada yo Mira señor mi corazón y enciende en el El fuego que nace en tu presencia\n\nPero tu me has querido asociar Por amor a tu labor Y tenerme siempre junto a ti\nSiempre juntos tu y yo señor",
+      "audio": "canciones/audio/tu-servidor.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-044",
+      "titulo": "Tu voluntad",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Libre soy pues libre me hiciste y libre te he escogido hoy.\nLibre te doy cada don que me diste, para llevarte a donde voy.\n\nEn el lugar que me has preparado, no saben quién eres Tú.\nEllos jamás han estado a tu lado, no saben que es la plenitud.\n\nMI VOCACIÓN SE CONSTRUYE A TUS PIES, DIME QUÉ QUIERES DE MÍ\nY YO TE RESPONDERÉ\n\nEn tu presencia se prende mi vida, tu voz enciende el corazón.\nTus llagas sanan mi alma herida, tu luz me llena de valor.\nYa no me importa si es dura la lucha, siempre le sigue tu paz.\nHabla Señor que tu siervo escucha, hoy quiero hacer tu voluntad.",
+      "audio": "canciones/audio/tu-voluntad.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-045",
+      "titulo": "Un Segundo",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Si por un segundo vieras cómo te miro…\nCuando duermes cierras los ojos, Yo ahí sigo\nSe me cae la baba, imposible no mirar;\nno quiero dejar de hacerlo, no lo intentes imaginar\n\nSi por un segundo vieras cómo te escucho:\ncada ruido, cada palabra y cuando no hablas mucho;\ny hables o estés callado solo me importa si estás\nEn mi amor cabe el silencio, cabe hablar y mucho más\n\n¡REVIENTO DE AMOR! ESTOY TEMBLANDO DE GOZO\nDE CÓMO CON LA MIRADA ESTÁS AQUÍ Y NO ESTÁS SOLO\nCADA LÁGRIMA, CADA RISA EN MI MEMORIA SE HAN GRABADO:\nCADA DETALLE DE TU CUERPO Y DE TU ALMA FUERON PENSADOS\nNO CREO QUE AGUANTE MÁS CONTENERME AQUÍ DETRÁS,\nQUIERO ENTRAR A HACERTE MÍO, CURAR TU HERIDA SI ME LA DAS\nSI POR UN SEGUNDO VIERAS CÓMO TE MIRO, NO QUERRÍAS VER NADA MÁS\n\nSi por un segundo vieras cuánto te amo… Yo solo sé entregarme aunque sea en vano; y tiemblo al imaginar cuando llegues al Cielo, costará respirar en el abrazo que nos daremos\n\nSi por un segundo vieras lo que hay por llegar: lo que aguarda escondido, casualidades sin azar; ¡lo sueño tantas veces en cada don que puedo hacer! Tú recibes tu regalo, al Cielo miras a agradecer\n\n¡REVIENTO DE AMOR! ESTOY TEMBLANDO DE GOZO\nHAY TANTA LOCURA EN ESTE AMOR QUE NO CONTROLO\nPIERDE TU VIDA, RECIBIRÁS LA ETERNIDAD\nLA ALEGRÍA DE SER ESCLAVO, ESCLAVO DE MI LIBERTAD\nSI POR UN SEGUNDO VIERAS CÓMO TE MIRO, NO QUERRÍAS VER NADA MÁS",
+      "audio": "canciones/audio/un-segundo.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-046",
+      "titulo": "Ubi caritas",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Ubi caritas et amor, ubi caritas, Deus ibi est.",
+      "audio": "canciones/audio/ubi-caritas.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-047",
+      "titulo": "Ven y descánsate",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "VEN Y DESCÁNSATE\nVEN Y DESCÁNSATE EN DIOS, EN DIOS\n\nY deja que Dios sea Dios\ndeja que Dios sea Dios\nTú sólo adórale",
+      "audio": "canciones/audio/ven-y-descansate.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-048",
+      "titulo": "Vengo a adorarte",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Tú eres la luz que brilló en las tinieblas, abrió mis ojos, pude ver.\nMi corazón adora tu hermosura, esperanza de mi vida eres tú\n\nVENGO A ADORARTE, VENGO A POSTRARME,\nVENGO A DECIR QUE ERES MI DIOS.\nSOLO TÚ ERES GRANDE, SOLO TÚ ERES DIGNO\nERES ASOMBROSO PARA MÍ.\n\nTú eres el rey grandemente exaltado, glorioso por siempre, Señor.\nAl mundo que creaste humilde viviste, y pobre te hiciste por amor.",
+      "audio": "canciones/audio/vengo-a-adorarte.mp3",
+      "duracion": 0
+    },
+    {
+      "id": "adoracion-049",
+      "titulo": "Vengo aquí, mi Señor",
+      "artista": "",
+      "categoria": "Adoración",
+      "letra": "Vengo aquí, mi Señor, a olvidar las prisas de mi vida,\nahora sólo importas tú: dale tu paz a mi alma.\n\nVengo aquí, mi Señor, a encontrarme con tu paz que me serena,\nahora sólo importas tú: dale tu paz a mi alma.\n\nVengo aquí, mi Señor, a que en mí lo transformes todo en nuevo,\nahora sólo importas tú: dale tu paz a mi alma.",
+      "audio": "canciones/audio/vengo-aqui-mi-senor.mp3",
+      "duracion": 0
     }
   ]
 }
