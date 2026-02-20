@@ -117,6 +117,15 @@
       "autor": "Tradicional",
       "duracion": "1 min",
       "favorito": false
-    }
+    },
+{
+  "id": "hakuna",
+  "titulo": "Oración de los Solteros",
+  "categoria": "amor-y-vocacion",
+  "contenido": "Señor, pongo ahora en tus manos la persona de la que algún día me enamoraré, con quien compartiré mi vida entera. Te pido que le bendigas, le cuides y le ayudes.\n\nDonde quiera que ande, bendice su camino, conserva su ánimo, guía sus pasos, fortalece su corazón y muéstrale tu misericordia. No permitas que nada dañe su capacidad de amar. Aunque muy probablemente no le conozco todavía, llénalo de alegría y hazle generoso.\n\nA mí, ayúdame a ser mejor para hacerme más digno de estar a su lado; que sepa esperar hasta el día en que le conozca, que me prepare aprendiendo a amar a cada uno como necesita ser amado.\n\nEduca mi corazón para amar desinteresadamente. Que viva ahora el misterio de la sexualidad como merece ser vivido. Durante este tiempo de espera ayúdame a capacitarme para amar al cien por cien.\n\nBendícenos y llénanos de amor. Quiero vivir ya para él/ella pero, si no te importa, que la conozca pronto.\n\nAsí sea.",
+  "autor": "Hakuna",
+  "duracion": "3 min",
+  "favorito": false
+}
   ]
 }
