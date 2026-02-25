@@ -1,0 +1,56 @@
+{
+  "version": "1.2",
+  "ultima_actualizacion": "2026-02-16T10:00:00Z",
+  "noticias": [
+    {
+      "id": "noticia-fatima-2026",
+      "titulo": "¡Inscripciones abiertas para Fátima 2026!",
+      "descripcion": "Ya puedes inscribirte en la peregrinación a Fátima del 20 al 22 de febrero",
+      "contenido": "La Delegación Diocesana de Juventud de Córdoba organiza una nueva edición de la Peregrinación a Fátima. Este año nos desplazaremos del 20 al 22 de febrero a Portugal para vivir una experiencia de fe única en el Santuario de Nuestra Señora de Fátima.\n\n**Información importante:**\n- Fechas: 20-22 de febrero de 2026\n- Precio: 150€ (todo incluido)\n- Edad: Mayores de 18 años\n- Inscripciones hasta: 13 de febrero\n\nEl viaje incluye transporte en autobús, alojamiento, pensión completa y todas las actividades organizadas. ¡No te quedes sin tu plaza!",
+      "imagen": "peregrinaciones/images/fatima-2025-portada.jpg",
+      "categoria": "Peregrinaciones",
+      "fecha": "2026-02-10",
+      "autor": "Delegación de Juventud"
+    },
+    {
+      "id": "noticia-ejercicios-coraje-2026",
+      "titulo": "Ejercicios Espirituales Coraje 2026",
+      "descripcion": "Un encuentro profundo con el Señor adaptado a jóvenes de entre 16 y 35 años",
+      "contenido": "La Delegación de Juventud de Córdoba organiza una nueva edición de los **Ejercicios Espirituales Coraje**. Una experiencia de silencio, oración y acompañamiento para reorientar tu vida.\n\n{{block:info}}\n**¿Qué son los Coraje?**\nSon un retiro basado en el silencio y la oración personal, diseñado para experimentar la cercanía y el amor de Dios en carne propia.\n{{/block}}\n\n**Modalidades disponibles:**\n• **Coraje:** Para tu primer encuentro o profundizar.\n• **Coraje Plus:** {{color:accent}}Edición prolongada{{/color}} para quienes ya han vivido la experiencia anteriormente.\n\n**Información del encuentro:**\n{{icon:calendar}} **Próximamente en 2026**\n{{icon:location}} Casa de Espiritualidad San Antonio (Córdoba)\n{{icon:backpack}} Edad: de 16 a 35 años\n{{icon:schedule}} Incluye charlas, oración y acompañamiento personal\n\n{{block:warning}}\n**{{color:warning}}⚠️ Importante:{{/color}}**\nLas plazas son limitadas. Estate atento a nuestras redes para la apertura del formulario de preinscripción.\n{{/block}}\n\n{{icon:info}} Para más información: {{link:mailto:deleju@diocesisdecordoba.es}}Enviar consulta{{/link}}",
+      "imagen": "noticias/images/coraje2020.jpg",
+      "categoria": "Retiros",
+      "fecha": "2026-02-17",
+      "autor": "Delegación de Juventud"
+    },
+    {
+      "id": "noticia-guadalupe-2026",
+      "titulo": "Proceso Guadalupe XXXII",
+      "descripcion": "La peregrinación a Guadalupe celebra su edición número 32",
+      "contenido": "Este septiembre celebramos la XXXII edición de la Peregrinación a Guadalupe. Más de 500 jóvenes caminando juntos hacia el Monasterio de Guadalupe, donde la Virgen de Guadalupe nos espera.\n\n**Fechas confirmadas:** 5-7 de septiembre de 2026\n\nPróximamente abriremos las inscripciones. ¡Estate atento a nuestras redes sociales!",
+      "imagen": "noticias/images/guadalupe-2025.jpg",
+      "categoria": "Peregrinaciones",
+      "fecha": "2026-02-01",
+      "autor": "Delegación de Juventud"
+    },
+    {
+      "id": "noticia-convivencia-voluntarios",
+      "titulo": "Convivencia de voluntarios",
+      "descripcion": "Encuentro mensual para todos los voluntarios de la Delegación",
+      "contenido": "Todos los meses nos reunimos para formarnos, compartir experiencias y crecer como equipo. Si eres voluntario o quieres empezar a colaborar con nosotros, ¡te esperamos!\n\n**Próximo encuentro:**\n- Fecha: 22 de febrero de 2026\n- Lugar: Casa de la Iglesia\n- Hora: 18:00h",
+      "imagen": "noticias/images/convivencia-voluntarios.jpg",
+      "categoria": "Formación",
+      "fecha": "2026-02-14",
+      "autor": "Delegación de Juventud"
+    },
+    {
+      "id": "noticia-vigilia-inmaculada-2026",
+      "titulo": "Vigilia de la Inmaculada 2026",
+      "descripcion": "Celebración especial en la víspera de la fiesta de la Inmaculada Concepción",
+      "contenido": "Un año más, la juventud diocesana se reúne para celebrar la Vigilia de la Inmaculada en la Catedral de Córdoba. Una noche de oración, adoración eucarística y encuentro fraterno.\n\nLa vigilia comenzará a las 21:00h con la acogida y terminará aproximadamente a las 00:30h después de la procesión de antorchas por la ciudad.\n\n**Fecha:** 7 de diciembre de 2026",
+      "imagen": "noticias/images/vigilia-inmaculada.jpg",
+      "categoria": "Vigilias",
+      "fecha": "2026-02-01",
+      "autor": "Delegación de Juventud"
+    }
+  ]
+}

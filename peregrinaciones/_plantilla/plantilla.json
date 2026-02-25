@@ -1,0 +1,94 @@
+{
+  "_comentario": "PLANTILLA - Copia este archivo y renómbralo para crear una nueva peregrinación. Elimina este campo _comentario.",
+  
+  "id": "peregrinacion-NOMBRE-AÑO",
+  "tipo": "NOMBRE",
+  "titulo": "Peregrinación a [DESTINO] [AÑO]",
+  "subtitulo": "Frase corta y atractiva",
+  "descripcion": "Descripción corta para tarjetas (1-2 líneas).",
+  "descripcion_larga": "Descripción extensa con toda la información.\n\nPuedes usar \\n\\n para separar párrafos.\n\nExplica la historia, el significado, lo que vivirán los participantes, etc.",
+  
+  "imagen": "peregrinaciones/NOMBRE/images/general/portada.jpg",
+  
+  "fecha_inicio": "2026-MM-DD",
+  "fecha_fin": "2026-MM-DD",
+  
+  "precio": "XXX€",
+  "precio_detalle": "El precio incluye:\n• Item 1\n• Item 2\n• Item 3\n\nNo incluye:\n• Item 1",
+  
+  "inscripcion_abierta": false,
+  "plazas_disponibles": 100,
+  "formulario_inscripcion": "https://docs.google.com/forms/d/e/XXXXX/viewform",
+  
+  "destino": "Nombre del lugar de destino",
+  "punto_salida": "Lugar de concentración y salida",
+  "punto_llegada": "Lugar exacto de llegada",
+  
+  "video_youtube": "https://youtu.be/VIDEO_ID",
+  "video_titulo": "Título del vídeo",
+  
+  "imagenes_galeria": [
+    "peregrinaciones/NOMBRE/images/general/imagen1.jpg",
+    "peregrinaciones/NOMBRE/images/general/imagen2.jpg"
+  ],
+  
+  "programa_dias": [
+    {
+      "dia": 1,
+      "titulo": "Día 1 - Título descriptivo",
+      "fecha": "DD de mes",
+      "descripcion": "Breve descripción de lo que se hará este día.",
+      "km_aproximados": 30,
+      "actividades": [
+        {
+          "hora": "07:00",
+          "titulo": "Nombre de la actividad",
+          "descripcion": "Descripción de lo que se hace.",
+          "icono": "groups"
+        },
+        {
+          "hora": "08:00",
+          "titulo": "Segunda actividad",
+          "descripcion": "Descripción.",
+          "icono": "directions_walk"
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "titulo": "Día 2 - Título",
+      "fecha": "DD de mes",
+      "descripcion": "Descripción del día.",
+      "actividades": [
+        {
+          "hora": "07:00",
+          "titulo": "Actividad",
+          "descripcion": "Descripción.",
+          "icono": "wb_sunny"
+        }
+      ]
+    }
+  ],
+  
+  "que_llevar": [
+    "Item obligatorio 1",
+    "Item obligatorio 2",
+    "Item recomendado 1",
+    "Item recomendado 2"
+  ],
+  
+  "informacion_adicional": "Información importante que no encaja en otros campos: requisitos de edad, condiciones físicas, normas de convivencia, política de cancelaciones, etc.",
+  
+  "contacto_nombre": "Nombre del responsable",
+  "contacto_telefono": "600000000",
+  "contacto_email": "email@diocesisdecordoba.com",
+  
+  "ediciones_anteriores": [
+    {
+      "anio": "2025",
+      "participantes": 100,
+      "descripcion_breve": "Breve descripción de cómo fue esa edición.",
+      "imagen": "peregrinaciones/NOMBRE/images/2025/grupo.jpg"
+    }
+  ]
+}

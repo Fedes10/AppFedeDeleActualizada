@@ -1,0 +1,53 @@
+{
+  "version": "1.1",
+  "ultima_actualizacion": "2026-02-17",
+  "header": {
+    "titulo": "Delegación Diocesana de Juventud",
+    "subtitulo": "Diócesis de Córdoba, España",
+    "version_app": "1.0.0",
+    "imagen": "about/acerca_de_delegados.png",
+    "imagen_url": "https://raw.githubusercontent.com/Fedes10/AppFedeDeleActualizada/main/about/acerca_de_delegados.png",
+    "lema": "Desarrollo con Corazón para la Juventud Cordobesa"
+  },
+  "web": "https://delejuventudcordoba.com",
+  "obispo": {
+    "seccion_titulo": "Nuestro Pastor",
+    "cargo": "Obispo de Córdoba",
+    "nombre": "Don Jesús",
+    "icono": "ic_church",
+    "foto": "about/obispo.png",
+    "sobre_mi": "about/sobre-mi/obispo.json"
+  },
+  "delegados": {
+    "seccion_titulo": "Delegados de Juventud",
+    "personas": [
+      {
+        "id": "delegado-1",
+        "cargo": "Delegado",
+        "nombre": "D. Álvaro Fernández-Martos Yáñez",
+        "foto": "about/delegado-alvaro.png",
+        "sobre_mi": "about/sobre-mi/cura-delegado1.json"
+      },
+      {
+        "id": "delegado-2",
+        "cargo": "Delegado",
+        "nombre": "D. Pablo Fernández de la Puebla Lechuga",
+        "foto": "about/delegado-pablo.png",
+        "sobre_mi": "about/sobre-mi/cura-delegado2.json"
+      }
+    ]
+  },
+  "diacono": {
+    "seccion_titulo": "Diácono",
+    "cargo": "Diácono",
+    "nombre": "D. Francisco Fernández Calero",
+    "foto": "about/diacono-francisco.png",
+    "sobre_mi": "about/sobre-mi/diacono.json"
+  },
+  "mision": {
+    "seccion_titulo": "Nuestra Misión",
+    "descripcion": "Acompañar a los jóvenes en su camino de fe, ofreciendo experiencias de encuentro con Dios a través de peregrinaciones, formación y comunidad."
+  }
+}
+
+

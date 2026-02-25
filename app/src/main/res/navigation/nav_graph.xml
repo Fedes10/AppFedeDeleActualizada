@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.delefede.ui.home.HomeFragment"
+        android:label="Inicio"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/deleFragment"
+        android:name="com.example.delefede.ui.dele.DeleFragment"
+        android:label="La Dele"
+        tools:layout="@layout/fragment_dele">
+        <action
+            android:id="@+id/action_deleFragment_to_leerCancionFragment"
+            app:destination="@id/leerCancionFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/fade_out" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/guadalupeFragment"
+        android:name="com.example.delefede.ui.guadalupe.GuadalupeFragment"
+        android:label="¡Ven a Guadalupe!"
+        tools:layout="@layout/fragment_guadalupe" />
+
+    <fragment
+        android:id="@+id/fatimaFragment"
+        android:name="com.example.delefede.ui.fatima.FatimaFragment"
+        android:label="¡Hacia Fátima 2026!"
+        tools:layout="@layout/fragment_fatima" />
+
+    <fragment
+        android:id="@+id/inmaculadaFragment"
+        android:name="com.example.delefede.ui.inmaculada.InmaculadaFragment"
+        android:label="Inmaculada"
+        tools:layout="@layout/fragment_inmaculada" />
+
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="com.example.delefede.ui.contact.ContactFragment"
+        android:label="Contacto"
+        tools:layout="@layout/fragment_contact" />
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.delefede.ui.about.AboutFragment"
+        android:label="Acerca de"
+        tools:layout="@layout/fragment_about" />
+
+
+    <fragment
+        android:id="@+id/leerCancionFragment"
+        android:name="com.example.delefede.ui.dele.LeerCancionFragment"
+        android:label="Modo Lectura"
+        tools:layout="@layout/fragment_leer_cancion" />
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.delefede.ui.login.LoginFragment"
+        android:label="Login / Registro"
+        tools:layout="@layout/fragment_login" />
+
+</navigation>

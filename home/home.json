@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-02-11",
+  "saludo": {
+    "buenos_dias": "¡Buenos días!",
+    "buenas_tardes": "¡Buenas tardes!",
+    "buenas_noches": "¡Buenas noches!",
+    "titulo": "Bienvenido a La Dele"
+  },
+  "frase_dia": {
+    "mostrar": true,
+    "icono": "ic_cross",
+    "frases": [
+      "\"He venido para servir, no para ser servido\"",
+      "\"Amaos los unos a los otros como yo os he amado\"",
+      "\"No tengas miedo, yo estoy contigo\"",
+      "\"Venid a mí todos los que estáis cansados\"",
+      "\"Yo soy el camino, la verdad y la vida\""
+    ]
+  },
+  "accesos_rapidos": {
+    "titulo": "Accesos rápidos",
+    "items": [
+      {
+        "id": "canciones",
+        "nombre": "Canciones",
+        "icono": "ic_music_note",
+        "color": "#9C27B0",
+        "destino": "dele"
+      },
+      {
+        "id": "oraciones",
+        "nombre": "Oraciones",
+        "icono": "ic_book",
+        "color": "#4CAF50",
+        "destino": "oraciones"
+      },
+      {
+        "id": "noticias",
+        "nombre": "Noticias",
+        "icono": "ic_article",
+        "color": "#2196F3",
+        "destino": "noticias"
+      },
+      {
+        "id": "contacto",
+        "nombre": "Contacto",
+        "icono": "ic_contact_phone",
+        "color": "#FF9800",
+        "destino": "contact"
+      }
+    ]
+  },
+  "noticias_recientes": {
+    "titulo": "Noticias Recientes",
+    "ver_todas": "Ver todas",
+    "cantidad_mostrar": 5
+  },
+  "iglesia_joven": {
+    "titulo": "Iglesia Joven",
+    "mostrar_carrusel": true,
+    "intervalo_segundos": 5,
+    "usar_imagenes_noticias": true
+  },
+  "calendario": {
+    "titulo": "Calendario",
+    "icono": "ic_calendar_month",
+    "mostrar_boton": true
+  }
+}

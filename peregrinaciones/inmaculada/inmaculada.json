@@ -1,0 +1,101 @@
+{
+  "id": "peregrinacion-inmaculada-2026",
+  "tipo": "inmaculada",
+  "titulo": "Peregrinación a la Inmaculada 2026",
+  "subtitulo": "Celebra con nosotros a la Patrona de España",
+  "descripcion": "Peregrinación urbana por las calles de Córdoba en la Solemnidad de la Inmaculada Concepción, patrona de España.",
+  "descripcion_larga": "Cada 8 de diciembre, la Iglesia celebra la Solemnidad de la Inmaculada Concepción de María. En España, este día es fiesta nacional, ya que la Inmaculada es patrona de nuestro país.\n\nLa Delegación de Juventud de Córdoba organiza una peregrinación especial por las calles de nuestra ciudad, culminando en una celebración festiva. Es una jornada de oración, fraternidad y alegría mariana en el corazón de Córdoba.\n\nUna oportunidad perfecta para quienes no pueden participar en peregrinaciones más largas, o para quienes quieren vivir la fe en comunidad sin salir de la ciudad.",
+  
+  "imagen": "peregrinaciones/inmaculada/images/general/portada.jpg",
+  
+  "fecha_inicio": "2026-12-08",
+  "fecha_fin": "2026-12-08",
+  
+  "precio": "Gratuito",
+  "precio_detalle": "Actividad gratuita. Cada participante trae su propia comida/merienda si se queda todo el día.",
+  
+  "inscripcion_abierta": false,
+  "plazas_disponibles": 200,
+  "formulario_inscripcion": "",
+  
+  "destino": "Basílica de Nuestra Señora de la Inmaculada, Córdoba",
+  "punto_salida": "Parroquia de punto de encuentro (por confirmar)",
+  "punto_llegada": "Plaza de la Inmaculada, Córdoba",
+  
+  "video_youtube": "",
+  "video_titulo": "",
+  
+  "imagenes_galeria": [
+    "peregrinaciones/inmaculada/images/general/inmaculada_01.jpg",
+    "peregrinaciones/inmaculada/images/general/procesion.jpg"
+  ],
+  
+  "programa_dias": [
+    {
+      "dia": 1,
+      "titulo": "8 de diciembre - Solemnidad de la Inmaculada",
+      "fecha": "8 de diciembre",
+      "descripcion": "Jornada completa de celebración en honor a la Inmaculada Concepción.",
+      "actividades": [
+        {
+          "hora": "10:00",
+          "titulo": "Concentración",
+          "descripcion": "Encuentro en el punto de salida.",
+          "icono": "groups"
+        },
+        {
+          "hora": "10:30",
+          "titulo": "Inicio de la peregrinación",
+          "descripcion": "Caminamos por las calles de Córdoba rezando y cantando.",
+          "icono": "directions_walk"
+        },
+        {
+          "hora": "12:00",
+          "titulo": "Llegada y Santa Misa",
+          "descripcion": "Eucaristía solemne en honor a la Inmaculada.",
+          "icono": "church"
+        },
+        {
+          "hora": "13:30",
+          "titulo": "Convivencia",
+          "descripcion": "Tiempo de fraternidad, comida compartida y actividades.",
+          "icono": "celebration"
+        },
+        {
+          "hora": "16:00",
+          "titulo": "Rosario y consagración",
+          "descripcion": "Rezo del Rosario y acto de consagración a la Virgen.",
+          "icono": "church"
+        },
+        {
+          "hora": "17:00",
+          "titulo": "Despedida",
+          "descripcion": "Fin de la jornada.",
+          "icono": "groups"
+        }
+      ]
+    }
+  ],
+  
+  "que_llevar": [
+    "Ropa cómoda y de abrigo (diciembre puede ser frío)",
+    "Calzado cómodo para caminar",
+    "Comida para compartir (opcional)",
+    "Alegría y ganas de celebrar"
+  ],
+  
+  "informacion_adicional": "Actividad abierta a todas las edades. Los menores deben ir acompañados de adulto responsable. Más información en noviembre de 2026.",
+  
+  "contacto_nombre": "Delegación de Juventud",
+  "contacto_telefono": "957479879",
+  "contacto_email": "juventud@diocesisdecordoba.com",
+  
+  "ediciones_anteriores": [
+    {
+      "anio": "2025",
+      "participantes": 150,
+      "descripcion_breve": "Día soleado y frío que nos permitió disfrutar de una jornada preciosa.",
+      "imagen": "peregrinaciones/inmaculada/images/2025/grupo.jpg"
+    }
+  ]
+}

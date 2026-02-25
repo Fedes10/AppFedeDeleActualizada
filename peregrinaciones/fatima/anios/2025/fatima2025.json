@@ -1,0 +1,256 @@
+{
+  "id": "peregrinacion-fatima-2025",
+  "tipo": "fatima",
+  "titulo": "Peregrinación a Fátima 2025",
+  "subtitulo": "Un fin de semana con María",
+  "descripcion": "Fin de semana de peregrinación al Santuario de Fátima. Del 20 al 22 de febrero de 2025.",
+  "descripcion_larga": "La Peregrinación a Fátima es una experiencia de fe que transforma. Un fin de semana para encontrarte con María en el Santuario donde se apareció a los tres pastorcitos en 1917.\n\nNo es una peregrinación caminando, viajamos en autobús para poder disfrutar de un programa completo: visita a la Virgen, Vía Crucis, adoración, confesiones, procesión de las antorchas, encuentros y diálogos...\n\nEl Santuario de Fátima es uno de los centros de peregrinación mariana más importantes del mundo. Te invitamos a vivir esta experiencia única. ¡María te espera!",
+  
+  "imagen": "peregrinaciones/fatima/images/general/portada.jpg",
+  
+  "colores": {
+    "primario": "#2196F3",
+    "primario_claro": "#64B5F6",
+    "primario_oscuro": "#1976D2",
+    "secundario": "#FFC107",
+    "acento": "#FF5722",
+    "fondo": "#E3F2FD",
+    "fondo_card": "#FFFFFF",
+    "texto_sobre_primario": "#FFFFFF",
+    "gradiente_inicio": "#2196F3",
+    "gradiente_fin": "#1565C0"
+  },
+  
+  "fecha_inicio": "2025-02-20",
+  "fecha_fin": "2025-02-22",
+  
+  "precio": "150€",
+  "precio_detalle": "**{{color:success}}Incluido:{{/color}}**\n{{icon:check}} Transporte en autobús desde Córdoba\n{{icon:check}} Alojamiento en albergue (sábanas y toallas incluidas)\n{{icon:check}} Todas las comidas excepto almuerzo del viernes\n\n**{{color:error}}No incluido:{{/color}}**\n{{icon:close}} Almuerzo viernes 20 (traer de casa)\n{{icon:close}} Gastos personales\n\n{{block:warning}}\n{{icon:warning}} **Solo mayores de edad (+18)**\n{{/block}}",
+  
+  "inscripcion_abierta": false,
+  "inscripcion_estado": "{{badge:error}}CERRADAS{{/badge}}",
+  "inscripcion_mensaje": "El plazo finalizó el viernes 13 de febrero",
+  "inscripcion_apertura": "2025-01-10",
+  "inscripcion_cierre": "2025-02-13",
+  "inscripcion_cierre_original": "2025-02-10",
+  "inscripcion_nota": "Ampliamos plazo hasta el viernes 13 de febrero",
+  "requisitos": ["Ser mayor de edad (+18)"],
+  "plazas_disponibles": 0,
+  "plazas_totales": 50,
+  "plazas_limitadas": true,
+  "formulario_inscripcion": "https://docs.google.com/forms/d/e/1FAIpQLSeL1wpORstKiwk7uCJ7SF-3lDMfijZgkjmhdzCasQ_cmH10aw/closedform",
+  
+  "destino": "Santuario de Fátima, Portugal",
+  "punto_salida": "El Arenal, Córdoba",
+  "punto_llegada": "Santuario de Nuestra Señora de Fátima",
+  
+  "video_youtube": "https://youtu.be/zr-E6a_BRCk",
+  "video_titulo": "Peregrinación a Fátima - Vive la experiencia",
+  
+  "imagenes_galeria": [
+    "peregrinaciones/fatima/images/general/santuario_01.jpg",
+    "peregrinaciones/fatima/images/general/santuario_02.jpg",
+    "peregrinaciones/fatima/images/general/capelinha.jpg",
+    "peregrinaciones/fatima/images/2025/grupo.jpg",
+    "peregrinaciones/fatima/images/2025/procesion.jpg"
+  ],
+  
+  "programa_dias": [
+    {
+      "dia": 1,
+      "titulo": "Viernes 20",
+      "fecha": "20 de febrero de 2025",
+      "descripcion": "Viaje a Fátima, llegada al santuario y primera visita a la Virgen.",
+      "actividades": [
+        {
+          "hora": "05:30",
+          "titulo": "Salida en buses desde el Arenal",
+          "descripcion": "Punto de encuentro en El Arenal, Córdoba. ¡Puntualidad!",
+          "icono": "directions_bus"
+        },
+        {
+          "hora": "12:00",
+          "titulo": "Llegada a Fátima",
+          "descripcion": "Llegada al Santuario y distribución en alojamientos.",
+          "icono": "flag"
+        },
+        {
+          "hora": "13:00",
+          "titulo": "Visita a la Virgen",
+          "descripcion": "Primer encuentro con la Virgen de Fátima en la Capelinha.",
+          "icono": "church"
+        },
+        {
+          "hora": "15:15",
+          "titulo": "Salida para Comunidad Cenáculo",
+          "descripcion": "Visita a la Comunidad Cenáculo.",
+          "icono": "directions_bus"
+        },
+        {
+          "hora": "19:15",
+          "titulo": "Misa en la Capellina",
+          "descripcion": "Celebración de la Eucaristía en la Capelinha de las Apariciones.",
+          "icono": "church"
+        },
+        {
+          "hora": "20:00",
+          "titulo": "Cena",
+          "descripcion": "Cena en el albergue.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "22:30",
+          "titulo": "Velada, Compartir",
+          "descripcion": "Momento de convivencia y compartir en grupo.",
+          "icono": "groups"
+        },
+        {
+          "hora": "00:00",
+          "titulo": "Cierre de alojamientos",
+          "descripcion": "Descanso.",
+          "icono": "hotel"
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "titulo": "Sábado 21",
+      "fecha": "21 de febrero de 2025",
+      "descripcion": "Día completo en el santuario: Vía Crucis, adoración, confesiones y procesión de las antorchas.",
+      "actividades": [
+        {
+          "hora": "08:00",
+          "titulo": "Desayuno",
+          "descripcion": "Desayuno en el albergue.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "09:00",
+          "titulo": "Salida por grupos para el Vía Crucis",
+          "descripcion": "Recorrido del Vía Crucis en grupos.",
+          "icono": "directions_walk"
+        },
+        {
+          "hora": "12:30",
+          "titulo": "Regreso en Bus desde el pueblo de los Pastores",
+          "descripcion": "Regreso al santuario desde Aljustrel, el pueblo de los pastorcitos.",
+          "icono": "directions_bus"
+        },
+        {
+          "hora": "13:00",
+          "titulo": "Almuerzo",
+          "descripcion": "Almuerzo en el albergue.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "15:30",
+          "titulo": "Encuentro y diálogo",
+          "descripcion": "Tiempo de reflexión y diálogo en grupo.",
+          "icono": "groups"
+        },
+        {
+          "hora": "18:15",
+          "titulo": "Adoración y Confesiones",
+          "descripcion": "Tiempo de adoración al Santísimo y posibilidad de confesarse.",
+          "icono": "church"
+        },
+        {
+          "hora": "19:15",
+          "titulo": "Misa",
+          "descripcion": "Celebración de la Eucaristía.",
+          "icono": "church"
+        },
+        {
+          "hora": "20:00",
+          "titulo": "Cena",
+          "descripcion": "Cena en el albergue.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "21:30",
+          "titulo": "Rosario y Procesión de las antorchas",
+          "descripcion": "La famosa procesión de las antorchas en la explanada del santuario.",
+          "icono": "celebration"
+        },
+        {
+          "hora": "22:30",
+          "titulo": "Alabanza",
+          "descripcion": "Momento de alabanza y oración.",
+          "icono": "music_note"
+        },
+        {
+          "hora": "00:00",
+          "titulo": "Cierre de alojamientos",
+          "descripcion": "Descanso.",
+          "icono": "hotel"
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "titulo": "Domingo 22",
+      "fecha": "22 de febrero de 2025",
+      "descripcion": "Últimas horas en Fátima y regreso a Córdoba.",
+      "actividades": [
+        {
+          "hora": "08:00",
+          "titulo": "Misa",
+          "descripcion": "Celebración de la Eucaristía dominical.",
+          "icono": "church"
+        },
+        {
+          "hora": "09:00",
+          "titulo": "Desayuno",
+          "descripcion": "Desayuno en el albergue.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "10:30",
+          "titulo": "Encuentro y diálogo",
+          "descripcion": "Último encuentro del fin de semana.",
+          "icono": "groups"
+        },
+        {
+          "hora": "13:30",
+          "titulo": "Almuerzo",
+          "descripcion": "Última comida antes de partir.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "14:30",
+          "titulo": "Salida para Córdoba",
+          "descripcion": "Regreso a casa. ¡Hasta la próxima!",
+          "icono": "directions_bus"
+        }
+      ]
+    }
+  ],
+  
+  "que_llevar": [
+    "🥪 Almuerzo para el viernes (las demás comidas están incluidas)",
+    "🌧️ Chubasquero o paraguas",
+    "👟 Calzado cómodo",
+    "👕 Ropa normal (no se va a caminar en peregrinación)",
+    "🧴 Neceser (el albergue incluye sábanas y toallas)",
+    "💊 Medicación personal (si la usas, no la olvides y hazlo saber a la organización)",
+    "📋 D.N.I.",
+    "💳 Tarjeta Sanitaria Europea",
+    "¡¡¡LO PRINCIPAL!!! Lleva el corazón abierto, va a ser un fin de semana inolvidable"
+  ],
+  
+  "informacion_adicional": "{{block:info}}\n**{{color:primary}}Importante:{{/color}}**\n{{icon:check}} El albergue incluye sábanas y toallas, no hace falta llevar\n{{icon:check}} El albergue dispone de duchas individuales\n{{icon:bus}} No es una peregrinación caminando, viajamos en autobús\n{{icon:medical}} Si usas medicación, avisa a la organización\n{{/block}}",
+  
+  "contacto_nombre": "Delegación de Juventud",
+  "contacto_telefono": "957479879",
+  "contacto_email": "juventud@diocesisdecordoba.com",
+  
+  "ediciones_anteriores": [
+    {
+      "anio": "2025",
+      "participantes": 60,
+      "descripcion_breve": "Fin de semana muy especial con la procesión de las antorchas como momento cumbre.",
+      "imagen": "peregrinaciones/fatima/images/2025/grupo.jpg"
+    }
+  ]
+}
+

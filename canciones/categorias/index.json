@@ -1,0 +1,14 @@
+﻿{
+  "version": "1",
+  "categorias": [
+    {"archivo": "01_entrada.json", "id": "entrada"},
+    {"archivo": "02_kyrie.json", "id": "kyrie"},
+    {"archivo": "03_aleluya.json", "id": "aleluya"},
+    {"archivo": "04_ofertorio.json", "id": "ofertorio"},
+    {"archivo": "05_santo.json", "id": "santo"},
+    {"archivo": "06_cordero.json", "id": "cordero"},
+    {"archivo": "07_comunion.json", "id": "comunion"},
+    {"archivo": "08_virgen.json", "id": "virgen"},
+    {"archivo": "09_adoracion.json", "id": "adoracion"}
+  ]
+}

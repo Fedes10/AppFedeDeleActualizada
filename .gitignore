@@ -1,0 +1,23 @@
+
+# Archivos y carpetas de Android Studio a ignorar
+.idea/
+*.iml
+.gradle/
+build/
+app/build/
+app/.cxx/
+local.properties
+.DS_Store
+*.log
+*.tmp
+# Archivos de sistema
+Thumbs.db
+# Archivos de configuración de entorno
+*.keystore
+# Archivos de caché de Gradle
+captures/
+.externalNativeBuild/
+.cxx/
+# Otros
+*.apk
+*.ap_

@@ -1,0 +1,46 @@
+{
+  "version": "2",
+  "ultima_actualizacion": "2026-02-16",
+  "descripcion": "Índice de todas las peregrinaciones disponibles. La app usa este archivo para saber qué peregrinaciones cargar.",
+  "peregrinaciones": [
+    {
+      "id": "fatima",
+      "nombre": "Peregrinación a Fátima",
+      "nombre_corto": "Fátima",
+      "archivo": "fatima/fatima.json",
+      "activa": true,
+      "destacada": true,
+      "orden": 1,
+      "icono": "🇵🇹",
+      "color": "#1976D2"
+    },
+    {
+      "id": "guadalupe",
+      "nombre": "Peregrinación a Guadalupe",
+      "nombre_corto": "Guadalupe",
+      "archivo": "guadalupe/guadalupe.json",
+      "activa": true,
+      "destacada": false,
+      "orden": 2,
+      "icono": "🏛️",
+      "color": "#388E3C"
+    },
+    {
+      "id": "inmaculada",
+      "nombre": "Peregrinación a la Inmaculada",
+      "nombre_corto": "Inmaculada",
+      "archivo": "inmaculada/inmaculada.json",
+      "activa": true,
+      "destacada": false,
+      "orden": 3,
+      "icono": "⛪",
+      "color": "#7B1FA2"
+    }
+  ],
+  "notas": {
+    "activa": "Si es false, la peregrinación no se muestra en la app",
+    "destacada": "Si es true, aparece en la sección destacada del home",
+    "orden": "Orden de aparición en listados (menor = primero)",
+    "archivo": "Ruta relativa al JSON de datos de la peregrinación"
+  }
+}

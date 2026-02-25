@@ -1,0 +1,20 @@
+{
+  "id": "diacono",
+  "tipo": "diacono",
+  "nombre": "Diácono",
+  "cargo": "Diácono de la Diocesis",
+  "foto": "about/sobre-mi/images/diacono.jpg",
+  "correo": "diacono@diocesiscordoba.es",
+  "telefono": "+34 957 XXXXXX",
+  "biografia": "Bienvenida a la sección 'Sobre Mí' del Diácono.\n\nSu vida y vocación...\n\nHistoria de su camino diaconal...\n\n[Editar esta biografía con los datos reales del diácono]",
+  "redes_sociales": {
+    "whatsapp": "+34 XXXXXXXXX",
+    "email": "diacono@diocesiscordoba.es",
+    "instagram": "@diacono_dele"
+  },
+  "mision": "Servir a la comunidad joven desde el diaconado permanente.",
+  "fecha_ingreso": "2026-02-01",
+  "especialidad": "Servicio comunitario",
+  "estado_civil": "Casado",
+  "notas": "Diácono Asistente de La Dele"
+}

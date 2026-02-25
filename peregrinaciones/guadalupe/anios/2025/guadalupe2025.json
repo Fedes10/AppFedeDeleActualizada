@@ -1,0 +1,147 @@
+{
+  "id": "peregrinacion-guadalupe-2025",
+  "tipo": "guadalupe",
+  "titulo": "Peregrinación a Guadalupe 2025",
+  "subtitulo": "Hacia el corazón de Extremadura",
+  "descripcion": "Peregrinación al Real Monasterio de Guadalupe, Patrimonio de la Humanidad y centro de devoción mariana en Extremadura.",
+  "descripcion_larga": "El Real Monasterio de Santa María de Guadalupe es uno de los santuarios marianos más importantes de España. Declarado Patrimonio de la Humanidad por la UNESCO, este impresionante monasterio ha sido lugar de peregrinación durante siglos.\n\nLa imagen de la Virgen de Guadalupe, patrona de Extremadura, atrae a fieles de toda España. Para la Delegación de Juventud de Córdoba, esta peregrinación representa una oportunidad de conectar con la tradición mariana de las tierras vecinas.\n\nEl camino nos lleva por paisajes de dehesa extremeña, entre encinas y alcornoques, hasta llegar al pueblo de Guadalupe, enclavado en las montañas de las Villuercas.",
+  
+  "imagen": "peregrinaciones/guadalupe/images/general/portada.jpg",
+  
+  "fecha_inicio": "2025-10-10",
+  "fecha_fin": "2025-10-12",
+  
+  "precio": "120€",
+  "precio_detalle": "El precio incluye:\n• Transporte en autobús\n• Alojamiento\n• Todas las comidas\n• Seguro\n\nNo incluye:\n• Gastos personales",
+  
+  "inscripcion_abierta": false,
+  "plazas_disponibles": 80,
+  "formulario_inscripcion": "",
+  
+  "destino": "Real Monasterio de Guadalupe, Cáceres",
+  "punto_salida": "Córdoba",
+  "punto_llegada": "Real Monasterio de Santa María de Guadalupe",
+  
+  "video_youtube": "",
+  "video_titulo": "",
+  
+  "imagenes_galeria": [
+    "peregrinaciones/guadalupe/images/general/monasterio_01.jpg",
+    "peregrinaciones/guadalupe/images/general/monasterio_02.jpg",
+    "peregrinaciones/guadalupe/images/general/virgen.jpg"
+  ],
+  
+  "programa_dias": [
+    {
+      "dia": 1,
+      "titulo": "Día 1 - Salida desde Córdoba",
+      "fecha": "10 de octubre",
+      "descripcion": "Viaje e inicio de la caminata hacia Guadalupe.",
+      "actividades": [
+        {
+          "hora": "07:00",
+          "titulo": "Salida desde Córdoba",
+          "descripcion": "Concentración y salida en autobús.",
+          "icono": "directions_bus"
+        },
+        {
+          "hora": "10:00",
+          "titulo": "Llegada al punto de inicio",
+          "descripcion": "Comenzamos la caminata.",
+          "icono": "directions_walk"
+        },
+        {
+          "hora": "14:00",
+          "titulo": "Almuerzo",
+          "descripcion": "Parada para comer.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "20:00",
+          "titulo": "Llegada al alojamiento",
+          "descripcion": "Cena y descanso.",
+          "icono": "hotel"
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "titulo": "Día 2 - Camino hacia Guadalupe",
+      "fecha": "11 de octubre",
+      "descripcion": "Jornada completa de caminata por la dehesa extremeña.",
+      "actividades": [
+        {
+          "hora": "07:00",
+          "titulo": "Desayuno y salida",
+          "descripcion": "Comenzamos el segundo día.",
+          "icono": "wb_sunny"
+        },
+        {
+          "hora": "19:00",
+          "titulo": "Llegada a Guadalupe",
+          "descripcion": "Llegamos al pueblo y nos instalamos.",
+          "icono": "flag"
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "titulo": "Día 3 - Monasterio y regreso",
+      "fecha": "12 de octubre",
+      "descripcion": "Visita al Monasterio, Misa y regreso a Córdoba.",
+      "actividades": [
+        {
+          "hora": "10:00",
+          "titulo": "Visita al Monasterio",
+          "descripcion": "Recorrido guiado por el Real Monasterio.",
+          "icono": "church"
+        },
+        {
+          "hora": "12:00",
+          "titulo": "Santa Misa",
+          "descripcion": "Eucaristía ante la Virgen de Guadalupe.",
+          "icono": "church"
+        },
+        {
+          "hora": "14:00",
+          "titulo": "Almuerzo y tiempo libre",
+          "descripcion": "Comida y paseo por el pueblo.",
+          "icono": "restaurant"
+        },
+        {
+          "hora": "17:00",
+          "titulo": "Regreso a Córdoba",
+          "descripcion": "Viaje de vuelta.",
+          "icono": "directions_bus"
+        }
+      ]
+    }
+  ],
+  
+  "que_llevar": [
+    "DNI",
+    "Mochila de montaña",
+    "Calzado cómodo de trekking",
+    "Ropa de abrigo (octubre puede ser fresco)",
+    "Chubasquero",
+    "Cantimplora",
+    "Protector solar",
+    "Medicación personal"
+  ],
+  
+  "informacion_adicional": "Las inscripciones se abrirán en septiembre de 2025. Más información próximamente.",
+  
+  "contacto_nombre": "Delegación de Juventud",
+  "contacto_telefono": "957479879",
+  "contacto_email": "juventud@diocesisdecordoba.com",
+  
+  "ediciones_anteriores": [
+    {
+      "anio": "2025",
+      "participantes": 75,
+      "descripcion_breve": "Edición con buen tiempo y paisajes otoñales espectaculares.",
+      "imagen": "peregrinaciones/guadalupe/images/2025/grupo.jpg"
+    }
+  ]
+}
+
