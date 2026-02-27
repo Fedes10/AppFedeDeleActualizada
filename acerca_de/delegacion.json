@@ -15,7 +15,7 @@
     "cargo": "Obispo de Córdoba",
     "nombre": "Don Jesús",
     "icono": "ic_church",
-    "foto": "acerca_de/obispo.png",
+    "foto": "images/obispo.jpg",
     "sobre_mi": "acerca_de/sobre-mi/obispo.json"
   },
   "delegados": {
@@ -25,14 +25,14 @@
         "id": "delegado-1",
         "cargo": "Delegado",
         "nombre": "D. Álvaro Fernández-Martos Yáñez",
-        "foto": "acerca_de/images/delegado-alvaro.png",
+        "foto": "images/cura-1.jpg",
         "sobre_mi": "acerca_de/sobre-mi/cura-delegado1.json"
       },
       {
         "id": "delegado-2",
         "cargo": "Delegado",
         "nombre": "D. Pablo Fernández de la Puebla Lechuga",
-        "foto": "acerca_de/images/delegado-pablo.png",
+        "foto": "images/cura-2.jpg",
         "sobre_mi": "acerca_de/sobre-mi/cura-delegado2.json"
       }
     ]
@@ -41,14 +41,14 @@
     "seccion_titulo": "Diácono",
     "cargo": "Diácono",
     "nombre": "D. Francisco Fernández Calero",
-    "foto": "acerca_de/images/diacono-francisco.png",
+    "foto": "images/diacono.jpg",
     "sobre_mi": "acerca_de/sobre-mi/diacono.json"
   },
   "mision": {
     "seccion_titulo": "Nuestra Misión",
     "descripcion": "Acompañar a los jóvenes en su camino de fe, ofreciendo experiencias de encuentro con Dios a través de peregrinaciones, formación y comunidad."
   },
-  "foto_voluntarios": "acerca_de/images/voluntarios.png"
+  "foto_voluntarios": "images/voluntarios.png"
 }
 
 
