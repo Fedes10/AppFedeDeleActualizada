@@ -5,7 +5,7 @@
     "titulo": "Delegación Diocesana de Juventud",
     "subtitulo": "Diócesis de Córdoba, España",
     "version_app": "1.0.0",
-    "imagen": "about/acerca_de_delegados.png",
+    "imagen": "acerca_de/acerca_de_delegados.png",
     "imagen_url": "https://raw.githubusercontent.com/Fedes10/AppFedeDeleActualizada/main/about/acerca_de_delegados.png",
     "lema": "Desarrollo por Él y para Él"
   },
@@ -15,8 +15,8 @@
     "cargo": "Obispo de Córdoba",
     "nombre": "Don Jesús",
     "icono": "ic_church",
-    "foto": "about/obispo.png",
-    "sobre_mi": "about/sobre-mi/obispo.json"
+    "foto": "acerca_de/obispo.png",
+    "sobre_mi": "acerca_de/sobre-mi/obispo.json"
   },
   "delegados": {
     "seccion_titulo": "Delegados de Juventud",
@@ -25,15 +25,15 @@
         "id": "delegado-1",
         "cargo": "Delegado",
         "nombre": "D. Álvaro Fernández-Martos Yáñez",
-        "foto": "about/delegado-alvaro.png",
-        "sobre_mi": "about/sobre-mi/cura-delegado1.json"
+        "foto": "acerca_de/delegado-alvaro.png",
+        "sobre_mi": "acerca_de/sobre-mi/cura-delegado1.json"
       },
       {
         "id": "delegado-2",
         "cargo": "Delegado",
         "nombre": "D. Pablo Fernández de la Puebla Lechuga",
-        "foto": "about/delegado-pablo.png",
-        "sobre_mi": "about/sobre-mi/cura-delegado2.json"
+        "foto": "acerca_de/delegado-pablo.png",
+        "sobre_mi": "acerca_de/sobre-mi/cura-delegado2.json"
       }
     ]
   },
@@ -41,8 +41,8 @@
     "seccion_titulo": "Diácono",
     "cargo": "Diácono",
     "nombre": "D. Francisco Fernández Calero",
-    "foto": "about/diacono-francisco.png",
-    "sobre_mi": "about/sobre-mi/diacono.json"
+    "foto": "acerca_de/diacono-francisco.png",
+    "sobre_mi": "acerca_de/sobre-mi/diacono.json"
   },
   "mision": {
     "seccion_titulo": "Nuestra Misión",
